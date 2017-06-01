@@ -1,0 +1,266 @@
+[
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\anim\\anim_slide_in_from_right.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\anim\\anim_slide_in_from_right.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\13636\\.android\\build-cache\\a92df266d5404f7d37ed7a23abe8c35da7d38682\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\anim\\dialog_exit_sliding_to_bottom.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\anim\\dialog_exit_sliding_to_bottom.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\90c4577f069c42dd03253e9d156e3985d465bf6e\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\anim\\slide_out_bottom.xml",
+        "source": "C:\\Users\\13636\\.android\\build-cache\\08596e081d60bc7fe24083283ccc7003e5824728\\output\\res\\anim\\slide_out_bottom.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\90c4577f069c42dd03253e9d156e3985d465bf6e\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\anim\\slide_in_bottom.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\041291745cf9e43b784ddb6d8ca2df148fa50d0b\\output\\res\\anim\\slide_in_bottom.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\anim\\dialog_enter_sliding_from_right.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\anim\\dialog_enter_sliding_from_right.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\anim\\interpolator_cycle.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\anim\\interpolator_cycle.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\anim\\dialog_enter_sliding_from_bottom.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\anim\\dialog_enter_sliding_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\anim\\slide_in_from_top.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\ddacb4a2463440973ce8c0cf6f5e832ff9e7c694\\output\\res\\anim\\slide_in_from_top.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\anim\\dialog_exit_sliding_to_right.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\anim\\dialog_exit_sliding_to_right.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\anim\\dialog_exit_sliding_to_bottom.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\anim\\dialog_exit_sliding_to_bottom.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\anim\\anim_slide_out_to_left.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\anim\\anim_slide_out_to_left.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\anim\\dialog_enter_sliding_from_right.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\anim\\dialog_enter_sliding_from_right.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\13636\\.android\\build-cache\\a92df266d5404f7d37ed7a23abe8c35da7d38682\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\13636\\.android\\build-cache\\a92df266d5404f7d37ed7a23abe8c35da7d38682\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\anim\\anim_slide_out_to_right.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\anim\\anim_slide_out_to_right.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\90c4577f069c42dd03253e9d156e3985d465bf6e\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\anim\\anim_slide_in_from_left.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\anim\\anim_slide_in_from_left.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\anim\\slide_in_from_bottom.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\ddacb4a2463440973ce8c0cf6f5e832ff9e7c694\\output\\res\\anim\\slide_in_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\13636\\.android\\build-cache\\a92df266d5404f7d37ed7a23abe8c35da7d38682\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\anim\\ucrop_loader_circle_path.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\6e28b8e1e1500ce6163ad1ac01401c5419a5700e\\output\\res\\anim\\ucrop_loader_circle_path.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\anim\\slide_out_bottom.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\041291745cf9e43b784ddb6d8ca2df148fa50d0b\\output\\res\\anim\\slide_out_bottom.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\anim\\dialog_enter_sliding_from_bottom.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\anim\\dialog_enter_sliding_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\anim\\p_trends_enter_window.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\anim\\p_trends_enter_window.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\anim\\anim_slide_out_to_right.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\anim\\anim_slide_out_to_right.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\anim\\view_left_out.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\anim\\view_left_out.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\anim\\dialog_exit_sliding_to_top.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\anim\\dialog_exit_sliding_to_top.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\anim\\p_trends_out_window.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\anim\\p_trends_out_window.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\anim\\dialog_exit_sliding_to_top.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\anim\\dialog_exit_sliding_to_top.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\anim\\shake_x.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\anim\\shake_x.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\13636\\.android\\build-cache\\a92df266d5404f7d37ed7a23abe8c35da7d38682\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\anim\\slide_out_to_top.xml",
+        "source": "C:\\Users\\13636\\.android\\build-cache\\69077baca7a23c9d2777fb694bccf56b24501cef\\output\\res\\anim\\slide_out_to_top.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\90c4577f069c42dd03253e9d156e3985d465bf6e\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\anim\\ucrop_loader_circle_scale.xml",
+        "source": "C:\\Users\\13636\\.android\\build-cache\\8ef4dfd115f04a939a9f5cf9491f0f21788a7d21\\output\\res\\anim\\ucrop_loader_circle_scale.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\anim\\shake_x.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\anim\\shake_x.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\90c4577f069c42dd03253e9d156e3985d465bf6e\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\90c4577f069c42dd03253e9d156e3985d465bf6e\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\anim\\ucrop_loader_circle_path.xml",
+        "source": "C:\\Users\\13636\\.android\\build-cache\\8ef4dfd115f04a939a9f5cf9491f0f21788a7d21\\output\\res\\anim\\ucrop_loader_circle_path.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\13636\\.android\\build-cache\\a92df266d5404f7d37ed7a23abe8c35da7d38682\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\anim\\p_trends_out_window.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\anim\\p_trends_out_window.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\90c4577f069c42dd03253e9d156e3985d465bf6e\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\anim\\slide_in_from_bottom.xml",
+        "source": "C:\\Users\\13636\\.android\\build-cache\\69077baca7a23c9d2777fb694bccf56b24501cef\\output\\res\\anim\\slide_in_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\13636\\.android\\build-cache\\a92df266d5404f7d37ed7a23abe8c35da7d38682\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\90c4577f069c42dd03253e9d156e3985d465bf6e\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\13636\\.android\\build-cache\\a92df266d5404f7d37ed7a23abe8c35da7d38682\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\anim\\dialog_exit_sliding_to_right.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\anim\\dialog_exit_sliding_to_right.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\anim\\anim_slide_in_from_left.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\anim\\anim_slide_in_from_left.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\anim\\interpolator_cycle.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\anim\\interpolator_cycle.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\anim\\ucrop_loader_circle_scale.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\6e28b8e1e1500ce6163ad1ac01401c5419a5700e\\output\\res\\anim\\ucrop_loader_circle_scale.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\anim\\view_left_out.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\anim\\view_left_out.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\anim\\p_trends_enter_window.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\anim\\p_trends_enter_window.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\90c4577f069c42dd03253e9d156e3985d465bf6e\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\13636\\.android\\build-cache\\a92df266d5404f7d37ed7a23abe8c35da7d38682\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\90c4577f069c42dd03253e9d156e3985d465bf6e\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\13636\\.android\\build-cache\\a92df266d5404f7d37ed7a23abe8c35da7d38682\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\anim\\dialog_enter_sliding_from_top.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\anim\\dialog_enter_sliding_from_top.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\anim\\slide_out_to_top.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\ddacb4a2463440973ce8c0cf6f5e832ff9e7c694\\output\\res\\anim\\slide_out_to_top.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\anim\\dialog_enter_sliding_from_top.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\anim\\dialog_enter_sliding_from_top.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\anim\\anim_slide_in_from_right.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\anim\\anim_slide_in_from_right.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\anim\\anim_slide_out_to_left.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\anim\\anim_slide_out_to_left.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\anim\\slide_out_to_bottom.xml",
+        "source": "C:\\Users\\13636\\.android\\build-cache\\69077baca7a23c9d2777fb694bccf56b24501cef\\output\\res\\anim\\slide_out_to_bottom.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\anim\\slide_in_bottom.xml",
+        "source": "C:\\Users\\13636\\.android\\build-cache\\08596e081d60bc7fe24083283ccc7003e5824728\\output\\res\\anim\\slide_in_bottom.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\anim\\slide_in_from_top.xml",
+        "source": "C:\\Users\\13636\\.android\\build-cache\\69077baca7a23c9d2777fb694bccf56b24501cef\\output\\res\\anim\\slide_in_from_top.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\anim\\slide_out_to_bottom.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\ddacb4a2463440973ce8c0cf6f5e832ff9e7c694\\output\\res\\anim\\slide_out_to_bottom.xml"
+    }
+]

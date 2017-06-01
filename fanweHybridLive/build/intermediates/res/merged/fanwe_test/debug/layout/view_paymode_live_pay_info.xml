@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:orientation="horizontal"
+              android:paddingRight="10dp"
+              android:paddingTop="10dp">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/layer_blur_live_ticket"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:paddingLeft="10dp"
+        android:paddingRight="7dp">
+
+        <TextView
+            android:id="@+id/tv_pay_info"
+            style="@style/text_base_shadow"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="0"
+            android:textColor="@color/white"
+            android:textSize="13sp"/>
+
+        <TextView
+            style="@style/text_base_shadow"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="秒开始"
+            android:textColor="@color/white"
+            android:textSize="13sp"/>
+    </LinearLayout>
+
+    <View
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"/>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:orientation="vertical"
+        >
+
+        <ImageView
+            android:id="@+id/iv_add_pay"
+            android:layout_width="45dp"
+            android:layout_height="45dp"
+            android:src="@drawable/ic_add_pay"/>
+
+        <ImageView
+            android:id="@+id/iv_switch_pay_live"
+            android:layout_width="45dp"
+            android:layout_height="45dp"
+            android:layout_marginTop="10dp"
+            android:src="@drawable/ic_pay_switch_live"/>
+    </LinearLayout>
+
+</LinearLayout>

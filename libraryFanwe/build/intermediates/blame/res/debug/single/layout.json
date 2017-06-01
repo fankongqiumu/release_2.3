@@ -1,0 +1,494 @@
+[
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\build\\intermediates\\res\\merged\\debug\\layout\\view_tab_corner.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\src\\main\\res\\layout\\view_tab_corner.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_confirm.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\src\\main\\res\\layout\\dialog_confirm.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\res\\merged\\debug\\layout\\view_tab_item_bottom.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\src\\main\\res\\layout\\view_tab_item_bottom.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\build\\intermediates\\res\\merged\\debug\\layout\\view_category.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\src\\main\\res\\layout\\view_category.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\build\\intermediates\\res\\merged\\debug\\layout\\frag_webview.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\src\\main\\res\\layout\\frag_webview.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\res\\merged\\debug\\layout\\view_tab_corner_text.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\src\\main\\res\\layout\\view_tab_corner_text.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\res\\merged\\debug\\layout\\timepicker_layout.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\src\\main\\res\\layout\\timepicker_layout.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\res\\merged\\debug\\layout\\title.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\src\\main\\res\\layout\\title.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_input.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\src\\main\\res\\layout\\dialog_input.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\res\\merged\\debug\\layout\\item_simple_adv.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\src\\main\\res\\layout\\item_simple_adv.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\build\\intermediates\\res\\merged\\debug\\layout\\item_title_more.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\src\\main\\res\\layout\\item_title_more.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\res\\merged\\debug\\layout\\timepicker_toolbar.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\src\\main\\res\\layout\\timepicker_toolbar.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\res\\merged\\debug\\layout\\view_tab_item_sld_menu.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\src\\main\\res\\layout\\view_tab_item_sld_menu.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\res\\merged\\debug\\layout\\timepicker_toolbar.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\src\\main\\res\\layout\\timepicker_toolbar.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_input.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\src\\main\\res\\layout\\dialog_input.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\res\\merged\\debug\\layout\\item_menu.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\src\\main\\res\\layout\\item_menu.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\res\\merged\\debug\\layout\\title_item.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\src\\main\\res\\layout\\title_item.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\res\\merged\\debug\\layout\\view_tab_underline.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\src\\main\\res\\layout\\view_tab_underline.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_listview.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\src\\main\\res\\layout\\dialog_listview.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\res\\merged\\debug\\layout\\view_category_tab.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\src\\main\\res\\layout\\view_category_tab.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_menu.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\src\\main\\res\\layout\\dialog_menu.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_confirm.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\src\\main\\res\\layout\\dialog_confirm.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\res\\merged\\debug\\layout\\item_simple_text.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\src\\main\\res\\layout\\item_simple_text.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\res\\merged\\debug\\layout\\title_item.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\src\\main\\res\\layout\\title_item.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\res\\merged\\debug\\layout\\pop_title_more.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\src\\main\\res\\layout\\pop_title_more.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\build\\intermediates\\res\\merged\\debug\\layout\\frag_sdwebview.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\src\\main\\res\\layout\\frag_sdwebview.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\res\\merged\\debug\\layout\\view_password.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\src\\main\\res\\layout\\view_password.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\build\\intermediates\\res\\merged\\debug\\layout\\pop_title_more.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\src\\main\\res\\layout\\pop_title_more.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\res\\merged\\debug\\layout\\frag_webview.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\src\\main\\res\\layout\\frag_webview.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\res\\merged\\debug\\layout\\title.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\src\\main\\res\\layout\\title.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\res\\merged\\debug\\layout\\view_password.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\src\\main\\res\\layout\\view_password.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\build\\intermediates\\res\\merged\\debug\\layout\\title.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\src\\main\\res\\layout\\title.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\res\\merged\\debug\\layout\\view_tab_item_bottom.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\src\\main\\res\\layout\\view_tab_item_bottom.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\res\\merged\\debug\\layout\\item_title_more.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\src\\main\\res\\layout\\item_title_more.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\build\\intermediates\\res\\merged\\debug\\layout\\view_tab_menu.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\src\\main\\res\\layout\\view_tab_menu.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\build\\intermediates\\res\\merged\\debug\\layout\\pop_two_lv.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\src\\main\\res\\layout\\pop_two_lv.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\build\\intermediates\\res\\merged\\debug\\layout\\title_item.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\src\\main\\res\\layout\\title_item.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\res\\merged\\debug\\layout\\view_tab_corner.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\src\\main\\res\\layout\\view_tab_corner.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\build\\intermediates\\res\\merged\\debug\\layout\\title_simple.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\src\\main\\res\\layout\\title_simple.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\res\\merged\\debug\\layout\\pop_title_more.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\src\\main\\res\\layout\\pop_title_more.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\res\\merged\\debug\\layout\\view_tab_menu.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\src\\main\\res\\layout\\view_tab_menu.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\build\\intermediates\\res\\merged\\debug\\layout\\view_tab_underline.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\src\\main\\res\\layout\\view_tab_underline.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\res\\merged\\debug\\layout\\title_simple.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\src\\main\\res\\layout\\title_simple.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\res\\merged\\debug\\layout\\view_category.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\src\\main\\res\\layout\\view_category.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\res\\merged\\debug\\layout\\item_title_more.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\src\\main\\res\\layout\\item_title_more.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\res\\merged\\debug\\layout\\view_sliding_play_view.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\src\\main\\res\\layout\\view_sliding_play_view.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\build\\intermediates\\res\\merged\\debug\\layout\\view_tab_under_line.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\src\\main\\res\\layout\\view_tab_under_line.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\build\\intermediates\\res\\merged\\debug\\layout\\timepicker_toolbar.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\src\\main\\res\\layout\\timepicker_toolbar.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\build\\intermediates\\res\\merged\\debug\\layout\\pop_category_two_lv.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\src\\main\\res\\layout\\pop_category_two_lv.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\build\\intermediates\\res\\merged\\debug\\layout\\timepicker_layout.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\src\\main\\res\\layout\\timepicker_layout.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_custom.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\src\\main\\res\\layout\\dialog_custom.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\res\\merged\\debug\\layout\\act_webview.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\src\\main\\res\\layout\\act_webview.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\res\\merged\\debug\\layout\\view_tab_text.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\src\\main\\res\\layout\\view_tab_text.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\build\\intermediates\\res\\merged\\debug\\layout\\view_sliding_play_view.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\src\\main\\res\\layout\\view_sliding_play_view.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\res\\merged\\debug\\layout\\view_category.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\src\\main\\res\\layout\\view_category.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\res\\merged\\debug\\layout\\item_menu.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\src\\main\\res\\layout\\item_menu.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\res\\merged\\debug\\layout\\pop_two_lv.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\src\\main\\res\\layout\\pop_two_lv.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\build\\intermediates\\res\\merged\\debug\\layout\\view_tab_image.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\src\\main\\res\\layout\\view_tab_image.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_progress.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\src\\main\\res\\layout\\dialog_progress.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\res\\merged\\debug\\layout\\frag_sdwebview.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\src\\main\\res\\layout\\frag_sdwebview.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\res\\merged\\debug\\layout\\view_tab_corner.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\src\\main\\res\\layout\\view_tab_corner.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\res\\merged\\debug\\layout\\item_pager_grid_linear.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\src\\main\\res\\layout\\item_pager_grid_linear.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\res\\merged\\debug\\layout\\pop_category_single_lv.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\src\\main\\res\\layout\\pop_category_single_lv.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\res\\merged\\debug\\layout\\view_tab_menu.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\src\\main\\res\\layout\\view_tab_menu.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\build\\intermediates\\res\\merged\\debug\\layout\\pop_category_single_lv.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\src\\main\\res\\layout\\pop_category_single_lv.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\res\\merged\\debug\\layout\\pop_two_lv.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\src\\main\\res\\layout\\pop_two_lv.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\res\\merged\\debug\\layout\\item_simple_adv.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\src\\main\\res\\layout\\item_simple_adv.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\build\\intermediates\\res\\merged\\debug\\layout\\view_tab_bottom.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\src\\main\\res\\layout\\view_tab_bottom.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\res\\merged\\debug\\layout\\frag_webview.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\src\\main\\res\\layout\\frag_webview.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_confirm.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\src\\main\\res\\layout\\dialog_confirm.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\build\\intermediates\\res\\merged\\debug\\layout\\item_menu.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\src\\main\\res\\layout\\item_menu.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\res\\merged\\debug\\layout\\pop_category_two_lv.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\src\\main\\res\\layout\\pop_category_two_lv.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_listview.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\src\\main\\res\\layout\\dialog_listview.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\res\\merged\\debug\\layout\\timepicker_layout.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\src\\main\\res\\layout\\timepicker_layout.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\res\\merged\\debug\\layout\\view_tab_item_sld_menu.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\src\\main\\res\\layout\\view_tab_item_sld_menu.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_custom.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\src\\main\\res\\layout\\dialog_custom.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\build\\intermediates\\res\\merged\\debug\\layout\\view_tab_text.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\src\\main\\res\\layout\\view_tab_text.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\res\\merged\\debug\\layout\\view_sliding_play_view.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\src\\main\\res\\layout\\view_sliding_play_view.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\res\\merged\\debug\\layout\\pop_single_lv.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\src\\main\\res\\layout\\pop_single_lv.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_listview.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\src\\main\\res\\layout\\dialog_listview.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\res\\merged\\debug\\layout\\item_simple_text.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\src\\main\\res\\layout\\item_simple_text.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\res\\merged\\debug\\layout\\pop_single_lv.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\src\\main\\res\\layout\\pop_single_lv.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\build\\intermediates\\res\\merged\\debug\\layout\\timepicker_line.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\src\\main\\res\\layout\\timepicker_line.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\build\\intermediates\\res\\merged\\debug\\layout\\view_tab_item_bottom.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\src\\main\\res\\layout\\view_tab_item_bottom.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_input.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\src\\main\\res\\layout\\dialog_input.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\res\\merged\\debug\\layout\\frag_sdwebview.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\src\\main\\res\\layout\\frag_sdwebview.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\res\\merged\\debug\\layout\\act_webview.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\src\\main\\res\\layout\\act_webview.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\res\\merged\\debug\\layout\\title_simple.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\src\\main\\res\\layout\\title_simple.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_menu.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\src\\main\\res\\layout\\dialog_menu.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\res\\merged\\debug\\layout\\timepicker_line.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\src\\main\\res\\layout\\timepicker_line.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_menu.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\src\\main\\res\\layout\\dialog_menu.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\res\\merged\\debug\\layout\\view_tab_underline.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\src\\main\\res\\layout\\view_tab_underline.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_progress.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\src\\main\\res\\layout\\dialog_progress.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\res\\merged\\debug\\layout\\pop_category_single_lv.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\src\\main\\res\\layout\\pop_category_single_lv.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\build\\intermediates\\res\\merged\\debug\\layout\\view_category_tab.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\src\\main\\res\\layout\\view_category_tab.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\build\\intermediates\\res\\merged\\debug\\layout\\item_simple_text.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\src\\main\\res\\layout\\item_simple_text.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\build\\intermediates\\res\\merged\\debug\\layout\\view_password.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\src\\main\\res\\layout\\view_password.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\res\\merged\\debug\\layout\\view_tab_under_line.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\src\\main\\res\\layout\\view_tab_under_line.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\res\\merged\\debug\\layout\\view_tab_text.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\src\\main\\res\\layout\\view_tab_text.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_custom.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\src\\main\\res\\layout\\dialog_custom.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\res\\merged\\debug\\layout\\view_tab_corner_text.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\src\\main\\res\\layout\\view_tab_corner_text.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\res\\merged\\debug\\layout\\view_tab_bottom.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\src\\main\\res\\layout\\view_tab_bottom.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\res\\merged\\debug\\layout\\view_category_tab.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\src\\main\\res\\layout\\view_category_tab.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_progress.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\src\\main\\res\\layout\\dialog_progress.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\res\\merged\\debug\\layout\\view_tab_item_corner.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\src\\main\\res\\layout\\view_tab_item_corner.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\res\\merged\\debug\\layout\\item_pager_grid_linear.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\src\\main\\res\\layout\\item_pager_grid_linear.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\build\\intermediates\\res\\merged\\debug\\layout\\view_tab_item_sld_menu.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\src\\main\\res\\layout\\view_tab_item_sld_menu.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\build\\intermediates\\res\\merged\\debug\\layout\\item_simple_adv.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\src\\main\\res\\layout\\item_simple_adv.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\res\\merged\\debug\\layout\\timepicker_line.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\src\\main\\res\\layout\\timepicker_line.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\res\\merged\\debug\\layout\\view_tab_image.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\src\\main\\res\\layout\\view_tab_image.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\res\\merged\\debug\\layout\\view_tab_under_line.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\src\\main\\res\\layout\\view_tab_under_line.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\build\\intermediates\\res\\merged\\debug\\layout\\act_webview.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\src\\main\\res\\layout\\act_webview.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\build\\intermediates\\res\\merged\\debug\\layout\\item_pager_grid_linear.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\src\\main\\res\\layout\\item_pager_grid_linear.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\build\\intermediates\\res\\merged\\debug\\layout\\view_tab_corner_text.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\src\\main\\res\\layout\\view_tab_corner_text.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\build\\intermediates\\res\\merged\\debug\\layout\\pop_single_lv.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\src\\main\\res\\layout\\pop_single_lv.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\build\\intermediates\\res\\merged\\debug\\layout\\view_tab_item_corner.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\src\\main\\res\\layout\\view_tab_item_corner.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\res\\merged\\debug\\layout\\pop_category_two_lv.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\src\\main\\res\\layout\\pop_category_two_lv.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\res\\merged\\debug\\layout\\view_tab_bottom.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\src\\main\\res\\layout\\view_tab_bottom.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\res\\merged\\debug\\layout\\view_tab_item_corner.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\src\\main\\res\\layout\\view_tab_item_corner.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\res\\merged\\debug\\layout\\view_tab_image.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\src\\main\\res\\layout\\view_tab_image.xml"
+    }
+]

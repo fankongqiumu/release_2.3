@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="50dp"
+    android:gravity="bottom"
+    android:orientation="horizontal">
+
+    <!-- 发消息 -->
+    <com.fanwe.live.appview.room.RoomMenuView
+        android:id="@+id/menu_send_msg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+    <!-- 插件中心 -->
+    <com.fanwe.live.appview.room.RoomMenuView
+        android:id="@+id/menu_plugins"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+    <LinearLayout
+        android:id="@+id/ll_bottom_plugins"
+        android:layout_width="wrap_content"
+        android:layout_height="@dimen/height_live_bottom_menu"
+        android:orientation="horizontal"
+        android:padding="5dp">
+
+        <com.fanwe.live.appview.room.RoomMenuView
+            android:id="@+id/menu_start"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:visibility="gone"/>
+
+        <com.fanwe.live.appview.room.RoomMenuView
+            android:id="@+id/menu_waiting"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:visibility="gone"/>
+
+        <com.fanwe.live.appview.room.RoomMenuView
+            android:id="@+id/menu_close"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:visibility="gone"/>
+
+        <FrameLayout
+            android:id="@+id/fl_game_banker"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:orientation="horizontal"
+            android:visibility="gone">
+
+            <com.fanwe.live.appview.room.RoomMenuView
+                android:id="@+id/menu_open_banker"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:visibility="gone"/>
+
+            <com.fanwe.live.appview.room.RoomMenuView
+                android:id="@+id/menu_stop_banker"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:visibility="gone"/>
+
+            <com.fanwe.live.appview.room.RoomMenuView
+                android:id="@+id/menu_banker_list"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:visibility="gone"/>
+        </FrameLayout>
+    </LinearLayout>
+
+    <View
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"/>
+
+    <!-- 创建竞拍 -->
+    <com.fanwe.live.appview.room.RoomMenuView
+        android:id="@+id/menu_plugin_switch"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:visibility="gone"/>
+
+    <!-- 付费模式 -->
+    <com.fanwe.live.appview.room.RoomMenuView
+        android:id="@+id/menu_pay_mode"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:visibility="gone"/>
+
+    <!-- 付费模式提档 -->
+    <com.fanwe.live.appview.room.RoomMenuView
+        android:id="@+id/menu_pay_mode_upgrade"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:visibility="gone"/>
+
+    <!-- 私聊消息 -->
+    <com.fanwe.live.appview.room.RoomMenuView
+        android:id="@+id/menu_private_msg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+    <!-- 分享 -->
+    <com.fanwe.live.appview.room.RoomMenuView
+        android:id="@+id/menu_share"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:visibility="gone"/>
+
+</LinearLayout>

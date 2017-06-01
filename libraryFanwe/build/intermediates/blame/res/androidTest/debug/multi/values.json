@@ -1,0 +1,4460 @@
+[
+    {
+        "outputFile": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 45,
+                        "endOffset": 96
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 101,
+                    "endColumn": 56,
+                    "endOffset": 153
+                },
+                "from": {
+                    "file": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 101,
+                        "endColumn": 56,
+                        "endOffset": 153
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 158,
+                    "endColumn": 70,
+                    "endOffset": 224
+                },
+                "from": {
+                    "file": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 158,
+                        "endColumn": 70,
+                        "endOffset": 224
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 229,
+                    "endColumn": 39,
+                    "endOffset": 264
+                },
+                "from": {
+                    "file": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 39,
+                        "endOffset": 264
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 269,
+                    "endColumn": 41,
+                    "endOffset": 306
+                },
+                "from": {
+                    "file": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 269,
+                        "endColumn": 41,
+                        "endOffset": 306
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 311,
+                    "endColumn": 38,
+                    "endOffset": 345
+                },
+                "from": {
+                    "file": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 311,
+                        "endColumn": 38,
+                        "endOffset": 345
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 350,
+                    "endColumn": 40,
+                    "endOffset": 386
+                },
+                "from": {
+                    "file": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 350,
+                        "endColumn": 40,
+                        "endOffset": 386
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 391,
+                    "endColumn": 38,
+                    "endOffset": 425
+                },
+                "from": {
+                    "file": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 391,
+                        "endColumn": 38,
+                        "endOffset": 425
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 430,
+                    "endColumn": 40,
+                    "endOffset": 466
+                },
+                "from": {
+                    "file": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 430,
+                        "endColumn": 40,
+                        "endOffset": 466
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 471,
+                    "endColumn": 44,
+                    "endOffset": 511
+                },
+                "from": {
+                    "file": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 471,
+                        "endColumn": 44,
+                        "endOffset": 511
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 516,
+                    "endColumn": 39,
+                    "endOffset": 551
+                },
+                "from": {
+                    "file": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 516,
+                        "endColumn": 39,
+                        "endOffset": 551
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 556,
+                    "endColumn": 44,
+                    "endOffset": 596
+                },
+                "from": {
+                    "file": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 556,
+                        "endColumn": 44,
+                        "endOffset": 596
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 601,
+                    "endColumn": 50,
+                    "endOffset": 647
+                },
+                "from": {
+                    "file": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 601,
+                        "endColumn": 50,
+                        "endOffset": 647
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 652,
+                    "endColumn": 40,
+                    "endOffset": 688
+                },
+                "from": {
+                    "file": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 652,
+                        "endColumn": 40,
+                        "endOffset": 688
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 693,
+                    "endColumn": 37,
+                    "endOffset": 726
+                },
+                "from": {
+                    "file": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 693,
+                        "endColumn": 37,
+                        "endOffset": 726
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 731,
+                    "endColumn": 51,
+                    "endOffset": 778
+                },
+                "from": {
+                    "file": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 731,
+                        "endColumn": 51,
+                        "endOffset": 778
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 783,
+                    "endColumn": 45,
+                    "endOffset": 824
+                },
+                "from": {
+                    "file": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 783,
+                        "endColumn": 45,
+                        "endOffset": 824
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 829,
+                    "endColumn": 46,
+                    "endOffset": 871
+                },
+                "from": {
+                    "file": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 829,
+                        "endColumn": 46,
+                        "endOffset": 871
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 876,
+                    "endColumn": 51,
+                    "endOffset": 923
+                },
+                "from": {
+                    "file": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 876,
+                        "endColumn": 51,
+                        "endOffset": 923
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 928,
+                    "endColumn": 43,
+                    "endOffset": 967
+                },
+                "from": {
+                    "file": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 928,
+                        "endColumn": 43,
+                        "endOffset": 967
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 972,
+                    "endColumn": 51,
+                    "endOffset": 1019
+                },
+                "from": {
+                    "file": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 972,
+                        "endColumn": 51,
+                        "endOffset": 1019
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1024,
+                    "endColumn": 73,
+                    "endOffset": 1093
+                },
+                "from": {
+                    "file": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1024,
+                        "endColumn": 73,
+                        "endOffset": 1093
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1098,
+                    "endColumn": 59,
+                    "endOffset": 1153
+                },
+                "from": {
+                    "file": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1098,
+                        "endColumn": 59,
+                        "endOffset": 1153
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1158,
+                    "endColumn": 54,
+                    "endOffset": 1208
+                },
+                "from": {
+                    "file": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1158,
+                        "endColumn": 54,
+                        "endOffset": 1208
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1213,
+                    "endColumn": 44,
+                    "endOffset": 1253
+                },
+                "from": {
+                    "file": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1213,
+                        "endColumn": 44,
+                        "endOffset": 1253
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1258,
+                    "endColumn": 53,
+                    "endOffset": 1307
+                },
+                "from": {
+                    "file": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1258,
+                        "endColumn": 53,
+                        "endOffset": 1307
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1312,
+                    "endColumn": 47,
+                    "endOffset": 1355
+                },
+                "from": {
+                    "file": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1312,
+                        "endColumn": 47,
+                        "endOffset": 1355
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1360,
+                    "endColumn": 40,
+                    "endOffset": 1396
+                },
+                "from": {
+                    "file": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1360,
+                        "endColumn": 40,
+                        "endOffset": 1396
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1401,
+                    "endColumn": 39,
+                    "endOffset": 1436
+                },
+                "from": {
+                    "file": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1401,
+                        "endColumn": 39,
+                        "endOffset": 1436
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 1441,
+                    "endColumn": 40,
+                    "endOffset": 1477
+                },
+                "from": {
+                    "file": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1441,
+                        "endColumn": 40,
+                        "endOffset": 1477
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 3446,
+                    "endColumn": 36,
+                    "endOffset": 3478
+                },
+                "from": {
+                    "file": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 4,
+                        "startOffset": 3174,
+                        "endColumn": 36,
+                        "endOffset": 3206
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 3483,
+                    "endColumn": 44,
+                    "endOffset": 3523
+                },
+                "from": {
+                    "file": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 4,
+                        "startOffset": 3211,
+                        "endColumn": 44,
+                        "endOffset": 3251
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 3528,
+                    "endColumn": 49,
+                    "endOffset": 3573
+                },
+                "from": {
+                    "file": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 4,
+                        "startOffset": 3256,
+                        "endColumn": 49,
+                        "endOffset": 3301
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 3578,
+                    "endColumn": 53,
+                    "endOffset": 3627
+                },
+                "from": {
+                    "file": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 50,
+                        "startColumn": 4,
+                        "startOffset": 3306,
+                        "endColumn": 53,
+                        "endOffset": 3355
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 3632,
+                    "endColumn": 42,
+                    "endOffset": 3670
+                },
+                "from": {
+                    "file": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 51,
+                        "startColumn": 4,
+                        "startOffset": 3360,
+                        "endColumn": 42,
+                        "endOffset": 3398
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 3675,
+                    "endColumn": 47,
+                    "endOffset": 3718
+                },
+                "from": {
+                    "file": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 52,
+                        "startColumn": 4,
+                        "startOffset": 3403,
+                        "endColumn": 47,
+                        "endOffset": 3446
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 3723,
+                    "endColumn": 54,
+                    "endOffset": 3773
+                },
+                "from": {
+                    "file": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 53,
+                        "startColumn": 4,
+                        "startOffset": 3451,
+                        "endColumn": 54,
+                        "endOffset": 3501
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 3778,
+                    "endColumn": 74,
+                    "endOffset": 3848
+                },
+                "from": {
+                    "file": "C:\\Users\\admin\\.android\\build-cache\\1b033a205e354fa0daeab54dc6b947a43334222a\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 547,
+                        "endColumn": 74,
+                        "endOffset": 617
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 3853,
+                    "endColumn": 51,
+                    "endOffset": 3900
+                },
+                "from": {
+                    "file": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 54,
+                        "startColumn": 4,
+                        "startOffset": 3506,
+                        "endColumn": 51,
+                        "endOffset": 3553
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 3905,
+                    "endColumn": 55,
+                    "endOffset": 3956
+                },
+                "from": {
+                    "file": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 55,
+                        "startColumn": 4,
+                        "startOffset": 3558,
+                        "endColumn": 55,
+                        "endOffset": 3609
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 3961,
+                    "endColumn": 52,
+                    "endOffset": 4009
+                },
+                "from": {
+                    "file": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 56,
+                        "startColumn": 4,
+                        "startOffset": 3614,
+                        "endColumn": 52,
+                        "endOffset": 3662
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 4014,
+                    "endColumn": 45,
+                    "endOffset": 4055
+                },
+                "from": {
+                    "file": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 57,
+                        "startColumn": 4,
+                        "startOffset": 3667,
+                        "endColumn": 45,
+                        "endOffset": 3708
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 4060,
+                    "endColumn": 46,
+                    "endOffset": 4102
+                },
+                "from": {
+                    "file": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 58,
+                        "startColumn": 4,
+                        "startOffset": 3713,
+                        "endColumn": 46,
+                        "endOffset": 3755
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 4107,
+                    "endColumn": 47,
+                    "endOffset": 4150
+                },
+                "from": {
+                    "file": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 59,
+                        "startColumn": 4,
+                        "startOffset": 3760,
+                        "endColumn": 47,
+                        "endOffset": 3803
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 4155,
+                    "endColumn": 52,
+                    "endOffset": 4203
+                },
+                "from": {
+                    "file": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 60,
+                        "startColumn": 4,
+                        "startOffset": 3808,
+                        "endColumn": 52,
+                        "endOffset": 3856
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 4208,
+                    "endColumn": 48,
+                    "endOffset": 4252
+                },
+                "from": {
+                    "file": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 61,
+                        "startColumn": 4,
+                        "startOffset": 3861,
+                        "endColumn": 48,
+                        "endOffset": 3905
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 4257,
+                    "endColumn": 54,
+                    "endOffset": 4307
+                },
+                "from": {
+                    "file": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 62,
+                        "startColumn": 4,
+                        "startOffset": 3910,
+                        "endColumn": 54,
+                        "endOffset": 3960
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 4312,
+                    "endColumn": 53,
+                    "endOffset": 4361
+                },
+                "from": {
+                    "file": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 63,
+                        "startColumn": 4,
+                        "startOffset": 3965,
+                        "endColumn": 53,
+                        "endOffset": 4014
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 66,
+                    "startColumn": 4,
+                    "startOffset": 4366,
+                    "endColumn": 53,
+                    "endOffset": 4415
+                },
+                "from": {
+                    "file": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 64,
+                        "startColumn": 4,
+                        "startOffset": 4019,
+                        "endColumn": 53,
+                        "endOffset": 4068
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 67,
+                    "startColumn": 4,
+                    "startOffset": 4420,
+                    "endColumn": 51,
+                    "endOffset": 4467
+                },
+                "from": {
+                    "file": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 65,
+                        "startColumn": 4,
+                        "startOffset": 4073,
+                        "endColumn": 51,
+                        "endOffset": 4120
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 68,
+                    "startColumn": 4,
+                    "startOffset": 4472,
+                    "endColumn": 54,
+                    "endOffset": 4522
+                },
+                "from": {
+                    "file": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 66,
+                        "startColumn": 4,
+                        "startOffset": 4125,
+                        "endColumn": 54,
+                        "endOffset": 4175
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 69,
+                    "startColumn": 4,
+                    "startOffset": 4527,
+                    "endColumn": 46,
+                    "endOffset": 4569
+                },
+                "from": {
+                    "file": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 67,
+                        "startColumn": 4,
+                        "startOffset": 4180,
+                        "endColumn": 46,
+                        "endOffset": 4222
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 70,
+                    "startColumn": 4,
+                    "startOffset": 4574,
+                    "endColumn": 50,
+                    "endOffset": 4620
+                },
+                "from": {
+                    "file": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 68,
+                        "startColumn": 4,
+                        "startOffset": 4227,
+                        "endColumn": 50,
+                        "endOffset": 4273
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 71,
+                    "startColumn": 4,
+                    "startOffset": 4625,
+                    "endColumn": 54,
+                    "endOffset": 4675
+                },
+                "from": {
+                    "file": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 69,
+                        "startColumn": 4,
+                        "startOffset": 4278,
+                        "endColumn": 54,
+                        "endOffset": 4328
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 72,
+                    "startColumn": 4,
+                    "startOffset": 4680,
+                    "endColumn": 42,
+                    "endOffset": 4718
+                },
+                "from": {
+                    "file": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 70,
+                        "startColumn": 4,
+                        "startOffset": 4333,
+                        "endColumn": 42,
+                        "endOffset": 4371
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 73,
+                    "startColumn": 4,
+                    "startOffset": 4723,
+                    "endColumn": 53,
+                    "endOffset": 4772
+                },
+                "from": {
+                    "file": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 71,
+                        "startColumn": 4,
+                        "startOffset": 4376,
+                        "endColumn": 53,
+                        "endOffset": 4425
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 74,
+                    "startColumn": 4,
+                    "startOffset": 4777,
+                    "endColumn": 65,
+                    "endOffset": 4838
+                },
+                "from": {
+                    "file": "C:\\Users\\admin\\.android\\build-cache\\1b033a205e354fa0daeab54dc6b947a43334222a\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 839,
+                        "endColumn": 65,
+                        "endOffset": 900
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 75,
+                    "startColumn": 4,
+                    "startOffset": 4843,
+                    "endColumn": 52,
+                    "endOffset": 4891
+                },
+                "from": {
+                    "file": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 72,
+                        "startColumn": 4,
+                        "startOffset": 4430,
+                        "endColumn": 52,
+                        "endOffset": 4478
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 76,
+                    "startColumn": 4,
+                    "startOffset": 4896,
+                    "endColumn": 54,
+                    "endOffset": 4946
+                },
+                "from": {
+                    "file": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 73,
+                        "startColumn": 4,
+                        "startOffset": 4483,
+                        "endColumn": 54,
+                        "endOffset": 4533
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 77,
+                    "startColumn": 4,
+                    "startOffset": 4951,
+                    "endColumn": 52,
+                    "endOffset": 4999
+                },
+                "from": {
+                    "file": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 74,
+                        "startColumn": 4,
+                        "startOffset": 4538,
+                        "endColumn": 52,
+                        "endOffset": 4586
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 78,
+                    "startColumn": 4,
+                    "startOffset": 5004,
+                    "endColumn": 44,
+                    "endOffset": 5044
+                },
+                "from": {
+                    "file": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 75,
+                        "startColumn": 4,
+                        "startOffset": 4591,
+                        "endColumn": 44,
+                        "endOffset": 4631
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 79,
+                    "startColumn": 4,
+                    "startOffset": 5049,
+                    "endColumn": 40,
+                    "endOffset": 5085
+                },
+                "from": {
+                    "file": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 76,
+                        "startColumn": 4,
+                        "startOffset": 4636,
+                        "endColumn": 40,
+                        "endOffset": 4672
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 80,
+                    "startColumn": 4,
+                    "startOffset": 5090,
+                    "endColumn": 41,
+                    "endOffset": 5127
+                },
+                "from": {
+                    "file": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 77,
+                        "startColumn": 4,
+                        "startOffset": 4677,
+                        "endColumn": 41,
+                        "endOffset": 4714
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 81,
+                    "startColumn": 4,
+                    "startOffset": 5132,
+                    "endColumn": 43,
+                    "endOffset": 5171
+                },
+                "from": {
+                    "file": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 78,
+                        "startColumn": 4,
+                        "startOffset": 4719,
+                        "endColumn": 43,
+                        "endOffset": 4758
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 82,
+                    "startColumn": 4,
+                    "startOffset": 5176,
+                    "endColumn": 42,
+                    "endOffset": 5214
+                },
+                "from": {
+                    "file": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 79,
+                        "startColumn": 4,
+                        "startOffset": 4763,
+                        "endColumn": 42,
+                        "endOffset": 4801
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 83,
+                    "startColumn": 4,
+                    "startOffset": 5219,
+                    "endColumn": 42,
+                    "endOffset": 5257
+                },
+                "from": {
+                    "file": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 80,
+                        "startColumn": 4,
+                        "startOffset": 4806,
+                        "endColumn": 42,
+                        "endOffset": 4844
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 84,
+                    "startColumn": 4,
+                    "startOffset": 5262,
+                    "endColumn": 45,
+                    "endOffset": 5303
+                },
+                "from": {
+                    "file": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 81,
+                        "startColumn": 4,
+                        "startOffset": 4849,
+                        "endColumn": 45,
+                        "endOffset": 4890
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 85,
+                    "startColumn": 4,
+                    "startOffset": 5308,
+                    "endColumn": 41,
+                    "endOffset": 5345
+                },
+                "from": {
+                    "file": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 82,
+                        "startColumn": 4,
+                        "startOffset": 4895,
+                        "endColumn": 41,
+                        "endOffset": 4932
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 86,
+                    "startColumn": 4,
+                    "startOffset": 5350,
+                    "endLine": 89,
+                    "endColumn": 12,
+                    "endOffset": 5622
+                },
+                "from": {
+                    "file": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 83,
+                        "startColumn": 4,
+                        "startOffset": 4937,
+                        "endLine": 86,
+                        "endColumn": 12,
+                        "endOffset": 5209
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 90,
+                    "startColumn": 4,
+                    "startOffset": 5627,
+                    "endLine": 96,
+                    "endColumn": 12,
+                    "endOffset": 5913
+                },
+                "from": {
+                    "file": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 87,
+                        "startColumn": 4,
+                        "startOffset": 5214,
+                        "endLine": 93,
+                        "endColumn": 12,
+                        "endOffset": 5500
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 97,
+                    "startColumn": 4,
+                    "startOffset": 5918,
+                    "endLine": 99,
+                    "endColumn": 12,
+                    "endOffset": 6073
+                },
+                "from": {
+                    "file": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 94,
+                        "startColumn": 4,
+                        "startOffset": 5505,
+                        "endLine": 96,
+                        "endColumn": 12,
+                        "endOffset": 5660
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 100,
+                    "startColumn": 4,
+                    "startOffset": 6078,
+                    "endLine": 106,
+                    "endColumn": 12,
+                    "endOffset": 6472
+                },
+                "from": {
+                    "file": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 97,
+                        "startColumn": 4,
+                        "startOffset": 5665,
+                        "endLine": 103,
+                        "endColumn": 12,
+                        "endOffset": 6059
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 107,
+                    "startColumn": 4,
+                    "startOffset": 6477,
+                    "endLine": 110,
+                    "endColumn": 12,
+                    "endOffset": 6740
+                },
+                "from": {
+                    "file": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 104,
+                        "startColumn": 4,
+                        "startOffset": 6064,
+                        "endLine": 107,
+                        "endColumn": 12,
+                        "endOffset": 6327
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 111,
+                    "startColumn": 4,
+                    "startOffset": 6745,
+                    "endLine": 114,
+                    "endColumn": 12,
+                    "endOffset": 7004
+                },
+                "from": {
+                    "file": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 108,
+                        "startColumn": 4,
+                        "startOffset": 6332,
+                        "endLine": 111,
+                        "endColumn": 12,
+                        "endOffset": 6591
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 115,
+                    "startColumn": 4,
+                    "startOffset": 7009,
+                    "endLine": 118,
+                    "endColumn": 12,
+                    "endOffset": 7260
+                },
+                "from": {
+                    "file": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 112,
+                        "startColumn": 4,
+                        "startOffset": 6596,
+                        "endLine": 115,
+                        "endColumn": 12,
+                        "endOffset": 6847
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 119,
+                    "startColumn": 4,
+                    "startOffset": 7265,
+                    "endLine": 133,
+                    "endColumn": 12,
+                    "endOffset": 7850
+                },
+                "from": {
+                    "file": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 116,
+                        "startColumn": 4,
+                        "startOffset": 6852,
+                        "endLine": 130,
+                        "endColumn": 12,
+                        "endOffset": 7437
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 134,
+                    "startColumn": 4,
+                    "startOffset": 7855,
+                    "endLine": 138,
+                    "endColumn": 12,
+                    "endOffset": 8000
+                },
+                "from": {
+                    "file": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 131,
+                        "startColumn": 4,
+                        "startOffset": 7442,
+                        "endLine": 135,
+                        "endColumn": 12,
+                        "endOffset": 7587
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 45,
+                        "endOffset": 96
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 101,
+                    "endColumn": 56,
+                    "endOffset": 153
+                },
+                "from": {
+                    "file": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 101,
+                        "endColumn": 56,
+                        "endOffset": 153
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 158,
+                    "endColumn": 70,
+                    "endOffset": 224
+                },
+                "from": {
+                    "file": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 158,
+                        "endColumn": 70,
+                        "endOffset": 224
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 229,
+                    "endColumn": 39,
+                    "endOffset": 264
+                },
+                "from": {
+                    "file": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 39,
+                        "endOffset": 264
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 269,
+                    "endColumn": 41,
+                    "endOffset": 306
+                },
+                "from": {
+                    "file": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 269,
+                        "endColumn": 41,
+                        "endOffset": 306
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 311,
+                    "endColumn": 38,
+                    "endOffset": 345
+                },
+                "from": {
+                    "file": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 311,
+                        "endColumn": 38,
+                        "endOffset": 345
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 350,
+                    "endColumn": 40,
+                    "endOffset": 386
+                },
+                "from": {
+                    "file": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 350,
+                        "endColumn": 40,
+                        "endOffset": 386
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 391,
+                    "endColumn": 38,
+                    "endOffset": 425
+                },
+                "from": {
+                    "file": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 391,
+                        "endColumn": 38,
+                        "endOffset": 425
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 430,
+                    "endColumn": 40,
+                    "endOffset": 466
+                },
+                "from": {
+                    "file": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 430,
+                        "endColumn": 40,
+                        "endOffset": 466
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 471,
+                    "endColumn": 44,
+                    "endOffset": 511
+                },
+                "from": {
+                    "file": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 471,
+                        "endColumn": 44,
+                        "endOffset": 511
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 516,
+                    "endColumn": 39,
+                    "endOffset": 551
+                },
+                "from": {
+                    "file": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 516,
+                        "endColumn": 39,
+                        "endOffset": 551
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 556,
+                    "endColumn": 44,
+                    "endOffset": 596
+                },
+                "from": {
+                    "file": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 556,
+                        "endColumn": 44,
+                        "endOffset": 596
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 601,
+                    "endColumn": 50,
+                    "endOffset": 647
+                },
+                "from": {
+                    "file": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 601,
+                        "endColumn": 50,
+                        "endOffset": 647
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 652,
+                    "endColumn": 40,
+                    "endOffset": 688
+                },
+                "from": {
+                    "file": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 652,
+                        "endColumn": 40,
+                        "endOffset": 688
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 693,
+                    "endColumn": 37,
+                    "endOffset": 726
+                },
+                "from": {
+                    "file": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 693,
+                        "endColumn": 37,
+                        "endOffset": 726
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 731,
+                    "endColumn": 51,
+                    "endOffset": 778
+                },
+                "from": {
+                    "file": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 731,
+                        "endColumn": 51,
+                        "endOffset": 778
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 783,
+                    "endColumn": 45,
+                    "endOffset": 824
+                },
+                "from": {
+                    "file": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 783,
+                        "endColumn": 45,
+                        "endOffset": 824
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 829,
+                    "endColumn": 46,
+                    "endOffset": 871
+                },
+                "from": {
+                    "file": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 829,
+                        "endColumn": 46,
+                        "endOffset": 871
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 876,
+                    "endColumn": 51,
+                    "endOffset": 923
+                },
+                "from": {
+                    "file": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 876,
+                        "endColumn": 51,
+                        "endOffset": 923
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 928,
+                    "endColumn": 43,
+                    "endOffset": 967
+                },
+                "from": {
+                    "file": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 928,
+                        "endColumn": 43,
+                        "endOffset": 967
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 972,
+                    "endColumn": 51,
+                    "endOffset": 1019
+                },
+                "from": {
+                    "file": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 972,
+                        "endColumn": 51,
+                        "endOffset": 1019
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1024,
+                    "endColumn": 73,
+                    "endOffset": 1093
+                },
+                "from": {
+                    "file": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1024,
+                        "endColumn": 73,
+                        "endOffset": 1093
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1098,
+                    "endColumn": 59,
+                    "endOffset": 1153
+                },
+                "from": {
+                    "file": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1098,
+                        "endColumn": 59,
+                        "endOffset": 1153
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1158,
+                    "endColumn": 54,
+                    "endOffset": 1208
+                },
+                "from": {
+                    "file": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1158,
+                        "endColumn": 54,
+                        "endOffset": 1208
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1213,
+                    "endColumn": 44,
+                    "endOffset": 1253
+                },
+                "from": {
+                    "file": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1213,
+                        "endColumn": 44,
+                        "endOffset": 1253
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1258,
+                    "endColumn": 53,
+                    "endOffset": 1307
+                },
+                "from": {
+                    "file": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1258,
+                        "endColumn": 53,
+                        "endOffset": 1307
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1312,
+                    "endColumn": 47,
+                    "endOffset": 1355
+                },
+                "from": {
+                    "file": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1312,
+                        "endColumn": 47,
+                        "endOffset": 1355
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1360,
+                    "endColumn": 40,
+                    "endOffset": 1396
+                },
+                "from": {
+                    "file": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1360,
+                        "endColumn": 40,
+                        "endOffset": 1396
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1401,
+                    "endColumn": 39,
+                    "endOffset": 1436
+                },
+                "from": {
+                    "file": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1401,
+                        "endColumn": 39,
+                        "endOffset": 1436
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 1441,
+                    "endColumn": 40,
+                    "endOffset": 1477
+                },
+                "from": {
+                    "file": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1441,
+                        "endColumn": 40,
+                        "endOffset": 1477
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 3446,
+                    "endColumn": 36,
+                    "endOffset": 3478
+                },
+                "from": {
+                    "file": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 4,
+                        "startOffset": 3174,
+                        "endColumn": 36,
+                        "endOffset": 3206
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 3483,
+                    "endColumn": 44,
+                    "endOffset": 3523
+                },
+                "from": {
+                    "file": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 4,
+                        "startOffset": 3211,
+                        "endColumn": 44,
+                        "endOffset": 3251
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 3528,
+                    "endColumn": 49,
+                    "endOffset": 3573
+                },
+                "from": {
+                    "file": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 4,
+                        "startOffset": 3256,
+                        "endColumn": 49,
+                        "endOffset": 3301
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 3578,
+                    "endColumn": 53,
+                    "endOffset": 3627
+                },
+                "from": {
+                    "file": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 50,
+                        "startColumn": 4,
+                        "startOffset": 3306,
+                        "endColumn": 53,
+                        "endOffset": 3355
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 3632,
+                    "endColumn": 42,
+                    "endOffset": 3670
+                },
+                "from": {
+                    "file": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 51,
+                        "startColumn": 4,
+                        "startOffset": 3360,
+                        "endColumn": 42,
+                        "endOffset": 3398
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 3675,
+                    "endColumn": 47,
+                    "endOffset": 3718
+                },
+                "from": {
+                    "file": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 52,
+                        "startColumn": 4,
+                        "startOffset": 3403,
+                        "endColumn": 47,
+                        "endOffset": 3446
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 3723,
+                    "endColumn": 54,
+                    "endOffset": 3773
+                },
+                "from": {
+                    "file": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 53,
+                        "startColumn": 4,
+                        "startOffset": 3451,
+                        "endColumn": 54,
+                        "endOffset": 3501
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 3778,
+                    "endColumn": 74,
+                    "endOffset": 3848
+                },
+                "from": {
+                    "file": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\build\\intermediates\\exploded-aar\\com.android.support\\recyclerview-v7\\23.0.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 547,
+                        "endColumn": 74,
+                        "endOffset": 617
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 3853,
+                    "endColumn": 51,
+                    "endOffset": 3900
+                },
+                "from": {
+                    "file": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 54,
+                        "startColumn": 4,
+                        "startOffset": 3506,
+                        "endColumn": 51,
+                        "endOffset": 3553
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 3905,
+                    "endColumn": 55,
+                    "endOffset": 3956
+                },
+                "from": {
+                    "file": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 55,
+                        "startColumn": 4,
+                        "startOffset": 3558,
+                        "endColumn": 55,
+                        "endOffset": 3609
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 3961,
+                    "endColumn": 52,
+                    "endOffset": 4009
+                },
+                "from": {
+                    "file": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 56,
+                        "startColumn": 4,
+                        "startOffset": 3614,
+                        "endColumn": 52,
+                        "endOffset": 3662
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 4014,
+                    "endColumn": 45,
+                    "endOffset": 4055
+                },
+                "from": {
+                    "file": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 57,
+                        "startColumn": 4,
+                        "startOffset": 3667,
+                        "endColumn": 45,
+                        "endOffset": 3708
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 4060,
+                    "endColumn": 46,
+                    "endOffset": 4102
+                },
+                "from": {
+                    "file": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 58,
+                        "startColumn": 4,
+                        "startOffset": 3713,
+                        "endColumn": 46,
+                        "endOffset": 3755
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 4107,
+                    "endColumn": 47,
+                    "endOffset": 4150
+                },
+                "from": {
+                    "file": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 59,
+                        "startColumn": 4,
+                        "startOffset": 3760,
+                        "endColumn": 47,
+                        "endOffset": 3803
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 4155,
+                    "endColumn": 52,
+                    "endOffset": 4203
+                },
+                "from": {
+                    "file": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 60,
+                        "startColumn": 4,
+                        "startOffset": 3808,
+                        "endColumn": 52,
+                        "endOffset": 3856
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 4208,
+                    "endColumn": 48,
+                    "endOffset": 4252
+                },
+                "from": {
+                    "file": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 61,
+                        "startColumn": 4,
+                        "startOffset": 3861,
+                        "endColumn": 48,
+                        "endOffset": 3905
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 4257,
+                    "endColumn": 54,
+                    "endOffset": 4307
+                },
+                "from": {
+                    "file": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 62,
+                        "startColumn": 4,
+                        "startOffset": 3910,
+                        "endColumn": 54,
+                        "endOffset": 3960
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 4312,
+                    "endColumn": 53,
+                    "endOffset": 4361
+                },
+                "from": {
+                    "file": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 63,
+                        "startColumn": 4,
+                        "startOffset": 3965,
+                        "endColumn": 53,
+                        "endOffset": 4014
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 66,
+                    "startColumn": 4,
+                    "startOffset": 4366,
+                    "endColumn": 53,
+                    "endOffset": 4415
+                },
+                "from": {
+                    "file": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 64,
+                        "startColumn": 4,
+                        "startOffset": 4019,
+                        "endColumn": 53,
+                        "endOffset": 4068
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 67,
+                    "startColumn": 4,
+                    "startOffset": 4420,
+                    "endColumn": 51,
+                    "endOffset": 4467
+                },
+                "from": {
+                    "file": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 65,
+                        "startColumn": 4,
+                        "startOffset": 4073,
+                        "endColumn": 51,
+                        "endOffset": 4120
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 68,
+                    "startColumn": 4,
+                    "startOffset": 4472,
+                    "endColumn": 54,
+                    "endOffset": 4522
+                },
+                "from": {
+                    "file": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 66,
+                        "startColumn": 4,
+                        "startOffset": 4125,
+                        "endColumn": 54,
+                        "endOffset": 4175
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 69,
+                    "startColumn": 4,
+                    "startOffset": 4527,
+                    "endColumn": 46,
+                    "endOffset": 4569
+                },
+                "from": {
+                    "file": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 67,
+                        "startColumn": 4,
+                        "startOffset": 4180,
+                        "endColumn": 46,
+                        "endOffset": 4222
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 70,
+                    "startColumn": 4,
+                    "startOffset": 4574,
+                    "endColumn": 50,
+                    "endOffset": 4620
+                },
+                "from": {
+                    "file": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 68,
+                        "startColumn": 4,
+                        "startOffset": 4227,
+                        "endColumn": 50,
+                        "endOffset": 4273
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 71,
+                    "startColumn": 4,
+                    "startOffset": 4625,
+                    "endColumn": 54,
+                    "endOffset": 4675
+                },
+                "from": {
+                    "file": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 69,
+                        "startColumn": 4,
+                        "startOffset": 4278,
+                        "endColumn": 54,
+                        "endOffset": 4328
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 72,
+                    "startColumn": 4,
+                    "startOffset": 4680,
+                    "endColumn": 42,
+                    "endOffset": 4718
+                },
+                "from": {
+                    "file": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 70,
+                        "startColumn": 4,
+                        "startOffset": 4333,
+                        "endColumn": 42,
+                        "endOffset": 4371
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 73,
+                    "startColumn": 4,
+                    "startOffset": 4723,
+                    "endColumn": 53,
+                    "endOffset": 4772
+                },
+                "from": {
+                    "file": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 71,
+                        "startColumn": 4,
+                        "startOffset": 4376,
+                        "endColumn": 53,
+                        "endOffset": 4425
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 74,
+                    "startColumn": 4,
+                    "startOffset": 4777,
+                    "endColumn": 65,
+                    "endOffset": 4838
+                },
+                "from": {
+                    "file": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\build\\intermediates\\exploded-aar\\com.android.support\\recyclerview-v7\\23.0.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 839,
+                        "endColumn": 65,
+                        "endOffset": 900
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 75,
+                    "startColumn": 4,
+                    "startOffset": 4843,
+                    "endColumn": 52,
+                    "endOffset": 4891
+                },
+                "from": {
+                    "file": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 72,
+                        "startColumn": 4,
+                        "startOffset": 4430,
+                        "endColumn": 52,
+                        "endOffset": 4478
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 76,
+                    "startColumn": 4,
+                    "startOffset": 4896,
+                    "endColumn": 54,
+                    "endOffset": 4946
+                },
+                "from": {
+                    "file": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 73,
+                        "startColumn": 4,
+                        "startOffset": 4483,
+                        "endColumn": 54,
+                        "endOffset": 4533
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 77,
+                    "startColumn": 4,
+                    "startOffset": 4951,
+                    "endColumn": 52,
+                    "endOffset": 4999
+                },
+                "from": {
+                    "file": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 74,
+                        "startColumn": 4,
+                        "startOffset": 4538,
+                        "endColumn": 52,
+                        "endOffset": 4586
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 78,
+                    "startColumn": 4,
+                    "startOffset": 5004,
+                    "endColumn": 44,
+                    "endOffset": 5044
+                },
+                "from": {
+                    "file": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 75,
+                        "startColumn": 4,
+                        "startOffset": 4591,
+                        "endColumn": 44,
+                        "endOffset": 4631
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 79,
+                    "startColumn": 4,
+                    "startOffset": 5049,
+                    "endColumn": 40,
+                    "endOffset": 5085
+                },
+                "from": {
+                    "file": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 76,
+                        "startColumn": 4,
+                        "startOffset": 4636,
+                        "endColumn": 40,
+                        "endOffset": 4672
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 80,
+                    "startColumn": 4,
+                    "startOffset": 5090,
+                    "endColumn": 41,
+                    "endOffset": 5127
+                },
+                "from": {
+                    "file": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 77,
+                        "startColumn": 4,
+                        "startOffset": 4677,
+                        "endColumn": 41,
+                        "endOffset": 4714
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 81,
+                    "startColumn": 4,
+                    "startOffset": 5132,
+                    "endColumn": 43,
+                    "endOffset": 5171
+                },
+                "from": {
+                    "file": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 78,
+                        "startColumn": 4,
+                        "startOffset": 4719,
+                        "endColumn": 43,
+                        "endOffset": 4758
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 82,
+                    "startColumn": 4,
+                    "startOffset": 5176,
+                    "endColumn": 42,
+                    "endOffset": 5214
+                },
+                "from": {
+                    "file": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 79,
+                        "startColumn": 4,
+                        "startOffset": 4763,
+                        "endColumn": 42,
+                        "endOffset": 4801
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 83,
+                    "startColumn": 4,
+                    "startOffset": 5219,
+                    "endColumn": 42,
+                    "endOffset": 5257
+                },
+                "from": {
+                    "file": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 80,
+                        "startColumn": 4,
+                        "startOffset": 4806,
+                        "endColumn": 42,
+                        "endOffset": 4844
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 84,
+                    "startColumn": 4,
+                    "startOffset": 5262,
+                    "endColumn": 45,
+                    "endOffset": 5303
+                },
+                "from": {
+                    "file": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 81,
+                        "startColumn": 4,
+                        "startOffset": 4849,
+                        "endColumn": 45,
+                        "endOffset": 4890
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 85,
+                    "startColumn": 4,
+                    "startOffset": 5308,
+                    "endColumn": 41,
+                    "endOffset": 5345
+                },
+                "from": {
+                    "file": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 82,
+                        "startColumn": 4,
+                        "startOffset": 4895,
+                        "endColumn": 41,
+                        "endOffset": 4932
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 86,
+                    "startColumn": 4,
+                    "startOffset": 5350,
+                    "endLine": 89,
+                    "endColumn": 12,
+                    "endOffset": 5622
+                },
+                "from": {
+                    "file": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 83,
+                        "startColumn": 4,
+                        "startOffset": 4937,
+                        "endLine": 86,
+                        "endColumn": 12,
+                        "endOffset": 5209
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 90,
+                    "startColumn": 4,
+                    "startOffset": 5627,
+                    "endLine": 96,
+                    "endColumn": 12,
+                    "endOffset": 5913
+                },
+                "from": {
+                    "file": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 87,
+                        "startColumn": 4,
+                        "startOffset": 5214,
+                        "endLine": 93,
+                        "endColumn": 12,
+                        "endOffset": 5500
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 97,
+                    "startColumn": 4,
+                    "startOffset": 5918,
+                    "endLine": 99,
+                    "endColumn": 12,
+                    "endOffset": 6073
+                },
+                "from": {
+                    "file": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 94,
+                        "startColumn": 4,
+                        "startOffset": 5505,
+                        "endLine": 96,
+                        "endColumn": 12,
+                        "endOffset": 5660
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 100,
+                    "startColumn": 4,
+                    "startOffset": 6078,
+                    "endLine": 106,
+                    "endColumn": 12,
+                    "endOffset": 6472
+                },
+                "from": {
+                    "file": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 97,
+                        "startColumn": 4,
+                        "startOffset": 5665,
+                        "endLine": 103,
+                        "endColumn": 12,
+                        "endOffset": 6059
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 107,
+                    "startColumn": 4,
+                    "startOffset": 6477,
+                    "endLine": 110,
+                    "endColumn": 12,
+                    "endOffset": 6740
+                },
+                "from": {
+                    "file": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 104,
+                        "startColumn": 4,
+                        "startOffset": 6064,
+                        "endLine": 107,
+                        "endColumn": 12,
+                        "endOffset": 6327
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 111,
+                    "startColumn": 4,
+                    "startOffset": 6745,
+                    "endLine": 114,
+                    "endColumn": 12,
+                    "endOffset": 7004
+                },
+                "from": {
+                    "file": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 108,
+                        "startColumn": 4,
+                        "startOffset": 6332,
+                        "endLine": 111,
+                        "endColumn": 12,
+                        "endOffset": 6591
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 115,
+                    "startColumn": 4,
+                    "startOffset": 7009,
+                    "endLine": 118,
+                    "endColumn": 12,
+                    "endOffset": 7260
+                },
+                "from": {
+                    "file": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 112,
+                        "startColumn": 4,
+                        "startOffset": 6596,
+                        "endLine": 115,
+                        "endColumn": 12,
+                        "endOffset": 6847
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 119,
+                    "startColumn": 4,
+                    "startOffset": 7265,
+                    "endLine": 133,
+                    "endColumn": 12,
+                    "endOffset": 7850
+                },
+                "from": {
+                    "file": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 116,
+                        "startColumn": 4,
+                        "startOffset": 6852,
+                        "endLine": 130,
+                        "endColumn": 12,
+                        "endOffset": 7437
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 134,
+                    "startColumn": 4,
+                    "startOffset": 7855,
+                    "endLine": 138,
+                    "endColumn": 12,
+                    "endOffset": 8000
+                },
+                "from": {
+                    "file": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 131,
+                        "startColumn": 4,
+                        "startOffset": 7442,
+                        "endLine": 135,
+                        "endColumn": 12,
+                        "endOffset": 7587
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 45,
+                        "endOffset": 96
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 101,
+                    "endColumn": 56,
+                    "endOffset": 153
+                },
+                "from": {
+                    "file": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 101,
+                        "endColumn": 56,
+                        "endOffset": 153
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 158,
+                    "endColumn": 70,
+                    "endOffset": 224
+                },
+                "from": {
+                    "file": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 158,
+                        "endColumn": 70,
+                        "endOffset": 224
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 229,
+                    "endColumn": 39,
+                    "endOffset": 264
+                },
+                "from": {
+                    "file": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 39,
+                        "endOffset": 264
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 269,
+                    "endColumn": 41,
+                    "endOffset": 306
+                },
+                "from": {
+                    "file": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 269,
+                        "endColumn": 41,
+                        "endOffset": 306
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 311,
+                    "endColumn": 38,
+                    "endOffset": 345
+                },
+                "from": {
+                    "file": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 311,
+                        "endColumn": 38,
+                        "endOffset": 345
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 350,
+                    "endColumn": 40,
+                    "endOffset": 386
+                },
+                "from": {
+                    "file": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 350,
+                        "endColumn": 40,
+                        "endOffset": 386
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 391,
+                    "endColumn": 38,
+                    "endOffset": 425
+                },
+                "from": {
+                    "file": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 391,
+                        "endColumn": 38,
+                        "endOffset": 425
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 430,
+                    "endColumn": 40,
+                    "endOffset": 466
+                },
+                "from": {
+                    "file": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 430,
+                        "endColumn": 40,
+                        "endOffset": 466
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 471,
+                    "endColumn": 44,
+                    "endOffset": 511
+                },
+                "from": {
+                    "file": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 471,
+                        "endColumn": 44,
+                        "endOffset": 511
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 516,
+                    "endColumn": 39,
+                    "endOffset": 551
+                },
+                "from": {
+                    "file": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 516,
+                        "endColumn": 39,
+                        "endOffset": 551
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 556,
+                    "endColumn": 44,
+                    "endOffset": 596
+                },
+                "from": {
+                    "file": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 556,
+                        "endColumn": 44,
+                        "endOffset": 596
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 601,
+                    "endColumn": 50,
+                    "endOffset": 647
+                },
+                "from": {
+                    "file": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 601,
+                        "endColumn": 50,
+                        "endOffset": 647
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 652,
+                    "endColumn": 40,
+                    "endOffset": 688
+                },
+                "from": {
+                    "file": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 652,
+                        "endColumn": 40,
+                        "endOffset": 688
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 693,
+                    "endColumn": 37,
+                    "endOffset": 726
+                },
+                "from": {
+                    "file": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 693,
+                        "endColumn": 37,
+                        "endOffset": 726
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 731,
+                    "endColumn": 51,
+                    "endOffset": 778
+                },
+                "from": {
+                    "file": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 731,
+                        "endColumn": 51,
+                        "endOffset": 778
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 783,
+                    "endColumn": 45,
+                    "endOffset": 824
+                },
+                "from": {
+                    "file": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 783,
+                        "endColumn": 45,
+                        "endOffset": 824
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 829,
+                    "endColumn": 46,
+                    "endOffset": 871
+                },
+                "from": {
+                    "file": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 829,
+                        "endColumn": 46,
+                        "endOffset": 871
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 876,
+                    "endColumn": 51,
+                    "endOffset": 923
+                },
+                "from": {
+                    "file": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 876,
+                        "endColumn": 51,
+                        "endOffset": 923
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 928,
+                    "endColumn": 43,
+                    "endOffset": 967
+                },
+                "from": {
+                    "file": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 928,
+                        "endColumn": 43,
+                        "endOffset": 967
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 972,
+                    "endColumn": 51,
+                    "endOffset": 1019
+                },
+                "from": {
+                    "file": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 972,
+                        "endColumn": 51,
+                        "endOffset": 1019
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1024,
+                    "endColumn": 73,
+                    "endOffset": 1093
+                },
+                "from": {
+                    "file": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1024,
+                        "endColumn": 73,
+                        "endOffset": 1093
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1098,
+                    "endColumn": 59,
+                    "endOffset": 1153
+                },
+                "from": {
+                    "file": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1098,
+                        "endColumn": 59,
+                        "endOffset": 1153
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1158,
+                    "endColumn": 54,
+                    "endOffset": 1208
+                },
+                "from": {
+                    "file": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1158,
+                        "endColumn": 54,
+                        "endOffset": 1208
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1213,
+                    "endColumn": 44,
+                    "endOffset": 1253
+                },
+                "from": {
+                    "file": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1213,
+                        "endColumn": 44,
+                        "endOffset": 1253
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1258,
+                    "endColumn": 53,
+                    "endOffset": 1307
+                },
+                "from": {
+                    "file": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1258,
+                        "endColumn": 53,
+                        "endOffset": 1307
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1312,
+                    "endColumn": 47,
+                    "endOffset": 1355
+                },
+                "from": {
+                    "file": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1312,
+                        "endColumn": 47,
+                        "endOffset": 1355
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1360,
+                    "endColumn": 40,
+                    "endOffset": 1396
+                },
+                "from": {
+                    "file": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1360,
+                        "endColumn": 40,
+                        "endOffset": 1396
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1401,
+                    "endColumn": 39,
+                    "endOffset": 1436
+                },
+                "from": {
+                    "file": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1401,
+                        "endColumn": 39,
+                        "endOffset": 1436
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 1441,
+                    "endColumn": 40,
+                    "endOffset": 1477
+                },
+                "from": {
+                    "file": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1441,
+                        "endColumn": 40,
+                        "endOffset": 1477
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 3446,
+                    "endColumn": 36,
+                    "endOffset": 3478
+                },
+                "from": {
+                    "file": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 4,
+                        "startOffset": 3174,
+                        "endColumn": 36,
+                        "endOffset": 3206
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 3483,
+                    "endColumn": 44,
+                    "endOffset": 3523
+                },
+                "from": {
+                    "file": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 4,
+                        "startOffset": 3211,
+                        "endColumn": 44,
+                        "endOffset": 3251
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 3528,
+                    "endColumn": 49,
+                    "endOffset": 3573
+                },
+                "from": {
+                    "file": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 4,
+                        "startOffset": 3256,
+                        "endColumn": 49,
+                        "endOffset": 3301
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 3578,
+                    "endColumn": 53,
+                    "endOffset": 3627
+                },
+                "from": {
+                    "file": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 50,
+                        "startColumn": 4,
+                        "startOffset": 3306,
+                        "endColumn": 53,
+                        "endOffset": 3355
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 3632,
+                    "endColumn": 42,
+                    "endOffset": 3670
+                },
+                "from": {
+                    "file": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 51,
+                        "startColumn": 4,
+                        "startOffset": 3360,
+                        "endColumn": 42,
+                        "endOffset": 3398
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 3675,
+                    "endColumn": 47,
+                    "endOffset": 3718
+                },
+                "from": {
+                    "file": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 52,
+                        "startColumn": 4,
+                        "startOffset": 3403,
+                        "endColumn": 47,
+                        "endOffset": 3446
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 3723,
+                    "endColumn": 54,
+                    "endOffset": 3773
+                },
+                "from": {
+                    "file": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 53,
+                        "startColumn": 4,
+                        "startOffset": 3451,
+                        "endColumn": 54,
+                        "endOffset": 3501
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 3778,
+                    "endColumn": 74,
+                    "endOffset": 3848
+                },
+                "from": {
+                    "file": "C:\\Users\\13636\\.android\\build-cache\\b966c7fc6fd8c25b59c5ee0d500830d8e3b6574d\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 547,
+                        "endColumn": 74,
+                        "endOffset": 617
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 3853,
+                    "endColumn": 51,
+                    "endOffset": 3900
+                },
+                "from": {
+                    "file": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 54,
+                        "startColumn": 4,
+                        "startOffset": 3506,
+                        "endColumn": 51,
+                        "endOffset": 3553
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 3905,
+                    "endColumn": 55,
+                    "endOffset": 3956
+                },
+                "from": {
+                    "file": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 55,
+                        "startColumn": 4,
+                        "startOffset": 3558,
+                        "endColumn": 55,
+                        "endOffset": 3609
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 3961,
+                    "endColumn": 52,
+                    "endOffset": 4009
+                },
+                "from": {
+                    "file": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 56,
+                        "startColumn": 4,
+                        "startOffset": 3614,
+                        "endColumn": 52,
+                        "endOffset": 3662
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 4014,
+                    "endColumn": 45,
+                    "endOffset": 4055
+                },
+                "from": {
+                    "file": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 57,
+                        "startColumn": 4,
+                        "startOffset": 3667,
+                        "endColumn": 45,
+                        "endOffset": 3708
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 4060,
+                    "endColumn": 46,
+                    "endOffset": 4102
+                },
+                "from": {
+                    "file": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 58,
+                        "startColumn": 4,
+                        "startOffset": 3713,
+                        "endColumn": 46,
+                        "endOffset": 3755
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 4107,
+                    "endColumn": 47,
+                    "endOffset": 4150
+                },
+                "from": {
+                    "file": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 59,
+                        "startColumn": 4,
+                        "startOffset": 3760,
+                        "endColumn": 47,
+                        "endOffset": 3803
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 4155,
+                    "endColumn": 52,
+                    "endOffset": 4203
+                },
+                "from": {
+                    "file": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 60,
+                        "startColumn": 4,
+                        "startOffset": 3808,
+                        "endColumn": 52,
+                        "endOffset": 3856
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 4208,
+                    "endColumn": 48,
+                    "endOffset": 4252
+                },
+                "from": {
+                    "file": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 61,
+                        "startColumn": 4,
+                        "startOffset": 3861,
+                        "endColumn": 48,
+                        "endOffset": 3905
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 4257,
+                    "endColumn": 54,
+                    "endOffset": 4307
+                },
+                "from": {
+                    "file": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 62,
+                        "startColumn": 4,
+                        "startOffset": 3910,
+                        "endColumn": 54,
+                        "endOffset": 3960
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 4312,
+                    "endColumn": 53,
+                    "endOffset": 4361
+                },
+                "from": {
+                    "file": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 63,
+                        "startColumn": 4,
+                        "startOffset": 3965,
+                        "endColumn": 53,
+                        "endOffset": 4014
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 66,
+                    "startColumn": 4,
+                    "startOffset": 4366,
+                    "endColumn": 53,
+                    "endOffset": 4415
+                },
+                "from": {
+                    "file": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 64,
+                        "startColumn": 4,
+                        "startOffset": 4019,
+                        "endColumn": 53,
+                        "endOffset": 4068
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 67,
+                    "startColumn": 4,
+                    "startOffset": 4420,
+                    "endColumn": 51,
+                    "endOffset": 4467
+                },
+                "from": {
+                    "file": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 65,
+                        "startColumn": 4,
+                        "startOffset": 4073,
+                        "endColumn": 51,
+                        "endOffset": 4120
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 68,
+                    "startColumn": 4,
+                    "startOffset": 4472,
+                    "endColumn": 54,
+                    "endOffset": 4522
+                },
+                "from": {
+                    "file": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 66,
+                        "startColumn": 4,
+                        "startOffset": 4125,
+                        "endColumn": 54,
+                        "endOffset": 4175
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 69,
+                    "startColumn": 4,
+                    "startOffset": 4527,
+                    "endColumn": 46,
+                    "endOffset": 4569
+                },
+                "from": {
+                    "file": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 67,
+                        "startColumn": 4,
+                        "startOffset": 4180,
+                        "endColumn": 46,
+                        "endOffset": 4222
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 70,
+                    "startColumn": 4,
+                    "startOffset": 4574,
+                    "endColumn": 50,
+                    "endOffset": 4620
+                },
+                "from": {
+                    "file": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 68,
+                        "startColumn": 4,
+                        "startOffset": 4227,
+                        "endColumn": 50,
+                        "endOffset": 4273
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 71,
+                    "startColumn": 4,
+                    "startOffset": 4625,
+                    "endColumn": 54,
+                    "endOffset": 4675
+                },
+                "from": {
+                    "file": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 69,
+                        "startColumn": 4,
+                        "startOffset": 4278,
+                        "endColumn": 54,
+                        "endOffset": 4328
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 72,
+                    "startColumn": 4,
+                    "startOffset": 4680,
+                    "endColumn": 42,
+                    "endOffset": 4718
+                },
+                "from": {
+                    "file": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 70,
+                        "startColumn": 4,
+                        "startOffset": 4333,
+                        "endColumn": 42,
+                        "endOffset": 4371
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 73,
+                    "startColumn": 4,
+                    "startOffset": 4723,
+                    "endColumn": 53,
+                    "endOffset": 4772
+                },
+                "from": {
+                    "file": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 71,
+                        "startColumn": 4,
+                        "startOffset": 4376,
+                        "endColumn": 53,
+                        "endOffset": 4425
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 74,
+                    "startColumn": 4,
+                    "startOffset": 4777,
+                    "endColumn": 65,
+                    "endOffset": 4838
+                },
+                "from": {
+                    "file": "C:\\Users\\13636\\.android\\build-cache\\b966c7fc6fd8c25b59c5ee0d500830d8e3b6574d\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 839,
+                        "endColumn": 65,
+                        "endOffset": 900
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 75,
+                    "startColumn": 4,
+                    "startOffset": 4843,
+                    "endColumn": 52,
+                    "endOffset": 4891
+                },
+                "from": {
+                    "file": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 72,
+                        "startColumn": 4,
+                        "startOffset": 4430,
+                        "endColumn": 52,
+                        "endOffset": 4478
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 76,
+                    "startColumn": 4,
+                    "startOffset": 4896,
+                    "endColumn": 54,
+                    "endOffset": 4946
+                },
+                "from": {
+                    "file": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 73,
+                        "startColumn": 4,
+                        "startOffset": 4483,
+                        "endColumn": 54,
+                        "endOffset": 4533
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 77,
+                    "startColumn": 4,
+                    "startOffset": 4951,
+                    "endColumn": 52,
+                    "endOffset": 4999
+                },
+                "from": {
+                    "file": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 74,
+                        "startColumn": 4,
+                        "startOffset": 4538,
+                        "endColumn": 52,
+                        "endOffset": 4586
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 78,
+                    "startColumn": 4,
+                    "startOffset": 5004,
+                    "endColumn": 44,
+                    "endOffset": 5044
+                },
+                "from": {
+                    "file": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 75,
+                        "startColumn": 4,
+                        "startOffset": 4591,
+                        "endColumn": 44,
+                        "endOffset": 4631
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 79,
+                    "startColumn": 4,
+                    "startOffset": 5049,
+                    "endColumn": 40,
+                    "endOffset": 5085
+                },
+                "from": {
+                    "file": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 76,
+                        "startColumn": 4,
+                        "startOffset": 4636,
+                        "endColumn": 40,
+                        "endOffset": 4672
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 80,
+                    "startColumn": 4,
+                    "startOffset": 5090,
+                    "endColumn": 41,
+                    "endOffset": 5127
+                },
+                "from": {
+                    "file": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 77,
+                        "startColumn": 4,
+                        "startOffset": 4677,
+                        "endColumn": 41,
+                        "endOffset": 4714
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 81,
+                    "startColumn": 4,
+                    "startOffset": 5132,
+                    "endColumn": 43,
+                    "endOffset": 5171
+                },
+                "from": {
+                    "file": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 78,
+                        "startColumn": 4,
+                        "startOffset": 4719,
+                        "endColumn": 43,
+                        "endOffset": 4758
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 82,
+                    "startColumn": 4,
+                    "startOffset": 5176,
+                    "endColumn": 42,
+                    "endOffset": 5214
+                },
+                "from": {
+                    "file": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 79,
+                        "startColumn": 4,
+                        "startOffset": 4763,
+                        "endColumn": 42,
+                        "endOffset": 4801
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 83,
+                    "startColumn": 4,
+                    "startOffset": 5219,
+                    "endColumn": 42,
+                    "endOffset": 5257
+                },
+                "from": {
+                    "file": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 80,
+                        "startColumn": 4,
+                        "startOffset": 4806,
+                        "endColumn": 42,
+                        "endOffset": 4844
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 84,
+                    "startColumn": 4,
+                    "startOffset": 5262,
+                    "endColumn": 45,
+                    "endOffset": 5303
+                },
+                "from": {
+                    "file": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 81,
+                        "startColumn": 4,
+                        "startOffset": 4849,
+                        "endColumn": 45,
+                        "endOffset": 4890
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 85,
+                    "startColumn": 4,
+                    "startOffset": 5308,
+                    "endColumn": 41,
+                    "endOffset": 5345
+                },
+                "from": {
+                    "file": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 82,
+                        "startColumn": 4,
+                        "startOffset": 4895,
+                        "endColumn": 41,
+                        "endOffset": 4932
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 86,
+                    "startColumn": 4,
+                    "startOffset": 5350,
+                    "endLine": 89,
+                    "endColumn": 12,
+                    "endOffset": 5622
+                },
+                "from": {
+                    "file": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 83,
+                        "startColumn": 4,
+                        "startOffset": 4937,
+                        "endLine": 86,
+                        "endColumn": 12,
+                        "endOffset": 5209
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 90,
+                    "startColumn": 4,
+                    "startOffset": 5627,
+                    "endLine": 96,
+                    "endColumn": 12,
+                    "endOffset": 5913
+                },
+                "from": {
+                    "file": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 87,
+                        "startColumn": 4,
+                        "startOffset": 5214,
+                        "endLine": 93,
+                        "endColumn": 12,
+                        "endOffset": 5500
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 97,
+                    "startColumn": 4,
+                    "startOffset": 5918,
+                    "endLine": 99,
+                    "endColumn": 12,
+                    "endOffset": 6073
+                },
+                "from": {
+                    "file": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 94,
+                        "startColumn": 4,
+                        "startOffset": 5505,
+                        "endLine": 96,
+                        "endColumn": 12,
+                        "endOffset": 5660
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 100,
+                    "startColumn": 4,
+                    "startOffset": 6078,
+                    "endLine": 106,
+                    "endColumn": 12,
+                    "endOffset": 6472
+                },
+                "from": {
+                    "file": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 97,
+                        "startColumn": 4,
+                        "startOffset": 5665,
+                        "endLine": 103,
+                        "endColumn": 12,
+                        "endOffset": 6059
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 107,
+                    "startColumn": 4,
+                    "startOffset": 6477,
+                    "endLine": 110,
+                    "endColumn": 12,
+                    "endOffset": 6740
+                },
+                "from": {
+                    "file": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 104,
+                        "startColumn": 4,
+                        "startOffset": 6064,
+                        "endLine": 107,
+                        "endColumn": 12,
+                        "endOffset": 6327
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 111,
+                    "startColumn": 4,
+                    "startOffset": 6745,
+                    "endLine": 114,
+                    "endColumn": 12,
+                    "endOffset": 7004
+                },
+                "from": {
+                    "file": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 108,
+                        "startColumn": 4,
+                        "startOffset": 6332,
+                        "endLine": 111,
+                        "endColumn": 12,
+                        "endOffset": 6591
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 115,
+                    "startColumn": 4,
+                    "startOffset": 7009,
+                    "endLine": 118,
+                    "endColumn": 12,
+                    "endOffset": 7260
+                },
+                "from": {
+                    "file": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 112,
+                        "startColumn": 4,
+                        "startOffset": 6596,
+                        "endLine": 115,
+                        "endColumn": 12,
+                        "endOffset": 6847
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 119,
+                    "startColumn": 4,
+                    "startOffset": 7265,
+                    "endLine": 133,
+                    "endColumn": 12,
+                    "endOffset": 7850
+                },
+                "from": {
+                    "file": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 116,
+                        "startColumn": 4,
+                        "startOffset": 6852,
+                        "endLine": 130,
+                        "endColumn": 12,
+                        "endOffset": 7437
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 134,
+                    "startColumn": 4,
+                    "startOffset": 7855,
+                    "endLine": 138,
+                    "endColumn": 12,
+                    "endOffset": 8000
+                },
+                "from": {
+                    "file": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 131,
+                        "startColumn": 4,
+                        "startOffset": 7442,
+                        "endLine": 135,
+                        "endColumn": 12,
+                        "endOffset": 7587
+                    }
+                }
+            }
+        ]
+    }
+]

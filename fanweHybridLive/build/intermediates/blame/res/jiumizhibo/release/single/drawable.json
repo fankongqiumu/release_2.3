@@ -1,0 +1,2154 @@
+[
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_white_stroke_bot_left_right_deep.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_white_stroke_bot_left_right_deep.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\90c4577f069c42dd03253e9d156e3985d465bf6e\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_trans_corner_5dp.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\layer_trans_corner_5dp.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\switch_setting_white_round_thumb.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\switch_setting_white_round_thumb.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\selector_list_item.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\selector_list_item.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_main_color_press.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_main_color_press.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\selector_main_color_to_main_color_press_5dp_corner.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\selector_main_color_to_main_color_press_5dp_corner.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_green_top_corner_dialog_user_info.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\layer_green_top_corner_dialog_user_info.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_gray_stroke_bot_left_right.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_gray_stroke_bot_left_right.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_white_stroke_top_deep.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_white_stroke_top_deep.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\game_layer_blur_top_round.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\bundles\\default\\res\\drawable\\game_layer_blur_top_round.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_white_stroke_top_left_right.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_white_stroke_top_left_right.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\13636\\.android\\build-cache\\a92df266d5404f7d37ed7a23abe8c35da7d38682\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\selector_transparent_stroke_main_color_main_color_corner20dp.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\selector_transparent_stroke_main_color_main_color_corner20dp.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\selector_plugin_music.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\selector_plugin_music.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\selector_white_gray_stroke_all.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\selector_white_gray_stroke_all.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_blur_normal.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\layer_blur_normal.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_blur_live_pop_msg_content.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\layer_blur_live_pop_msg_content.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\selector_live_tab_create_live.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\selector_live_tab_create_live.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\13636\\.android\\build-cache\\a92df266d5404f7d37ed7a23abe8c35da7d38682\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\bg_green_rectangle_radius.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\bg_green_rectangle_radius.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\bg_blue_right_radius.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\bg_blue_right_radius.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_blur_live_gift_play_first.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\layer_blur_live_gift_play_first.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\13636\\.android\\build-cache\\a92df266d5404f7d37ed7a23abe8c35da7d38682\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_blur_live_msg_corner.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\layer_blur_live_msg_corner.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_gray_stroke_top.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_gray_stroke_top.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\timepicker_divider_line.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\792904830200922ff9d0a05bc627089eb8fa8ae3\\output\\res\\drawable\\timepicker_divider_line.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_black_corner.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\layer_black_corner.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_white_stroke_corner_item_bot.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_white_stroke_corner_item_bot.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\bg_white_rectangle_radius.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\bg_white_rectangle_radius.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\selector_bg_continue_send.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\selector_bg_continue_send.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\13636\\.android\\build-cache\\a92df266d5404f7d37ed7a23abe8c35da7d38682\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_transparent_stroke_white_corner20dp.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_transparent_stroke_white_corner20dp.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\selector_point.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\selector_point.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\13636\\.android\\build-cache\\a92df266d5404f7d37ed7a23abe8c35da7d38682\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\umeng_socialize_delete.png",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\f2b14d568349a1060cfb51e756cefde66f9d5b14\\output\\res\\drawable\\umeng_socialize_delete.png"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\umeng_socialize_edit_bg.xml",
+        "source": "C:\\Users\\13636\\.android\\build-cache\\0229d2f91504cf0c719bdade6851ff489f70b330\\output\\res\\drawable\\umeng_socialize_edit_bg.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_transparent_round_press.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\layer_transparent_round_press.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\13636\\.android\\build-cache\\a92df266d5404f7d37ed7a23abe8c35da7d38682\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_blur_auction_user_rank_list_item.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\layer_blur_auction_user_rank_list_item.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\bg_room_effect_circle_item_nor.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\bg_room_effect_circle_item_nor.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_white_stroke_all_deep.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_white_stroke_all_deep.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_main_color_corner_6dp.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\layer_main_color_corner_6dp.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\selector_plugin_start_close.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\selector_plugin_start_close.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_white_solid_10dp_corner.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\layer_white_solid_10dp_corner.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_blur_corner20dp.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_blur_corner20dp.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\selector_white_gray_stroke_top_bot_deep.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\selector_white_gray_stroke_top_bot_deep.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\90c4577f069c42dd03253e9d156e3985d465bf6e\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\selector_cb_dialog_tipoff.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\selector_cb_dialog_tipoff.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\placeholder.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\placeholder.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\bg_room_effect_circle_item_sel.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\bg_room_effect_circle_item_sel.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\selector_white_gray_stroke_top_deep.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\selector_white_gray_stroke_top_deep.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\selector_dialog_cancel.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\selector_dialog_cancel.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\bg_circle_red.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\bg_circle_red.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_white_stroke_bot_deep.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_white_stroke_bot_deep.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\13636\\.android\\build-cache\\a92df266d5404f7d37ed7a23abe8c35da7d38682\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_white_blur_corner.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\layer_white_blur_corner.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_transparent_round_normal.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\layer_transparent_round_normal.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\switch_setting_main_color_corner_track.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\switch_setting_main_color_corner_track.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\live_song_search_edittext_shape.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\live_song_search_edittext_shape.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\selector_black_main_color.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\selector_black_main_color.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\wheel_bg.xml",
+        "source": "C:\\Users\\13636\\.android\\build-cache\\222af7f957f233e5d4e1c6d4aa7081dfabb78b0a\\output\\res\\drawable\\wheel_bg.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_main_color_corner_press.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_main_color_corner_press.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_white_stroke_bot.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_white_stroke_bot.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\animation_loading.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\animation_loading.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\selector_transparent_stroke_main_color_5dp.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\selector_transparent_stroke_main_color_5dp.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_blur_corner.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\layer_blur_corner.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\bg_room_list_gaming.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\bg_room_list_gaming.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\bg_spinner_rectangle_radius.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\bg_spinner_rectangle_radius.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\selector_white_gray_stroke_top_bot.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\selector_white_gray_stroke_top_bot.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_gray_stroke_top_left_right.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_gray_stroke_top_left_right.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_dialog_cancel_press.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\layer_dialog_cancel_press.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_transparent_solid_maincolor_stroke_50dp_corner.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\layer_transparent_solid_maincolor_stroke_50dp_corner.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_gray_stroke_corner_item_bot.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_gray_stroke_corner_item_bot.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_white_bot_corner.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\layer_white_bot_corner.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\13636\\.android\\build-cache\\a92df266d5404f7d37ed7a23abe8c35da7d38682\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_white.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_white.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\switch_setting_white_round_thumb.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\switch_setting_white_round_thumb.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_transparent_stroke_white_corner.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_transparent_stroke_white_corner.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\div_bottom_shadow.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\div_bottom_shadow.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_black_corner.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\layer_black_corner.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\13636\\.android\\build-cache\\a92df266d5404f7d37ed7a23abe8c35da7d38682\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_transparent_stroke_gray_corner20dp.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_transparent_stroke_gray_corner20dp.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\selector_blur.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\selector_blur.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\selector_white_gray_stroke_all_deep.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\selector_white_gray_stroke_all_deep.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_blue_corner_6dp.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\layer_blue_corner_6dp.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_main_color_press_stroke_white_corner_item_single.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_main_color_press_stroke_white_corner_item_single.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_white_stroke_main_color.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\layer_white_stroke_main_color.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_gray_stroke_corner_item_single_deep.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_gray_stroke_corner_item_single_deep.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\timepicker_divider_line.xml",
+        "source": "C:\\Users\\13636\\.android\\build-cache\\222af7f957f233e5d4e1c6d4aa7081dfabb78b0a\\output\\res\\drawable\\timepicker_divider_line.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\selector_white_gray_stroke_bot.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\selector_white_gray_stroke_bot.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_white_solid_main_color_stroke_20dp_corner.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\layer_white_solid_main_color_stroke_20dp_corner.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\90c4577f069c42dd03253e9d156e3985d465bf6e\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\selector_gray_blue_corner.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\selector_gray_blue_corner.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\selector_transparent_stroke_main_color_main_color_corner20dp.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\selector_transparent_stroke_main_color_main_color_corner20dp.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\selector_white_gray_stroke_bot_deep.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\selector_white_gray_stroke_bot_deep.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\selector_main_color_to_main_color_press_50dp_corner.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\selector_main_color_to_main_color_press_50dp_corner.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\selector_song_stop_btn.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\selector_song_stop_btn.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\bg_room_list_gaming.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\bg_room_list_gaming.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_gray_stroke_corner_item_top.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_gray_stroke_corner_item_top.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_blur_main_color_live_follow_creater.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\layer_blur_main_color_live_follow_creater.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\90c4577f069c42dd03253e9d156e3985d465bf6e\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\selector_gray_main_color_corner.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\selector_gray_main_color_corner.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_white_stroke_main_color_corner.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_white_stroke_main_color_corner.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\auction_layer_yellow_left_round.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\auction_layer_yellow_left_round.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\13636\\.android\\build-cache\\a92df266d5404f7d37ed7a23abe8c35da7d38682\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_white_stroke_corner_item_top.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_white_stroke_corner_item_top.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_white_stroke_bot_left_right.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_white_stroke_bot_left_right.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_gray_stroke_bot.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_gray_stroke_bot.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\selector_white_gray_stroke_corner_item_top.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\selector_white_gray_stroke_corner_item_top.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_white_stroke_corner_3dp.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\layer_white_stroke_corner_3dp.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_main_color_solid_5dp_corner_normal.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\layer_main_color_solid_5dp_corner_normal.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_blur_live_pop_msg_content.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\layer_blur_live_pop_msg_content.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\13636\\.android\\build-cache\\a92df266d5404f7d37ed7a23abe8c35da7d38682\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_white_stroke_top.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_white_stroke_top.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\90c4577f069c42dd03253e9d156e3985d465bf6e\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_white_stroke_all.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_white_stroke_all.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\90c4577f069c42dd03253e9d156e3985d465bf6e\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\umeng_socialize_back_icon.png",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\f2b14d568349a1060cfb51e756cefde66f9d5b14\\output\\res\\drawable\\umeng_socialize_back_icon.png"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\selector_pay_dialog.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\selector_pay_dialog.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\live_song_select_shape.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\live_song_select_shape.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\selector_white_gray_stroke_corner_item_top_deep.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\selector_white_gray_stroke_corner_item_top_deep.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_main_color_solid_50dp_corner_press.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\layer_main_color_solid_50dp_corner_press.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\bg_green_rectangle_radius.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\bg_green_rectangle_radius.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\umeng_socialize_share_video.png",
+        "source": "C:\\Users\\13636\\.android\\build-cache\\0229d2f91504cf0c719bdade6851ff489f70b330\\output\\res\\drawable\\umeng_socialize_share_video.png"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\selector_pickerview_btn.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\041291745cf9e43b784ddb6d8ca2df148fa50d0b\\output\\res\\drawable\\selector_pickerview_btn.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\selector_pickerview_btn.xml",
+        "source": "C:\\Users\\13636\\.android\\build-cache\\08596e081d60bc7fe24083283ccc7003e5824728\\output\\res\\drawable\\selector_pickerview_btn.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\room_effect_ver_seekbar.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\room_effect_ver_seekbar.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_gray_stroke_top_bot_deep.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_gray_stroke_top_bot_deep.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\loading_corners.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\loading_corners.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\13636\\.android\\build-cache\\a92df266d5404f7d37ed7a23abe8c35da7d38682\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\90c4577f069c42dd03253e9d156e3985d465bf6e\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\ucrop_vector_ic_crop.xml",
+        "source": "C:\\Users\\13636\\.android\\build-cache\\8ef4dfd115f04a939a9f5cf9491f0f21788a7d21\\output\\res\\drawable\\ucrop_vector_ic_crop.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_gray_stroke_corner_item_single.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_gray_stroke_corner_item_single.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_blur_live_gift_play_first.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\layer_blur_live_gift_play_first.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_yellow_stroke_black_corner_20dp.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\layer_yellow_stroke_black_corner_20dp.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\selector_main_color_corner20dp.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\selector_main_color_corner20dp.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\wheel_bg.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\792904830200922ff9d0a05bc627089eb8fa8ae3\\output\\res\\drawable\\wheel_bg.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\auction_layer_yellow_left_round.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\auction_layer_yellow_left_round.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_gray_stroke_bot_left_right.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_gray_stroke_bot_left_right.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_gray.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_gray.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_white_stroke_top_deep.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_white_stroke_top_deep.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_blur_normal.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\layer_blur_normal.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\anim_rocket1.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\anim_rocket1.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\selector_main_color_to_main_color_press_5dp_corner.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\selector_main_color_to_main_color_press_5dp_corner.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\wheel_val.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\792904830200922ff9d0a05bc627089eb8fa8ae3\\output\\res\\drawable\\wheel_val.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\13636\\.android\\build-cache\\a92df266d5404f7d37ed7a23abe8c35da7d38682\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_gray_stroke_corner_item_top_deep.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_gray_stroke_corner_item_top_deep.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_main_color_corner20dp_normal.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_main_color_corner20dp_normal.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\90c4577f069c42dd03253e9d156e3985d465bf6e\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_main_color_corner_press.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_main_color_corner_press.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\indicator_bg_top.xml",
+        "source": "C:\\Users\\13636\\.android\\build-cache\\69077baca7a23c9d2777fb694bccf56b24501cef\\output\\res\\drawable\\indicator_bg_top.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\oval_main_color.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\oval_main_color.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\ucrop_shadow_upside.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\6e28b8e1e1500ce6163ad1ac01401c5419a5700e\\output\\res\\drawable\\ucrop_shadow_upside.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\bg_white_rectangle_radius.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\bg_white_rectangle_radius.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_transparent_stroke_white.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_transparent_stroke_white.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\bg_seekbar_main_color.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\bg_seekbar_main_color.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\90c4577f069c42dd03253e9d156e3985d465bf6e\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_white_solid_10dp_corner.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\layer_white_solid_10dp_corner.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\90c4577f069c42dd03253e9d156e3985d465bf6e\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\room_effect_ver_seekbar.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\room_effect_ver_seekbar.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\bg_gray_rectangle_radius.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\bg_gray_rectangle_radius.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_white_corner_10dp.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\layer_white_corner_10dp.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\selector_bg_follow.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\selector_bg_follow.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_main_color_top_corner.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\layer_main_color_top_corner.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\selector_white_gray_stroke_top_left_right_deep.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\selector_white_gray_stroke_top_left_right_deep.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_main_color_corner_6dp.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\layer_main_color_corner_6dp.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\selector_live_tab_create_live.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\selector_live_tab_create_live.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_main_color_5dp_corner_press.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\layer_main_color_5dp_corner_press.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\90c4577f069c42dd03253e9d156e3985d465bf6e\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\selector_black_main_color.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\selector_black_main_color.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\auction_layer_auction_main_color_corner_3dp.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\auction_layer_auction_main_color_corner_3dp.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_gray_stroke_all.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_gray_stroke_all.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\13636\\.android\\build-cache\\a92df266d5404f7d37ed7a23abe8c35da7d38682\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\animation_play_voice_left.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\animation_play_voice_left.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\div_left_shadow.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\div_left_shadow.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\bg_deep_orange_rectangle_radius.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\bg_deep_orange_rectangle_radius.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\ic_pull_refresh_refreshing.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\ic_pull_refresh_refreshing.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\game_layer_blur_bottom_round.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\bundles\\default\\res\\drawable\\game_layer_blur_bottom_round.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\umeng_socialize_copyurl.png",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\f2b14d568349a1060cfb51e756cefde66f9d5b14\\output\\res\\drawable\\umeng_socialize_copyurl.png"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_white_stroke_corner.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\layer_white_stroke_corner.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\selector_transparent_stroke_main_color_5dp.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\selector_transparent_stroke_main_color_5dp.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\selector_bg_follow.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\selector_bg_follow.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\game_layer_grey_round.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\bundles\\default\\res\\drawable\\game_layer_grey_round.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\umeng_socialize_back_icon.png",
+        "source": "C:\\Users\\13636\\.android\\build-cache\\0229d2f91504cf0c719bdade6851ff489f70b330\\output\\res\\drawable\\umeng_socialize_back_icon.png"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\live_song_download_shape.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\live_song_download_shape.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_red_half_round.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\layer_red_half_round.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_gray_stroke_bot_left_right_deep.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_gray_stroke_bot_left_right_deep.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_white.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_white.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\umeng_socialize_wechat.png",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\f2b14d568349a1060cfb51e756cefde66f9d5b14\\output\\res\\drawable\\umeng_socialize_wechat.png"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\selector_dialog_confirm.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\selector_dialog_confirm.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_shop_push_yellow_corner.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\layer_shop_push_yellow_corner.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\bg_blue_right_radius.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\bg_blue_right_radius.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\div_left_shadow.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\div_left_shadow.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\selector_white_gray.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\selector_white_gray.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\switch_setting_white_corner_track.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\switch_setting_white_corner_track.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_white_stroke_corner_item_bot.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_white_stroke_corner_item_bot.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_blur_live_info.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\layer_blur_live_info.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_gray_stroke_top.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_gray_stroke_top.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\selector_white_gray_stroke_bot_left_right.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\selector_white_gray_stroke_bot_left_right.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\rotate_progress_white.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\rotate_progress_white.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\ic_pull_refresh_refreshing.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\ic_pull_refresh_refreshing.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\selector_plugin_switch_camera.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\selector_plugin_switch_camera.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_gray_stroke_top_left_right_deep.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_gray_stroke_top_left_right_deep.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_transparent_stroke_main_color_corner20dp.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_transparent_stroke_main_color_corner20dp.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\umeng_socialize_more.png",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\f2b14d568349a1060cfb51e756cefde66f9d5b14\\output\\res\\drawable\\umeng_socialize_more.png"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_main_color_solid_50dp_corner_press.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\layer_main_color_solid_50dp_corner_press.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\13636\\.android\\build-cache\\a92df266d5404f7d37ed7a23abe8c35da7d38682\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\selector_item_focus_follow_cb.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\selector_item_focus_follow_cb.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\13636\\.android\\build-cache\\a92df266d5404f7d37ed7a23abe8c35da7d38682\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\umeng_socialize_btn_bg.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\f2b14d568349a1060cfb51e756cefde66f9d5b14\\output\\res\\drawable\\umeng_socialize_btn_bg.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\selector_main_color.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\selector_main_color.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\oval_main_color.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\oval_main_color.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_white_stroke_all.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_white_stroke_all.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_shop_g_p_s_corner.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\layer_shop_g_p_s_corner.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\90c4577f069c42dd03253e9d156e3985d465bf6e\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\div_top_shadow.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\div_top_shadow.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\13636\\.android\\build-cache\\a92df266d5404f7d37ed7a23abe8c35da7d38682\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_gray_stroke_top_bot.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_gray_stroke_top_bot.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\bg_circle_red.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\bg_circle_red.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\selector_pay_dialog.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\selector_pay_dialog.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\umeng_socialize_wechat.png",
+        "source": "C:\\Users\\13636\\.android\\build-cache\\0229d2f91504cf0c719bdade6851ff489f70b330\\output\\res\\drawable\\umeng_socialize_wechat.png"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\umeng_socialize_edit_bg.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\f2b14d568349a1060cfb51e756cefde66f9d5b14\\output\\res\\drawable\\umeng_socialize_edit_bg.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_main_color_corner20dp_normal.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_main_color_corner20dp_normal.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\bg_grey_rectangle_radius.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\bg_grey_rectangle_radius.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\umeng_socialize_more.png",
+        "source": "C:\\Users\\13636\\.android\\build-cache\\0229d2f91504cf0c719bdade6851ff489f70b330\\output\\res\\drawable\\umeng_socialize_more.png"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_transparent_stroke_gray_corner_5dp.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\layer_transparent_stroke_gray_corner_5dp.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_transparent_stroke_main_color.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_transparent_stroke_main_color.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_white_stroke_main_color.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\layer_white_stroke_main_color.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_blur_corner20dp.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_blur_corner20dp.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_main_color_press.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_main_color_press.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\auction_layer_auction_goods_detail_status_yellow.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\auction_layer_auction_goods_detail_status_yellow.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\selector_main_color_stroke_white_corner_item_single.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\selector_main_color_stroke_white_corner_item_single.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\animation_play_voice_left.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\animation_play_voice_left.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_blur_auction_live_last_price.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\layer_blur_auction_live_last_price.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_white_stroke_all_deep.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_white_stroke_all_deep.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\auction_layer_auction_main_color_corner_3dp.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\auction_layer_auction_main_color_corner_3dp.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\13636\\.android\\build-cache\\a92df266d5404f7d37ed7a23abe8c35da7d38682\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_white_stroke_corner.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\layer_white_stroke_corner.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\90c4577f069c42dd03253e9d156e3985d465bf6e\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_gray_stroke_top_left_right.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_gray_stroke_top_left_right.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\umeng_socialize_share_web.png",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\f2b14d568349a1060cfb51e756cefde66f9d5b14\\output\\res\\drawable\\umeng_socialize_share_web.png"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_live_red_corner.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\layer_live_red_corner.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\90c4577f069c42dd03253e9d156e3985d465bf6e\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_main_color_corner_normal.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_main_color_corner_normal.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\90c4577f069c42dd03253e9d156e3985d465bf6e\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\animation_loading.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\animation_loading.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_blur_live_msg_corner.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\layer_blur_live_msg_corner.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_gray_stroke_corner_item_bot_deep.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_gray_stroke_corner_item_bot_deep.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_white_stroke_top_left_right.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_white_stroke_top_left_right.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_blur_live_ticket.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\layer_blur_live_ticket.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\timepicker_sel_text_item.xml",
+        "source": "C:\\Users\\13636\\.android\\build-cache\\222af7f957f233e5d4e1c6d4aa7081dfabb78b0a\\output\\res\\drawable\\timepicker_sel_text_item.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\ucrop_vector_loader_animated.xml",
+        "source": "C:\\Users\\13636\\.android\\build-cache\\8ef4dfd115f04a939a9f5cf9491f0f21788a7d21\\output\\res\\drawable\\ucrop_vector_loader_animated.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_main_color_solid_20dp_corner.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\layer_main_color_solid_20dp_corner.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_white_stroke_corner_item_single.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_white_stroke_corner_item_single.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_gray_solid_6dp_corner.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\layer_gray_solid_6dp_corner.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\anim_rocket1.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\anim_rocket1.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\selector_white_gray_stroke_top_left_right.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\selector_white_gray_stroke_top_left_right.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\selector_white_gray_stroke_bot_left_right_deep.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\selector_white_gray_stroke_bot_left_right_deep.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_blur_live_gift_play_second.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\layer_blur_live_gift_play_second.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\loading_corners.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\loading_corners.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\selector_white_gray_stroke_all_deep.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\selector_white_gray_stroke_all_deep.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\umeng_socialize_wxcircle.png",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\f2b14d568349a1060cfb51e756cefde66f9d5b14\\output\\res\\drawable\\umeng_socialize_wxcircle.png"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\umeng_socialize_menu_default.png",
+        "source": "C:\\Users\\13636\\.android\\build-cache\\0229d2f91504cf0c719bdade6851ff489f70b330\\output\\res\\drawable\\umeng_socialize_menu_default.png"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_gray_stroke_top_bot_deep.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_gray_stroke_top_bot_deep.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_main_color_normal.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_main_color_normal.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\selector_white_gray_stroke_corner_item_bot.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\selector_white_gray_stroke_corner_item_bot.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_blur_live_info.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\layer_blur_live_info.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\selector_main_color_corner20dp.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\selector_main_color_corner20dp.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_white_stroke_top.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_white_stroke_top.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\selector_song_stop_btn.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\selector_song_stop_btn.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\selector_edt_delete.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\selector_edt_delete.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_transparent_stroke_main_color_corner.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_transparent_stroke_main_color_corner.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_yellow_stroke_black_corner_20dp_pressed.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\layer_yellow_stroke_black_corner_20dp_pressed.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_blur_live_gift_play_second.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\layer_blur_live_gift_play_second.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_gray_stroke_top_deep.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_gray_stroke_top_deep.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_yellow_stroke_black_corner_20dp_pressed.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\layer_yellow_stroke_black_corner_20dp_pressed.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_white_stroke_corner_item_bot_deep.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_white_stroke_corner_item_bot_deep.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_white_corner.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\layer_white_corner.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\selector_main_color_corner.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\selector_main_color_corner.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\bg_main_color_rectangle_radius.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\bg_main_color_rectangle_radius.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_white_stroke_dot_bot.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_white_stroke_dot_bot.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_gray.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_gray.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\auction_layer_auction_goods_detail_status_gray.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\auction_layer_auction_goods_detail_status_gray.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_white_stroke_top_bot.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_white_stroke_top_bot.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\selector_main_color_corner.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\selector_main_color_corner.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\umeng_socialize_fav.png",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\f2b14d568349a1060cfb51e756cefde66f9d5b14\\output\\res\\drawable\\umeng_socialize_fav.png"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_gray_stroke_all_deep.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_gray_stroke_all_deep.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\selector_white_gray_stroke_bot_deep.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\selector_white_gray_stroke_bot_deep.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\90c4577f069c42dd03253e9d156e3985d465bf6e\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\selector_white_gray_stroke_corner_item_single.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\selector_white_gray_stroke_corner_item_single.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\selector_white_gray_stroke_corner_item_single.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\selector_white_gray_stroke_corner_item_single.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_gray_stroke_corner_item_bot.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_gray_stroke_corner_item_bot.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_gray_stroke_bot.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_gray_stroke_bot.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_gray_stroke_top_deep.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_gray_stroke_top_deep.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\umeng_socialize_copy.png",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\f2b14d568349a1060cfb51e756cefde66f9d5b14\\output\\res\\drawable\\umeng_socialize_copy.png"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\auction_layer_auction_goods_detail_status_gray.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\auction_layer_auction_goods_detail_status_gray.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\umeng_socialize_wxcircle.png",
+        "source": "C:\\Users\\13636\\.android\\build-cache\\0229d2f91504cf0c719bdade6851ff489f70b330\\output\\res\\drawable\\umeng_socialize_wxcircle.png"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_gray_stroke_bot_left_right_deep.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_gray_stroke_bot_left_right_deep.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\selector_dialog_confirm.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\selector_dialog_confirm.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\animation_play_voice_right.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\animation_play_voice_right.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\bg_grey_circle.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\bundles\\default\\res\\drawable\\bg_grey_circle.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\selector_white_gray_stroke_bot_left_right_deep.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\selector_white_gray_stroke_bot_left_right_deep.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\selector_white_to_gray_press.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\selector_white_to_gray_press.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\umeng_socialize_share_music.png",
+        "source": "C:\\Users\\13636\\.android\\build-cache\\0229d2f91504cf0c719bdade6851ff489f70b330\\output\\res\\drawable\\umeng_socialize_share_music.png"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\ucrop_vector_loader_animated.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\6e28b8e1e1500ce6163ad1ac01401c5419a5700e\\output\\res\\drawable\\ucrop_vector_loader_animated.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_transparent_solid_gray_stroke_50dp_corner.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\layer_transparent_solid_gray_stroke_50dp_corner.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\selector_white_gray_stroke_corner_item_top_deep.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\selector_white_gray_stroke_corner_item_top_deep.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_white_bot_corner.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\layer_white_bot_corner.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_gray_stroke_bot_deep.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_gray_stroke_bot_deep.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\90c4577f069c42dd03253e9d156e3985d465bf6e\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\bg_deep_orange_rectangle_radius.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\bg_deep_orange_rectangle_radius.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\selector_transparent_to_main_color_50dp_corner.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\selector_transparent_to_main_color_50dp_corner.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\umeng_socialize_sina.png",
+        "source": "C:\\Users\\13636\\.android\\build-cache\\0229d2f91504cf0c719bdade6851ff489f70b330\\output\\res\\drawable\\umeng_socialize_sina.png"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\game_layer_blur_bottom_round.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\bundles\\default\\res\\drawable\\game_layer_blur_bottom_round.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_transparent_stroke_white_corner20dp.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_transparent_stroke_white_corner20dp.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\selector_white_gray_stroke_corner_item_single_deep.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\selector_white_gray_stroke_corner_item_single_deep.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_white_stroke_top_bot_deep.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_white_stroke_top_bot_deep.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\anim_plane2.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\anim_plane2.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\90c4577f069c42dd03253e9d156e3985d465bf6e\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_shop_push_main_color_corner.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\layer_shop_push_main_color_corner.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_white_stroke_corner_item_single_deep.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_white_stroke_corner_item_single_deep.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_white_solid_main_color_stroke_20dp_corner.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\layer_white_solid_main_color_stroke_20dp_corner.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\bg_banker_info.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\bg_banker_info.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_white_stroke_dot_bot.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_white_stroke_dot_bot.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\div_bottom_shadow.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\div_bottom_shadow.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\timepicker_sel_text_item.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\792904830200922ff9d0a05bc627089eb8fa8ae3\\output\\res\\drawable\\timepicker_sel_text_item.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_white_stroke_top_left_right_deep.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_white_stroke_top_left_right_deep.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_transparent_stroke_gray_corner20dp.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_transparent_stroke_gray_corner20dp.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_transparent_stroke_gray_corner_5dp.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\layer_transparent_stroke_gray_corner_5dp.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\ucrop_vector_loader.xml",
+        "source": "C:\\Users\\13636\\.android\\build-cache\\8ef4dfd115f04a939a9f5cf9491f0f21788a7d21\\output\\res\\drawable\\ucrop_vector_loader.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_blur_live_ticket.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\layer_blur_live_ticket.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_gray_stroke_all_deep.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_gray_stroke_all_deep.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\90c4577f069c42dd03253e9d156e3985d465bf6e\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\umeng_socialize_share_web.png",
+        "source": "C:\\Users\\13636\\.android\\build-cache\\0229d2f91504cf0c719bdade6851ff489f70b330\\output\\res\\drawable\\umeng_socialize_share_web.png"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\selector_white_gray_stroke_top_deep.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\selector_white_gray_stroke_top_deep.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\umeng_socialize_qq.png",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\f2b14d568349a1060cfb51e756cefde66f9d5b14\\output\\res\\drawable\\umeng_socialize_qq.png"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\selector_white_gray_stroke_all.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\selector_white_gray_stroke_all.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\13636\\.android\\build-cache\\a92df266d5404f7d37ed7a23abe8c35da7d38682\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\selector_user_portrait_back.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\selector_user_portrait_back.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_main_color_solid_20dp_corner.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\layer_main_color_solid_20dp_corner.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_transparent_stroke_white.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_transparent_stroke_white.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\umeng_socialize_qq.png",
+        "source": "C:\\Users\\13636\\.android\\build-cache\\0229d2f91504cf0c719bdade6851ff489f70b330\\output\\res\\drawable\\umeng_socialize_qq.png"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_white_corner.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\layer_white_corner.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\selector_user_portrait_back.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\selector_user_portrait_back.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\selector_transparent_to_main_color_50dp_corner.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\selector_transparent_to_main_color_50dp_corner.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\selector_song_effect_btn.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\selector_song_effect_btn.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\90c4577f069c42dd03253e9d156e3985d465bf6e\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\90c4577f069c42dd03253e9d156e3985d465bf6e\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\placeholder.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\placeholder.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\13636\\.android\\build-cache\\a92df266d5404f7d37ed7a23abe8c35da7d38682\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\90c4577f069c42dd03253e9d156e3985d465bf6e\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_white_stroke_main_color_corner.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_white_stroke_main_color_corner.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_main_color_corner20dp_press.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_main_color_corner20dp_press.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_white_stroke_corner_3dp.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\layer_white_stroke_corner_3dp.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_blur_main_color_live_follow_creater.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\layer_blur_main_color_live_follow_creater.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\bg_grey_circle.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\bundles\\default\\res\\drawable\\bg_grey_circle.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\13636\\.android\\build-cache\\a92df266d5404f7d37ed7a23abe8c35da7d38682\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_white_stroke_bot.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_white_stroke_bot.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_white_stroke_bot_deep.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_white_stroke_bot_deep.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_white_stroke_top_bot.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_white_stroke_top_bot.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\ucrop_shadow_upside.xml",
+        "source": "C:\\Users\\13636\\.android\\build-cache\\8ef4dfd115f04a939a9f5cf9491f0f21788a7d21\\output\\res\\drawable\\ucrop_shadow_upside.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\90c4577f069c42dd03253e9d156e3985d465bf6e\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_red_half_round.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\layer_red_half_round.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_blur_auction_live_last_price.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\layer_blur_auction_live_last_price.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\90c4577f069c42dd03253e9d156e3985d465bf6e\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\rotate_progress_white.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\rotate_progress_white.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\div_right_shadow.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\div_right_shadow.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_blue_corner_6dp.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\layer_blue_corner_6dp.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\umeng_socialize_share_video.png",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\f2b14d568349a1060cfb51e756cefde66f9d5b14\\output\\res\\drawable\\umeng_socialize_share_video.png"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_gray_stroke_all.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_gray_stroke_all.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\selector_white_gray_stroke_top.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\selector_white_gray_stroke_top.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\umeng_socialize_qzone.png",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\f2b14d568349a1060cfb51e756cefde66f9d5b14\\output\\res\\drawable\\umeng_socialize_qzone.png"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\selector_song_effect_btn.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\selector_song_effect_btn.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_main_color_normal.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_main_color_normal.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\umeng_socialize_copyurl.png",
+        "source": "C:\\Users\\13636\\.android\\build-cache\\0229d2f91504cf0c719bdade6851ff489f70b330\\output\\res\\drawable\\umeng_socialize_copyurl.png"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\umeng_socialize_menu_default.png",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\f2b14d568349a1060cfb51e756cefde66f9d5b14\\output\\res\\drawable\\umeng_socialize_menu_default.png"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\umeng_socialize_btn_bg.xml",
+        "source": "C:\\Users\\13636\\.android\\build-cache\\0229d2f91504cf0c719bdade6851ff489f70b330\\output\\res\\drawable\\umeng_socialize_btn_bg.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_white_stroke_top_bot_deep.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_white_stroke_top_bot_deep.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\selector_cb_dialog_tipoff.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\selector_cb_dialog_tipoff.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\bg_seekbar_play_video.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\bg_seekbar_play_video.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_dialog_cancel_press.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\layer_dialog_cancel_press.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\umeng_socialize_share_music.png",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\f2b14d568349a1060cfb51e756cefde66f9d5b14\\output\\res\\drawable\\umeng_socialize_share_music.png"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_gray_stroke_corner_item_top_deep.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_gray_stroke_corner_item_top_deep.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\selector_main_color_stroke_white_corner_item_single.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\selector_main_color_stroke_white_corner_item_single.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\auction_layer_auction_goods_detail_status_yellow.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\auction_layer_auction_goods_detail_status_yellow.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\selector_white_gray_stroke_corner_item_bot_deep.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\selector_white_gray_stroke_corner_item_bot_deep.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_transparent_solid_gray_stroke_50dp_corner.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\layer_transparent_solid_gray_stroke_50dp_corner.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_transparent_round_normal.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\layer_transparent_round_normal.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_main_color_press_stroke_white_corner_item_single.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_main_color_press_stroke_white_corner_item_single.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_gray_stroke_corner_item_bot_deep.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_gray_stroke_corner_item_bot_deep.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_gray_stroke_corner_item_top.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_gray_stroke_corner_item_top.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_main_color_corner_normal.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_main_color_corner_normal.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\13636\\.android\\build-cache\\a92df266d5404f7d37ed7a23abe8c35da7d38682\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\bg_spinner_rectangle_radius.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\bg_spinner_rectangle_radius.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_gray_stroke_top_bot.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_gray_stroke_top_bot.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\selector_white_gray_stroke_bot_left_right.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\selector_white_gray_stroke_bot_left_right.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\selector_white_to_gray_press.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\selector_white_to_gray_press.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\13636\\.android\\build-cache\\a92df266d5404f7d37ed7a23abe8c35da7d38682\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\13636\\.android\\build-cache\\a92df266d5404f7d37ed7a23abe8c35da7d38682\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\90c4577f069c42dd03253e9d156e3985d465bf6e\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_dialog_cancel_normal.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\layer_dialog_cancel_normal.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\13636\\.android\\build-cache\\a92df266d5404f7d37ed7a23abe8c35da7d38682\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\selector_white_gray_stroke_top_left_right_deep.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\selector_white_gray_stroke_top_left_right_deep.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_main_color_solid_50dp_corner.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\layer_main_color_solid_50dp_corner.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_gray_stroke_bot_deep.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_gray_stroke_bot_deep.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\selector_maincolor_to_white_text_main_color_stroke_50dp_corner.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\selector_maincolor_to_white_text_main_color_stroke_50dp_corner.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\selector_maincolor_to_white_text_main_color_stroke_50dp_corner.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\selector_maincolor_to_white_text_main_color_stroke_50dp_corner.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_dialog_confirm_normal.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\layer_dialog_confirm_normal.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\game_layer_blur_round.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\bundles\\default\\res\\drawable\\game_layer_blur_round.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\selector_plugin_start_close.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\selector_plugin_start_close.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\13636\\.android\\build-cache\\a92df266d5404f7d37ed7a23abe8c35da7d38682\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\animation_play_voice_right.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\animation_play_voice_right.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_blur_corner.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\layer_blur_corner.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\indicator_bg_bottom.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\ddacb4a2463440973ce8c0cf6f5e832ff9e7c694\\output\\res\\drawable\\indicator_bg_bottom.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\selector_gray_main_color_corner.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\selector_gray_main_color_corner.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_main_color_corner20dp_press.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_main_color_corner20dp_press.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\selector_white_gray_stroke_top_bot_deep.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\selector_white_gray_stroke_top_bot_deep.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\bg_grey_rectangle_radius.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\bg_grey_rectangle_radius.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\auction_layer_white_stroke_corner_3dp.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\auction_layer_white_stroke_corner_3dp.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\13636\\.android\\build-cache\\a92df266d5404f7d37ed7a23abe8c35da7d38682\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\selector_plugin_music.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\selector_plugin_music.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\selector_bg_continue_send.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\selector_bg_continue_send.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_shop_g_p_s_corner.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\layer_shop_g_p_s_corner.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\switch_setting_main_color_corner_track.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\switch_setting_main_color_corner_track.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\ucrop_vector_loader.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\6e28b8e1e1500ce6163ad1ac01401c5419a5700e\\output\\res\\drawable\\ucrop_vector_loader.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_white_stroke_corner_item_single_deep.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_white_stroke_corner_item_single_deep.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_transparent_stroke_main_color_corner.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_transparent_stroke_main_color_corner.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_transparent_round_press.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\layer_transparent_round_press.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\live_song_download_shape.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\live_song_download_shape.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_transparent_stroke_main_color.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_transparent_stroke_main_color.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_transparent_stroke_main_color_corner20dp.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_transparent_stroke_main_color_corner20dp.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\umeng_socialize_sina.png",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\f2b14d568349a1060cfb51e756cefde66f9d5b14\\output\\res\\drawable\\umeng_socialize_sina.png"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_live_deep_red_corner.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\layer_live_deep_red_corner.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_gray_stroke_corner_item_single.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_gray_stroke_corner_item_single.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\selector_white_gray_stroke_top_left_right.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\selector_white_gray_stroke_top_left_right.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\selector_white_gray_stroke_corner_item_bot.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\selector_white_gray_stroke_corner_item_bot.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_white_stroke_bot_left_right.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_white_stroke_bot_left_right.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_live_red_corner.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\layer_live_red_corner.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_main_color_stroke_white_corner_item_single.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_main_color_stroke_white_corner_item_single.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\bg_white_rectangle_radius_30.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\bg_white_rectangle_radius_30.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\selector_white_gray_stroke_corner_item_bot_deep.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\selector_white_gray_stroke_corner_item_bot_deep.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\90c4577f069c42dd03253e9d156e3985d465bf6e\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_shop_push_main_color_corner.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\layer_shop_push_main_color_corner.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\90c4577f069c42dd03253e9d156e3985d465bf6e\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\selector_white_gray_stroke_corner_item_top.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\selector_white_gray_stroke_corner_item_top.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\auction_layer_white_stroke_corner_3dp.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\auction_layer_white_stroke_corner_3dp.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\selector_main_color.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\selector_main_color.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\selector_white_gray_stroke_bot.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\selector_white_gray_stroke_bot.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_dialog_cancel_normal.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\layer_dialog_cancel_normal.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_dialog_confirm_press.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\layer_dialog_confirm_press.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\game_layer_blur_top_round.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\bundles\\default\\res\\drawable\\game_layer_blur_top_round.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_main_color_solid_50dp_corner.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\layer_main_color_solid_50dp_corner.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\wheel_val.xml",
+        "source": "C:\\Users\\13636\\.android\\build-cache\\222af7f957f233e5d4e1c6d4aa7081dfabb78b0a\\output\\res\\drawable\\wheel_val.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_green_top_corner_dialog_user_info.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\layer_green_top_corner_dialog_user_info.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\selector_main_color_to_main_color_press_50dp_corner.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\selector_main_color_to_main_color_press_50dp_corner.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\div_top_shadow.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\div_top_shadow.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\13636\\.android\\build-cache\\a92df266d5404f7d37ed7a23abe8c35da7d38682\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\13636\\.android\\build-cache\\a92df266d5404f7d37ed7a23abe8c35da7d38682\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_yellow_stroke_black_corner_20dp.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\layer_yellow_stroke_black_corner_20dp.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_white_stroke_corner_item_single.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_white_stroke_corner_item_single.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_dialog_confirm_normal.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\layer_dialog_confirm_normal.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\bg_orange_rectangle_radius.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\bg_orange_rectangle_radius.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\umeng_socialize_delete.png",
+        "source": "C:\\Users\\13636\\.android\\build-cache\\0229d2f91504cf0c719bdade6851ff489f70b330\\output\\res\\drawable\\umeng_socialize_delete.png"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\selector_white_gray_stroke_top_bot.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\selector_white_gray_stroke_top_bot.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\anim_plane2.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\anim_plane2.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\13636\\.android\\build-cache\\a92df266d5404f7d37ed7a23abe8c35da7d38682\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\90c4577f069c42dd03253e9d156e3985d465bf6e\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\90c4577f069c42dd03253e9d156e3985d465bf6e\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\game_layer_blur_round.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\bundles\\default\\res\\drawable\\game_layer_blur_round.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_dialog_confirm_press.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\layer_dialog_confirm_press.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_live_deep_red_corner.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\layer_live_deep_red_corner.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_white_stroke_bot_left_right_deep.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_white_stroke_bot_left_right_deep.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\live_song_search_edittext_shape.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\live_song_search_edittext_shape.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\bg_banker_info.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\bg_banker_info.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\90c4577f069c42dd03253e9d156e3985d465bf6e\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\ucrop_vector_ic_crop.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\6e28b8e1e1500ce6163ad1ac01401c5419a5700e\\output\\res\\drawable\\ucrop_vector_ic_crop.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_white_stroke_top_left_right_deep.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_white_stroke_top_left_right_deep.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_gray_solid_6dp_corner.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\layer_gray_solid_6dp_corner.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\selector_gray_blue_corner.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\selector_gray_blue_corner.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\90c4577f069c42dd03253e9d156e3985d465bf6e\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\bg_gray_rectangle_radius.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\bg_gray_rectangle_radius.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\90c4577f069c42dd03253e9d156e3985d465bf6e\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\selector_white_gray_stroke_corner_item_single_deep.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\selector_white_gray_stroke_corner_item_single_deep.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_white_stroke_corner_item_bot_deep.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_white_stroke_corner_item_bot_deep.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\selector_edt_delete.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\selector_edt_delete.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_gray_stroke_top_left_right_deep.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_gray_stroke_top_left_right_deep.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\selector_white_gray_stroke_top.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\selector_white_gray_stroke_top.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\bg_room_plugins_buttom.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\bg_room_plugins_buttom.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\umeng_socialize_qzone.png",
+        "source": "C:\\Users\\13636\\.android\\build-cache\\0229d2f91504cf0c719bdade6851ff489f70b330\\output\\res\\drawable\\umeng_socialize_qzone.png"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\bg_edittext_activity_topic_white_corner.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\bg_edittext_activity_topic_white_corner.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_gray_stroke_corner_item_single_deep.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_gray_stroke_corner_item_single_deep.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\90c4577f069c42dd03253e9d156e3985d465bf6e\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_main_color_stroke_white_corner_item_single.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_main_color_stroke_white_corner_item_single.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\bg_orange_rectangle_radius.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\bg_orange_rectangle_radius.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\live_song_select_shape.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\live_song_select_shape.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_white_stroke_corner_item_top_deep.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_white_stroke_corner_item_top_deep.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_shop_push_yellow_corner.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\layer_shop_push_yellow_corner.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\selector_white_gray.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\selector_white_gray.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\selector_blur.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\selector_blur.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\game_layer_grey_round.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\bundles\\default\\res\\drawable\\game_layer_grey_round.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\switch_setting_white_corner_track.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\switch_setting_white_corner_track.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_transparent_stroke_white_corner.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_transparent_stroke_white_corner.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\bg_white_rectangle_radius_30.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\bg_white_rectangle_radius_30.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\bg_main_color_rectangle_radius.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\bg_main_color_rectangle_radius.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\13636\\.android\\build-cache\\a92df266d5404f7d37ed7a23abe8c35da7d38682\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\selector_list_item.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\selector_list_item.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\bg_room_effect_circle_item_nor.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\bg_room_effect_circle_item_nor.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\bg_seekbar_play_video.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\bg_seekbar_play_video.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\13636\\.android\\build-cache\\a92df266d5404f7d37ed7a23abe8c35da7d38682\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_white_blur_corner.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\layer_white_blur_corner.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_transparent_solid_maincolor_stroke_50dp_corner.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\layer_transparent_solid_maincolor_stroke_50dp_corner.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\13636\\.android\\build-cache\\a92df266d5404f7d37ed7a23abe8c35da7d38682\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\umeng_socialize_copy.png",
+        "source": "C:\\Users\\13636\\.android\\build-cache\\0229d2f91504cf0c719bdade6851ff489f70b330\\output\\res\\drawable\\umeng_socialize_copy.png"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\indicator_bg_bottom.xml",
+        "source": "C:\\Users\\13636\\.android\\build-cache\\69077baca7a23c9d2777fb694bccf56b24501cef\\output\\res\\drawable\\indicator_bg_bottom.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_blur_pressed.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\layer_blur_pressed.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\umeng_socialize_fav.png",
+        "source": "C:\\Users\\13636\\.android\\build-cache\\0229d2f91504cf0c719bdade6851ff489f70b330\\output\\res\\drawable\\umeng_socialize_fav.png"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\selector_item_focus_follow_cb.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\selector_item_focus_follow_cb.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\indicator_bg_top.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\ddacb4a2463440973ce8c0cf6f5e832ff9e7c694\\output\\res\\drawable\\indicator_bg_top.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\bg_room_effect_circle_item_sel.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\bg_room_effect_circle_item_sel.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_trans_corner_5dp.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\layer_trans_corner_5dp.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\selector_point.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\selector_point.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\90c4577f069c42dd03253e9d156e3985d465bf6e\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_white_corner_10dp.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\layer_white_corner_10dp.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\div_right_shadow.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\div_right_shadow.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_blur_pressed.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\layer_blur_pressed.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_white_stroke_corner_item_top_deep.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_white_stroke_corner_item_top_deep.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\bg_room_plugins_buttom.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\bg_room_plugins_buttom.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_main_color_top_corner.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\layer_main_color_top_corner.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_main_color_5dp_corner_press.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\layer_main_color_5dp_corner_press.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_main_color_solid_5dp_corner_normal.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\layer_main_color_solid_5dp_corner_normal.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\bg_edittext_activity_topic_white_corner.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\bg_edittext_activity_topic_white_corner.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_blur_auction_user_rank_list_item.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\layer_blur_auction_user_rank_list_item.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\13636\\.android\\build-cache\\a92df266d5404f7d37ed7a23abe8c35da7d38682\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\layer_white_stroke_corner_item_top.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_white_stroke_corner_item_top.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\bg_seekbar_main_color.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\bg_seekbar_main_color.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\selector_dialog_cancel.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\selector_dialog_cancel.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\drawable\\selector_plugin_switch_camera.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\drawable\\selector_plugin_switch_camera.xml"
+    }
+]

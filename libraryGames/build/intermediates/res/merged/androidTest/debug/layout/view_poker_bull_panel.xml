@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="226dp">
+
+    <LinearLayout
+        android:id="@+id/ll_poker_bet_panel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/bg_game_panel"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:id="@+id/ll_poker_panel"
+            android:layout_width="match_parent"
+            android:layout_height="90dp"
+            android:orientation="horizontal"
+            android:weightSum="3">
+
+            <RelativeLayout
+                android:id="@+id/rel_pv_1"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:padding="5dp"
+                android:layout_weight="1">
+
+                <com.librarygames.view.PokerBullView
+                    android:id="@+id/pv_1"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_centerVertical="true"
+                    android:layout_alignParentLeft="true"
+                    android:padding="5dp"
+                    android:background="@drawable/game_layer_blur_round"/>
+
+                <com.librarygames.view.GameResultTextView
+                    android:id="@+id/grtv1"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/rel_pv_2"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:padding="5dp"
+                android:layout_weight="1">
+
+                <com.librarygames.view.PokerBullView
+                    android:id="@+id/pv_2"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:padding="5dp"
+                    android:layout_centerInParent="true"
+                    android:background="@drawable/game_layer_blur_round"/>
+                <com.librarygames.view.GameResultTextView
+                    android:id="@+id/grtv2"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/rel_pv_3"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:padding="5dp"
+                android:layout_weight="1">
+
+                <com.librarygames.view.PokerBullView
+                    android:id="@+id/pv_3"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:padding="5dp"
+                    android:layout_centerVertical="true"
+                    android:layout_alignParentRight="true"
+                    android:background="@drawable/game_layer_blur_round"/>
+
+                <com.librarygames.view.GameResultTextView
+                    android:id="@+id/grtv3"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent" />
+            </RelativeLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/ll_bet_panel"
+            android:layout_width="match_parent"
+            android:layout_height="90dp"
+            android:orientation="horizontal"
+            android:weightSum="3">
+
+            <LinearLayout
+                android:id="@+id/ll_bet_area_one"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:orientation="horizontal"
+                android:gravity="center"
+                android:padding="5dp">
+
+                <com.librarygames.view.PokerBetAreaView
+                    android:id="@+id/bet_area_one"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"/>
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/ll_bet_area_two"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:orientation="horizontal"
+                android:gravity="center"
+                android:padding="5dp">
+
+                <com.librarygames.view.PokerBetAreaView
+                    android:id="@+id/bet_area_two"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"/>
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/ll_bet_area_three"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:orientation="horizontal"
+                android:gravity="center"
+                android:padding="5dp">
+
+                <com.librarygames.view.PokerBetAreaView
+                    android:id="@+id/bet_area_three"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"/>
+            </LinearLayout>
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/ll_gold_amount"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/height_title_bar"
+        android:layout_below="@+id/ll_poker_bet_panel"
+        android:orientation="horizontal">
+
+        <com.librarygames.view.PokerPanelBottomView
+            android:id="@+id/poker_bottom_view"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"/>
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/iv_pokers"
+        android:layout_width="65dp"
+        android:layout_height="65dp"
+        android:visibility="invisible"
+        android:layout_centerInParent="true"
+        android:src="@drawable/img_bullflight"/>
+
+    <ImageView
+        android:id="@+id/iv_poker"
+        android:layout_width="32dp"
+        android:layout_height="40dp"
+        android:layout_centerInParent="true"
+        android:visibility="invisible"
+        android:src="@drawable/poker_back_bull"/>
+
+    <com.librarygames.view.GameToastView
+        android:id="@+id/gametoastview"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"/>
+
+    <com.librarygames.view.GameClockView
+        android:id="@+id/gcv_clock"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:visibility="invisible"
+        android:layout_marginTop="50dp"
+        android:layout_centerHorizontal="true"/>
+</RelativeLayout>

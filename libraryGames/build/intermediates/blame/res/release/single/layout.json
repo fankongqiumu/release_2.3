@@ -1,0 +1,450 @@
+[
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\release\\layout\\dialog_menu.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\layout\\dialog_menu.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\release\\layout\\pop_title_more.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\layout\\pop_title_more.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\release\\layout\\item_games_log.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\src\\main\\res\\layout\\item_games_log.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\release\\layout\\view_poker_bull.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\src\\main\\res\\layout\\view_poker_bull.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\release\\layout\\view_poker_card.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\src\\main\\res\\layout\\view_poker_card.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\release\\layout\\view_tab_underline.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\layout\\view_tab_underline.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\release\\layout\\view_tab_item_sld_menu.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\layout\\view_tab_item_sld_menu.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\release\\layout\\view_tab_item_corner.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\layout\\view_tab_item_corner.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\release\\layout\\view_poker_clock.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\src\\main\\res\\layout\\view_poker_clock.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\release\\layout\\dialog_progress.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\layout\\dialog_progress.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\release\\layout\\pop_category_single_lv.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\layout\\pop_category_single_lv.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\release\\layout\\dialog_games_history.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\src\\main\\res\\layout\\dialog_games_history.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\release\\layout\\view_poker_bottom_view.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\src\\main\\res\\layout\\view_poker_bottom_view.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\release\\layout\\view_tab_item_sld_menu.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\layout\\view_tab_item_sld_menu.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\release\\layout\\view_poker_bottom_view.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\src\\main\\res\\layout\\view_poker_bottom_view.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\release\\layout\\view_poker_goldflower.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\src\\main\\res\\layout\\view_poker_goldflower.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\release\\layout\\item_simple_adv.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\layout\\item_simple_adv.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\release\\layout\\view_sliding_play_view.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\layout\\view_sliding_play_view.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\release\\layout\\view_tab_corner_text.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\layout\\view_tab_corner_text.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\release\\layout\\view_category.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\layout\\view_category.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\release\\layout\\dialog_games_poker_win.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\src\\main\\res\\layout\\dialog_games_poker_win.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\release\\layout\\item_menu.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\layout\\item_menu.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\release\\layout\\activity_main.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\release\\layout\\timepicker_layout.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\layout\\timepicker_layout.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\release\\layout\\timepicker_toolbar.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\layout\\timepicker_toolbar.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\release\\layout\\dialog_custom.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\layout\\dialog_custom.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\release\\layout\\view_poker_result_text.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\src\\main\\res\\layout\\view_poker_result_text.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\release\\layout\\item_simple_text.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\layout\\item_simple_text.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\release\\layout\\item_games_log.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\src\\main\\res\\layout\\item_games_log.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\release\\layout\\dialog_games_history.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\src\\main\\res\\layout\\dialog_games_history.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\release\\layout\\title_simple.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\layout\\title_simple.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\release\\layout\\timepicker_layout.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\layout\\timepicker_layout.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\release\\layout\\view_poker_goldflower_panel.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\src\\main\\res\\layout\\view_poker_goldflower_panel.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\release\\layout\\view_tab_underline.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\layout\\view_tab_underline.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\release\\layout\\view_tab_text.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\layout\\view_tab_text.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\release\\layout\\view_tab_item_bottom.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\layout\\view_tab_item_bottom.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\release\\layout\\view_tab_menu.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\layout\\view_tab_menu.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\release\\layout\\dialog_confirm.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\layout\\dialog_confirm.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\release\\layout\\view_poker_bull.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\src\\main\\res\\layout\\view_poker_bull.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\release\\layout\\item_poker_bet_amount.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\src\\main\\res\\layout\\item_poker_bet_amount.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\release\\layout\\view_tab_under_line.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\layout\\view_tab_under_line.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\release\\layout\\view_tab_menu.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\layout\\view_tab_menu.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\release\\layout\\view_poker_toast.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\src\\main\\res\\layout\\view_poker_toast.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\release\\layout\\pop_two_lv.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\layout\\pop_two_lv.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\release\\layout\\frag_sdwebview.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\layout\\frag_sdwebview.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\release\\layout\\timepicker_line.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\layout\\timepicker_line.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\release\\layout\\view_tab_bottom.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\layout\\view_tab_bottom.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\release\\layout\\title_item.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\layout\\title_item.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\release\\layout\\timepicker_line.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\layout\\timepicker_line.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\release\\layout\\view_tab_bottom.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\layout\\view_tab_bottom.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\release\\layout\\view_tab_corner_text.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\layout\\view_tab_corner_text.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\release\\layout\\item_simple_adv.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\layout\\item_simple_adv.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\release\\layout\\pop_category_two_lv.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\layout\\pop_category_two_lv.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\release\\layout\\view_tab_text.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\layout\\view_tab_text.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\release\\layout\\view_tab_under_line.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\layout\\view_tab_under_line.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\release\\layout\\item_pager_grid_linear.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\layout\\item_pager_grid_linear.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\release\\layout\\title.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\layout\\title.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\release\\layout\\frag_webview.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\layout\\frag_webview.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\release\\layout\\view_poker_panel.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\src\\main\\res\\layout\\view_poker_panel.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\release\\layout\\dialog_progress.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\layout\\dialog_progress.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\release\\layout\\view_tab_image.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\layout\\view_tab_image.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\release\\layout\\item_simple_text.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\layout\\item_simple_text.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\release\\layout\\item_poker_bet_amount.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\src\\main\\res\\layout\\item_poker_bet_amount.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\release\\layout\\pop_two_lv.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\layout\\pop_two_lv.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\release\\layout\\dialog_listview.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\layout\\dialog_listview.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\release\\layout\\title_simple.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\layout\\title_simple.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\release\\layout\\timepicker_toolbar.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\layout\\timepicker_toolbar.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\release\\layout\\dialog_input.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\layout\\dialog_input.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\release\\layout\\pop_category_two_lv.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\layout\\pop_category_two_lv.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\release\\layout\\view_bet_area.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\src\\main\\res\\layout\\view_bet_area.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\release\\layout\\title.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\layout\\title.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\release\\layout\\act_webview.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\layout\\act_webview.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\release\\layout\\view_category.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\layout\\view_category.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\release\\layout\\view_poker_result_text.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\src\\main\\res\\layout\\view_poker_result_text.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\release\\layout\\dialog_custom.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\layout\\dialog_custom.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\release\\layout\\activity_main.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\release\\layout\\view_poker_goldflower_panel.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\src\\main\\res\\layout\\view_poker_goldflower_panel.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\release\\layout\\view_tab_corner.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\layout\\view_tab_corner.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\release\\layout\\view_tab_image.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\layout\\view_tab_image.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\release\\layout\\view_bet_area.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\src\\main\\res\\layout\\view_bet_area.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\release\\layout\\view_poker_bull_panel.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\src\\main\\res\\layout\\view_poker_bull_panel.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\release\\layout\\view_poker_goldflower.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\src\\main\\res\\layout\\view_poker_goldflower.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\release\\layout\\view_poker_bull_panel.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\src\\main\\res\\layout\\view_poker_bull_panel.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\release\\layout\\frag_webview.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\layout\\frag_webview.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\release\\layout\\view_tab_corner.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\layout\\view_tab_corner.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\release\\layout\\view_poker_toast.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\src\\main\\res\\layout\\view_poker_toast.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\release\\layout\\view_tab_item_corner.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\layout\\view_tab_item_corner.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\release\\layout\\dialog_listview.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\layout\\dialog_listview.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\release\\layout\\view_category_tab.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\layout\\view_category_tab.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\release\\layout\\pop_single_lv.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\layout\\pop_single_lv.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\release\\layout\\pop_category_single_lv.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\layout\\pop_category_single_lv.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\release\\layout\\pop_title_more.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\layout\\pop_title_more.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\release\\layout\\view_poker_clock.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\src\\main\\res\\layout\\view_poker_clock.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\release\\layout\\view_password.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\layout\\view_password.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\release\\layout\\item_title_more.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\layout\\item_title_more.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\release\\layout\\item_pager_grid_linear.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\layout\\item_pager_grid_linear.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\release\\layout\\title_item.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\layout\\title_item.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\release\\layout\\act_webview.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\layout\\act_webview.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\release\\layout\\view_poker_card.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\src\\main\\res\\layout\\view_poker_card.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\release\\layout\\item_menu.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\layout\\item_menu.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\release\\layout\\view_password.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\layout\\view_password.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\release\\layout\\dialog_menu.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\layout\\dialog_menu.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\release\\layout\\pop_single_lv.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\layout\\pop_single_lv.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\release\\layout\\item_title_more.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\layout\\item_title_more.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\release\\layout\\view_tab_item_bottom.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\layout\\view_tab_item_bottom.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\release\\layout\\view_poker_panel.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\src\\main\\res\\layout\\view_poker_panel.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\release\\layout\\frag_sdwebview.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\layout\\frag_sdwebview.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\release\\layout\\view_sliding_play_view.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\layout\\view_sliding_play_view.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\release\\layout\\dialog_input.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\layout\\dialog_input.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\release\\layout\\dialog_games_poker_win.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\src\\main\\res\\layout\\dialog_games_poker_win.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\release\\layout\\view_category_tab.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\layout\\view_category_tab.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\release\\layout\\dialog_confirm.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\layout\\dialog_confirm.xml"
+    }
+]

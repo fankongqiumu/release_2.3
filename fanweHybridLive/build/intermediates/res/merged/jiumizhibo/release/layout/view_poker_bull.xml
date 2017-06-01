@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    android:gravity="center">
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <com.librarygames.view.PokerCardView
+            android:id="@+id/pcv_poker_1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+        <com.librarygames.view.PokerCardView
+            android:id="@+id/pcv_poker_2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"/>
+
+        <com.librarygames.view.PokerCardView
+            android:id="@+id/pcv_poker_3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true" />
+
+        <com.librarygames.view.PokerCardView
+            android:id="@+id/pcv_poker_4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="60dp" />
+
+        <com.librarygames.view.PokerCardView
+            android:id="@+id/pcv_poker_5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true" />
+    </RelativeLayout>
+</LinearLayout>

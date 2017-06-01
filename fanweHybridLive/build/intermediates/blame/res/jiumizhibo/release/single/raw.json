@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\raw\\dealsound.mp3",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\bundles\\default\\res\\raw\\dealsound.mp3"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\raw\\umeng_push_notification_default_sound.mp3",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\raw\\umeng_push_notification_default_sound.mp3"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\raw\\realm_properties",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\f1af241e83e2d05deb83d93c065a538373cbcb49\\output\\res\\raw\\realm_properties"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\raw\\dealsound.mp3",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\bundles\\default\\res\\raw\\dealsound.mp3"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\raw\\beep.ogg",
+        "source": "C:\\Users\\13636\\.android\\build-cache\\66083a9a60d9262ee8fd06f6e6f6f504029ba6e1\\output\\res\\raw\\beep.ogg"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\raw\\umeng_push_notification_default_sound.mp3",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\raw\\umeng_push_notification_default_sound.mp3"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\raw\\beep.ogg",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\f1af241e83e2d05deb83d93c065a538373cbcb49\\output\\res\\raw\\beep.ogg"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\jiumizhibo\\release\\raw\\realm_properties",
+        "source": "C:\\Users\\13636\\.android\\build-cache\\66083a9a60d9262ee8fd06f6e6f6f504029ba6e1\\output\\res\\raw\\realm_properties"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\fanwe_test\\debug\\menu\\ucrop_menu_activity.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\fanweHybridLive\\build\\intermediates\\exploded-aar\\com.yalantis\\ucrop\\2.2.0\\res\\menu\\ucrop_menu_activity.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\fanwe_test\\debug\\menu\\main.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\fanweHybridLive\\build\\intermediates\\exploded-aar\\libraryPayBaofoo-release\\res\\menu\\main.xml"
+    }
+]

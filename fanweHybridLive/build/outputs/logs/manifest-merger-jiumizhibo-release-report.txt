@@ -1,0 +1,1611 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:2:1-787:12
+	package
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:4:11-35
+		INJECTED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml
+		INJECTED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:6:11-38
+		INJECTED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml
+		INJECTED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:3:11-57
+	android:versionCode
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:5:11-43
+		INJECTED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml
+		INJECTED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:8:5-79
+MERGED from [:librarySocialUmeng-release:] C:\Users\13636\.android\build-cache\0229d2f91504cf0c719bdade6851ff489f70b330\output\AndroidManifest.xml:15:5-80
+	android:name
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:8:22-77
+uses-feature#android.hardware.camera
+ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:10:5-59
+	android:name
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:10:19-57
+uses-feature#android.hardware.autofocus
+ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:11:5-62
+	android:name
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:11:19-60
+uses-permission#android.permission.CAMERA
+ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:13:5-64
+MERGED from [:libraryIMTencent-release:] C:\Users\13636\.android\build-cache\79329386478d1bd8c60bacfe842d7a314bd8e60e\output\AndroidManifest.xml:13:5-65
+	android:name
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:13:22-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:15:5-80
+MERGED from [:libraryPayUnionpay-release:] C:\Users\13636\.android\build-cache\db46dc735e0629bcb14ef15c3aa726cf6d38aa83\output\AndroidManifest.xml:14:5-81
+MERGED from [:librarySocialUmeng-release:] C:\Users\13636\.android\build-cache\0229d2f91504cf0c719bdade6851ff489f70b330\output\AndroidManifest.xml:14:5-81
+MERGED from [:PushSDK-release:] C:\Users\13636\.android\build-cache\b742890df49f1b812fa4226371ceb008f23b28e7\output\AndroidManifest.xml:15:5-81
+MERGED from [:libraryIMTencent-release:] C:\Users\13636\.android\build-cache\79329386478d1bd8c60bacfe842d7a314bd8e60e\output\AndroidManifest.xml:24:5-81
+MERGED from [:libraryMapTencent-release:] C:\Users\13636\.android\build-cache\3e8c01f942628526898e8e590e7b1d53aa6e7d61\output\AndroidManifest.xml:16:5-81
+	android:name
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:15:22-78
+uses-permission#android.permission.INTERNET
+ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:17:5-66
+MERGED from [:libraryPayUnionpay-release:] C:\Users\13636\.android\build-cache\db46dc735e0629bcb14ef15c3aa726cf6d38aa83\output\AndroidManifest.xml:11:5-67
+MERGED from [:librarySocialUmeng-release:] C:\Users\13636\.android\build-cache\0229d2f91504cf0c719bdade6851ff489f70b330\output\AndroidManifest.xml:16:5-67
+MERGED from [:PushSDK-release:] C:\Users\13636\.android\build-cache\b742890df49f1b812fa4226371ceb008f23b28e7\output\AndroidManifest.xml:12:5-67
+MERGED from [:libraryIMTencent-release:] C:\Users\13636\.android\build-cache\79329386478d1bd8c60bacfe842d7a314bd8e60e\output\AndroidManifest.xml:16:5-67
+MERGED from [:libraryMapTencent-release:] C:\Users\13636\.android\build-cache\3e8c01f942628526898e8e590e7b1d53aa6e7d61\output\AndroidManifest.xml:13:5-67
+	android:name
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:17:22-64
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:19:5-78
+MERGED from [:libraryPayUnionpay-release:] C:\Users\13636\.android\build-cache\db46dc735e0629bcb14ef15c3aa726cf6d38aa83\output\AndroidManifest.xml:13:5-79
+MERGED from [:PushSDK-release:] C:\Users\13636\.android\build-cache\b742890df49f1b812fa4226371ceb008f23b28e7\output\AndroidManifest.xml:25:5-79
+MERGED from [:libraryIMTencent-release:] C:\Users\13636\.android\build-cache\79329386478d1bd8c60bacfe842d7a314bd8e60e\output\AndroidManifest.xml:14:5-79
+MERGED from [:libraryMapTencent-release:] C:\Users\13636\.android\build-cache\3e8c01f942628526898e8e590e7b1d53aa6e7d61\output\AndroidManifest.xml:18:5-79
+	android:name
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:19:22-76
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:21:5-75
+MERGED from [:PushSDK-release:] C:\Users\13636\.android\build-cache\b742890df49f1b812fa4226371ceb008f23b28e7\output\AndroidManifest.xml:26:5-76
+MERGED from [:libraryMapTencent-release:] C:\Users\13636\.android\build-cache\3e8c01f942628526898e8e590e7b1d53aa6e7d61\output\AndroidManifest.xml:15:5-76
+	android:name
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:21:22-73
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:23:5-78
+MERGED from [:libraryPayUnionpay-release:] C:\Users\13636\.android\build-cache\db46dc735e0629bcb14ef15c3aa726cf6d38aa83\output\AndroidManifest.xml:12:5-79
+MERGED from [:librarySocialUmeng-release:] C:\Users\13636\.android\build-cache\0229d2f91504cf0c719bdade6851ff489f70b330\output\AndroidManifest.xml:11:5-79
+MERGED from [:PushSDK-release:] C:\Users\13636\.android\build-cache\b742890df49f1b812fa4226371ceb008f23b28e7\output\AndroidManifest.xml:13:5-79
+MERGED from [:libraryIMTencent-release:] C:\Users\13636\.android\build-cache\79329386478d1bd8c60bacfe842d7a314bd8e60e\output\AndroidManifest.xml:11:5-79
+MERGED from [:libraryMapTencent-release:] C:\Users\13636\.android\build-cache\3e8c01f942628526898e8e590e7b1d53aa6e7d61\output\AndroidManifest.xml:17:5-79
+	android:name
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:23:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:25:5-75
+MERGED from [:libraryPayUnionpay-release:] C:\Users\13636\.android\build-cache\db46dc735e0629bcb14ef15c3aa726cf6d38aa83\output\AndroidManifest.xml:16:5-76
+MERGED from [:librarySocialUmeng-release:] C:\Users\13636\.android\build-cache\0229d2f91504cf0c719bdade6851ff489f70b330\output\AndroidManifest.xml:12:5-76
+MERGED from [:PushSDK-release:] C:\Users\13636\.android\build-cache\b742890df49f1b812fa4226371ceb008f23b28e7\output\AndroidManifest.xml:14:5-76
+MERGED from [:libraryIMTencent-release:] C:\Users\13636\.android\build-cache\79329386478d1bd8c60bacfe842d7a314bd8e60e\output\AndroidManifest.xml:12:5-76
+MERGED from [:libraryMapTencent-release:] C:\Users\13636\.android\build-cache\3e8c01f942628526898e8e590e7b1d53aa6e7d61\output\AndroidManifest.xml:14:5-76
+	android:name
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:25:22-73
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:29:5-78
+MERGED from [:librarySocialUmeng-release:] C:\Users\13636\.android\build-cache\0229d2f91504cf0c719bdade6851ff489f70b330\output\AndroidManifest.xml:17:5-79
+MERGED from [:libraryMapTencent-release:] C:\Users\13636\.android\build-cache\3e8c01f942628526898e8e590e7b1d53aa6e7d61\output\AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:29:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:31:5-80
+MERGED from [:librarySocialUmeng-release:] C:\Users\13636\.android\build-cache\0229d2f91504cf0c719bdade6851ff489f70b330\output\AndroidManifest.xml:18:5-81
+MERGED from [:libraryMapTencent-release:] C:\Users\13636\.android\build-cache\3e8c01f942628526898e8e590e7b1d53aa6e7d61\output\AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:31:22-78
+uses-permission#android.permission.BLUETOOTH
+ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:34:5-67
+	android:name
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:34:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:35:5-73
+	android:name
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:35:22-71
+uses-permission#android.permission.BROADCAST_STICKY
+ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:36:5-74
+	android:name
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:36:22-72
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:37:5-79
+MERGED from [:libraryPayUnionpay-release:] C:\Users\13636\.android\build-cache\db46dc735e0629bcb14ef15c3aa726cf6d38aa83\output\AndroidManifest.xml:23:5-80
+MERGED from [:libraryIMTencent-release:] C:\Users\13636\.android\build-cache\79329386478d1bd8c60bacfe842d7a314bd8e60e\output\AndroidManifest.xml:17:5-80
+	android:name
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:37:22-77
+uses-permission#android.permission.READ_LOGS
+ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:38:5-67
+MERGED from [:libraryIMTencent-release:] C:\Users\13636\.android\build-cache\79329386478d1bd8c60bacfe842d7a314bd8e60e\output\AndroidManifest.xml:18:5-68
+	android:name
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:38:22-65
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:39:5-70
+MERGED from [:libraryPayUnionpay-release:] C:\Users\13636\.android\build-cache\db46dc735e0629bcb14ef15c3aa726cf6d38aa83\output\AndroidManifest.xml:22:5-71
+MERGED from [:libraryIMTencent-release:] C:\Users\13636\.android\build-cache\79329386478d1bd8c60bacfe842d7a314bd8e60e\output\AndroidManifest.xml:21:5-71
+	android:name
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:39:22-68
+uses-permission#android.permission.FLASHLIGHT
+ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:40:5-68
+	android:name
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:40:22-66
+uses-permission#android.permission.VIBRATE
+ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:42:5-65
+MERGED from [:libraryIMTencent-release:] C:\Users\13636\.android\build-cache\79329386478d1bd8c60bacfe842d7a314bd8e60e\output\AndroidManifest.xml:22:5-66
+	android:name
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:42:22-63
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:43:5-72
+	android:name
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:43:22-70
+uses-permission#android.permission.WAKE_LOCK
+ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:44:5-67
+MERGED from [:PushSDK-release:] C:\Users\13636\.android\build-cache\b742890df49f1b812fa4226371ceb008f23b28e7\output\AndroidManifest.xml:16:5-68
+MERGED from [:libraryIMTencent-release:] C:\Users\13636\.android\build-cache\79329386478d1bd8c60bacfe842d7a314bd8e60e\output\AndroidManifest.xml:23:5-68
+	android:name
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:44:22-65
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:45:5-74
+MERGED from [:libraryPayUnionpay-release:] C:\Users\13636\.android\build-cache\db46dc735e0629bcb14ef15c3aa726cf6d38aa83\output\AndroidManifest.xml:15:5-75
+MERGED from [:librarySocialUmeng-release:] C:\Users\13636\.android\build-cache\0229d2f91504cf0c719bdade6851ff489f70b330\output\AndroidManifest.xml:13:5-75
+MERGED from [:PushSDK-release:] C:\Users\13636\.android\build-cache\b742890df49f1b812fa4226371ceb008f23b28e7\output\AndroidManifest.xml:17:5-75
+MERGED from [:libraryIMTencent-release:] C:\Users\13636\.android\build-cache\79329386478d1bd8c60bacfe842d7a314bd8e60e\output\AndroidManifest.xml:19:5-75
+MERGED from [:libraryMapTencent-release:] C:\Users\13636\.android\build-cache\3e8c01f942628526898e8e590e7b1d53aa6e7d61\output\AndroidManifest.xml:19:5-75
+	android:name
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:45:22-72
+uses-permission#android.permission.GET_TASKS
+ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:46:5-67
+MERGED from [:PushSDK-release:] C:\Users\13636\.android\build-cache\b742890df49f1b812fa4226371ceb008f23b28e7\output\AndroidManifest.xml:23:5-68
+MERGED from [:libraryIMTencent-release:] C:\Users\13636\.android\build-cache\79329386478d1bd8c60bacfe842d7a314bd8e60e\output\AndroidManifest.xml:15:5-68
+	android:name
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:46:22-65
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:47:5-80
+MERGED from [:PushSDK-release:] C:\Users\13636\.android\build-cache\b742890df49f1b812fa4226371ceb008f23b28e7\output\AndroidManifest.xml:24:5-81
+MERGED from [:libraryIMTencent-release:] C:\Users\13636\.android\build-cache\79329386478d1bd8c60bacfe842d7a314bd8e60e\output\AndroidManifest.xml:20:5-81
+	android:name
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:47:22-78
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:48:5-77
+	android:name
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:48:22-75
+application
+ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:51:5-785:19
+MERGED from [:libraryPayAlipay-release:] C:\Users\13636\.android\build-cache\b2d3c5079dbb7682ce58803914b1a1b9d892f850\output\AndroidManifest.xml:11:5-19:19
+MERGED from [:libraryPayBaofoo-release:] C:\Users\13636\.android\build-cache\d1d048483b9fa9d6b0d87cbce95f26dd277317aa\output\AndroidManifest.xml:11:5-27:19
+MERGED from [:libraryPayUnionpay-release:] C:\Users\13636\.android\build-cache\db46dc735e0629bcb14ef15c3aa726cf6d38aa83\output\AndroidManifest.xml:25:5-32:19
+MERGED from [:librarySpan-release:] C:\Users\13636\.android\build-cache\eaf9d44d6a3226a29ca3bb1f4b5178e1c5b74475\output\AndroidManifest.xml:11:5-12:19
+MERGED from [:PushSDK-release:] C:\Users\13636\.android\build-cache\b742890df49f1b812fa4226371ceb008f23b28e7\output\AndroidManifest.xml:28:5-148:19
+MERGED from [:TimePickerDialog-release:] C:\Users\13636\.android\build-cache\222af7f957f233e5d4e1c6d4aa7081dfabb78b0a\output\AndroidManifest.xml:11:5-14:19
+MERGED from [:libraryIMTencent-release:] C:\Users\13636\.android\build-cache\79329386478d1bd8c60bacfe842d7a314bd8e60e\output\AndroidManifest.xml:26:5-65:19
+MERGED from [:libraryMapTencent-release:] C:\Users\13636\.android\build-cache\3e8c01f942628526898e8e590e7b1d53aa6e7d61\output\AndroidManifest.xml:21:5-27:19
+MERGED from [release_2.3:libraryGames:unspecified] D:\GitHub\source_android\release_2.3\libraryGames\build\intermediates\bundles\default\AndroidManifest.xml:11:5-15:19
+MERGED from [com.songhang:smart-headerfooter-recyclerview:1.0.1] C:\Users\13636\.android\build-cache\985e4a1c59b4000772967b052d0849cb62f4638c\output\AndroidManifest.xml:11:5-15:19
+MERGED from [com.android.support:appcompat-v7:24.2.0] C:\Users\13636\.android\build-cache\a92df266d5404f7d37ed7a23abe8c35da7d38682\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.0] C:\Users\13636\.android\build-cache\8b0a824a0f5d7d222a937c780a55848d71cde4a8\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.0] C:\Users\13636\.android\build-cache\a30819fbeef892305ab5916d9c7e296b09c6659a\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-v4:24.2.0] C:\Users\13636\.android\build-cache\8bbdd3c8687e42a4c20a51979cb84ffc42fa496f\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.0] C:\Users\13636\.android\build-cache\a7681bbdb18983776aba7252feda5bba14e6b30c\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.0] C:\Users\13636\.android\build-cache\fe376170d9ff280ecfeefe43d9469552dd9571fb\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.0] C:\Users\13636\.android\build-cache\99c91906d9182e4de6d31eb92033ffdaf4eb8bf8\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.0] C:\Users\13636\.android\build-cache\40d3983f7f8b7f5698c36e345b77215e6d38e8b1\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.3.0] C:\Users\13636\.android\build-cache\a9faff0f50d8bcd8a581eb4c2f70d7f7dab1c503\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:55:9-41
+	android:supportsRtl
+		ADDED from [:TimePickerDialog-release:] C:\Users\13636\.android\build-cache\222af7f957f233e5d4e1c6d4aa7081dfabb78b0a\output\AndroidManifest.xml:13:9-35
+	android:allowBackup
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:53:9-35
+	android:icon
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:54:9-38
+	android:theme
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:56:9-49
+	tools:replace
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:57:9-52
+	android:name
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:52:9-48
+activity#com.fanwe.hybrid.activity.InitActivity
+ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:58:9-67:20
+	android:label
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:60:13-45
+	android:theme
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:61:13-48
+	android:name
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:59:13-66
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:62:13-66:29
+action#android.intent.action.MAIN
+ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:63:17-68
+	android:name
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:63:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:65:17-76
+	android:name
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:65:27-74
+receiver#com.ta.util.netstate.TANetworkStateReceiver
+ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:70:9-75:20
+	android:name
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:70:19-77
+intent-filter#android.gzcpc.conn.CONNECTIVITY_CHANGE+android.net.conn.CONNECTIVITY_CHANGE
+ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:71:13-74:29
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:72:17-78
+	android:name
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:72:25-76
+action#android.gzcpc.conn.CONNECTIVITY_CHANGE
+ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:73:17-80
+	android:name
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:73:25-78
+activity#com.fanwe.hybrid.activity.InitAdvListActivity
+ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:78:9-80:51
+	android:screenOrientation
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:80:13-49
+	android:name
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:79:13-73
+activity#com.fanwe.hybrid.activity.MainActivity
+ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:83:9-99:20
+	android:screenOrientation
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:86:13-49
+	android:launchMode
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:85:13-44
+	android:theme
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:87:13-44
+	android:name
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:84:13-66
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:88:13-98:29
+action#android.intent.action.VIEW
+ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:89:17-68
+	android:name
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:89:25-66
+category#android.intent.category.DEFAULT
+ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:91:17-75
+	android:name
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:91:27-73
+category#android.intent.category.BROWSABLE
+ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:92:17-77
+	android:name
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:92:27-75
+data
+ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:94:17-97:45
+	android:host
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:95:21-50
+	android:scheme
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:97:21-43
+	android:pathPrefix
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:96:21-47
+activity#com.fanwe.hybrid.activity.AdImgActivity
+ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:102:9-105:50
+	android:screenOrientation
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:104:13-49
+	android:theme
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:105:13-48
+	android:name
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:103:13-67
+activity#com.fanwe.hybrid.activity.MyCaptureActivity
+ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:108:9-111:51
+	android:screenOrientation
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:111:13-49
+	android:launchMode
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:110:13-44
+	android:name
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:109:13-71
+activity#com.fanwe.hybrid.activity.AppWebViewActivity
+ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:113:9-115:51
+	android:screenOrientation
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:115:13-49
+	android:name
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:114:13-72
+activity#com.fanwe.live.activity.LiveMainActivity
+ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:118:9-122:51
+	android:screenOrientation
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:122:13-49
+	android:launchMode
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:121:13-44
+	android:configChanges
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:120:13-72
+	android:name
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:119:13-54
+activity#com.fanwe.live.activity.LiveLoginActivity
+ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:125:9-129:51
+	android:screenOrientation
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:129:13-49
+	android:launchMode
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:128:13-44
+	android:configChanges
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:127:13-72
+	android:name
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:126:13-55
+activity#com.fanwe.live.activity.LiveMobielRegisterActivity
+ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:132:9-135:51
+	android:screenOrientation
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:135:13-49
+	android:configChanges
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:134:13-72
+	android:name
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:133:13-64
+activity#com.fanwe.live.activity.LiveDoUpdateActivity
+ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:138:9-141:51
+	android:screenOrientation
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:141:13-49
+	android:configChanges
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:140:13-72
+	android:name
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:139:13-58
+activity#com.fanwe.live.activity.LiveTopicRoomActivity
+ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:144:9-148:51
+	android:screenOrientation
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:148:13-49
+	android:launchMode
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:147:13-44
+	android:configChanges
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:146:13-72
+	android:name
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:145:13-59
+activity#com.fanwe.live.activity.LiveHotTopicActivity
+ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:151:9-155:51
+	android:screenOrientation
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:155:13-49
+	android:launchMode
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:154:13-44
+	android:configChanges
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:153:13-72
+	android:name
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:152:13-58
+activity#com.fanwe.live.activity.LiveCreateRoomActivity
+ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:158:9-162:51
+	android:screenOrientation
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:162:13-49
+	android:launchMode
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:161:13-44
+	android:configChanges
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:160:13-72
+	android:name
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:159:13-60
+activity#com.fanwe.live.activity.LiveCreateRoomTopicActivity
+ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:165:9-170:58
+	android:screenOrientation
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:169:13-49
+	android:launchMode
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:168:13-44
+	android:windowSoftInputMode
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:170:13-56
+	android:configChanges
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:167:13-72
+	android:name
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:166:13-65
+activity#com.fanwe.live.activity.LiveCreaterAgreementActivity
+ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:172:9-176:51
+	android:screenOrientation
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:176:13-49
+	android:launchMode
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:175:13-44
+	android:configChanges
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:174:13-72
+	android:name
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:173:13-66
+activity#com.fanwe.live.activity.room.LiveCreaterActivity
+ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:178:9-183:54
+	android:screenOrientation
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:182:13-49
+	android:launchMode
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:181:13-44
+	android:windowSoftInputMode
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:183:13-52
+	android:configChanges
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:180:13-72
+	android:name
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:179:13-62
+activity#com.fanwe.live.activity.room.LiveViewerActivity
+ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:185:9-190:54
+	android:screenOrientation
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:189:13-49
+	android:launchMode
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:188:13-44
+	android:windowSoftInputMode
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:190:13-52
+	android:configChanges
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:187:13-72
+	android:name
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:186:13-61
+activity#com.fanwe.live.activity.room.LivePlaybackActivity
+ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:192:9-197:54
+	android:screenOrientation
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:196:13-49
+	android:launchMode
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:195:13-44
+	android:windowSoftInputMode
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:197:13-52
+	android:configChanges
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:194:13-72
+	android:name
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:193:13-63
+activity#com.fanwe.live.activity.room.LivePushCreaterActivity
+ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:200:9-205:54
+	android:screenOrientation
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:204:13-49
+	android:launchMode
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:203:13-44
+	android:windowSoftInputMode
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:205:13-52
+	android:configChanges
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:202:13-72
+	android:name
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:201:13-66
+activity#com.fanwe.live.activity.room.LivePushViewerActivity
+ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:208:9-213:54
+	android:screenOrientation
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:212:13-49
+	android:launchMode
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:211:13-44
+	android:windowSoftInputMode
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:213:13-52
+	android:configChanges
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:210:13-72
+	android:name
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:209:13-65
+activity#com.fanwe.live.activity.room.LivePCViewerActivity
+ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:216:9-221:57
+	android:screenOrientation
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:220:13-49
+	android:launchMode
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:219:13-44
+	android:windowSoftInputMode
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:221:13-55
+	android:configChanges
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:218:13-83
+	android:name
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:217:13-63
+activity#com.fanwe.live.activity.room.LivePCPlaybackActivity
+ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:224:9-229:57
+	android:screenOrientation
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:228:13-49
+	android:launchMode
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:227:13-44
+	android:windowSoftInputMode
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:229:13-55
+	android:configChanges
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:226:13-83
+	android:name
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:225:13-65
+activity#com.fanwe.live.activity.LiveAdminActivity
+ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:231:9-235:54
+	android:screenOrientation
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:234:13-49
+	android:windowSoftInputMode
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:235:13-52
+	android:configChanges
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:233:13-72
+	android:name
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:232:13-55
+activity#com.fanwe.live.activity.LiveContActivity
+ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:238:9-242:54
+	android:screenOrientation
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:241:13-49
+	android:windowSoftInputMode
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:242:13-52
+	android:configChanges
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:240:13-72
+	android:name
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:239:13-54
+activity#com.fanwe.live.activity.LiveUserHomeActivity
+ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:245:9-249:54
+	android:screenOrientation
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:248:13-49
+	android:windowSoftInputMode
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:249:13-52
+	android:configChanges
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:247:13-72
+	android:name
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:246:13-58
+activity#com.fanwe.live.activity.LivePrivateChatActivity
+ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:252:9-257:62
+	android:screenOrientation
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:256:13-49
+	android:launchMode
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:255:13-44
+	android:windowSoftInputMode
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:257:13-60
+	android:configChanges
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:254:13-72
+	android:name
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:253:13-61
+activity#com.fanwe.live.activity.LiveChatC2CActivity
+ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:260:9-265:57
+	android:screenOrientation
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:264:13-49
+	android:launchMode
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:263:13-44
+	android:windowSoftInputMode
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:265:13-55
+	android:configChanges
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:262:13-72
+	android:name
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:261:13-57
+activity#com.fanwe.live.activity.PhotoViewActivity
+ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:268:9-273:57
+	android:screenOrientation
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:272:13-49
+	android:launchMode
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:271:13-44
+	android:windowSoftInputMode
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:273:13-55
+	android:configChanges
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:270:13-72
+	android:name
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:269:13-55
+activity#com.fanwe.live.activity.SelectPhotoActivity
+ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:276:9-281:57
+	android:screenOrientation
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:280:13-49
+	android:launchMode
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:279:13-44
+	android:windowSoftInputMode
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:281:13-55
+	android:configChanges
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:278:13-72
+	android:name
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:277:13-57
+activity#com.fanwe.live.activity.LiveUserHeadImageActivity
+ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:284:9-289:62
+	android:screenOrientation
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:288:13-49
+	android:launchMode
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:287:13-44
+	android:windowSoftInputMode
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:289:13-60
+	android:configChanges
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:286:13-72
+	android:name
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:285:13-63
+activity#com.fanwe.live.activity.LiveUserEditActivity
+ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:292:9-297:62
+	android:screenOrientation
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:296:13-49
+	android:launchMode
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:295:13-44
+	android:windowSoftInputMode
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:297:13-60
+	android:configChanges
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:294:13-72
+	android:name
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:293:13-58
+activity#com.fanwe.live.activity.LiveUserProfitActivity
+ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:300:9-305:62
+	android:screenOrientation
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:304:13-49
+	android:launchMode
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:303:13-44
+	android:windowSoftInputMode
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:305:13-60
+	android:configChanges
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:302:13-72
+	android:name
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:301:13-60
+activity#com.fanwe.live.activity.LiveUserProfitRecordActivity
+ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:308:9-313:62
+	android:screenOrientation
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:312:13-49
+	android:launchMode
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:311:13-44
+	android:windowSoftInputMode
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:313:13-60
+	android:configChanges
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:310:13-72
+	android:name
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:309:13-66
+activity#com.fanwe.live.activity.LiveUserProfitExchangeActivity
+ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:316:9-321:62
+	android:screenOrientation
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:320:13-49
+	android:launchMode
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:319:13-44
+	android:windowSoftInputMode
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:321:13-60
+	android:configChanges
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:318:13-72
+	android:name
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:317:13-68
+activity#com.fanwe.live.activity.LiveFamilyUpdateEditActivity
+ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:324:9-329:62
+	android:screenOrientation
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:328:13-49
+	android:launchMode
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:327:13-44
+	android:windowSoftInputMode
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:329:13-60
+	android:configChanges
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:326:13-72
+	android:name
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:325:13-66
+activity#com.fanwe.live.activity.LiveFamilyDetailsActivity
+ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:332:9-337:62
+	android:screenOrientation
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:336:13-49
+	android:launchMode
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:335:13-44
+	android:windowSoftInputMode
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:337:13-60
+	android:configChanges
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:334:13-72
+	android:name
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:333:13-63
+activity#com.fanwe.live.activity.LiveFamilyInformationActivity
+ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:340:9-345:62
+	android:screenOrientation
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:344:13-49
+	android:launchMode
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:343:13-44
+	android:windowSoftInputMode
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:345:13-60
+	android:configChanges
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:342:13-72
+	android:name
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:341:13-67
+activity#com.fanwe.live.activity.LiveFamilysListActivity
+ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:348:9-353:62
+	android:screenOrientation
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:352:13-49
+	android:launchMode
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:351:13-44
+	android:windowSoftInputMode
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:353:13-60
+	android:configChanges
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:350:13-72
+	android:name
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:349:13-61
+activity#com.fanwe.live.activity.LiveFamilyMembersListActivity
+ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:356:9-361:62
+	android:screenOrientation
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:360:13-49
+	android:launchMode
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:359:13-44
+	android:windowSoftInputMode
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:361:13-60
+	android:configChanges
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:358:13-72
+	android:name
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:357:13-67
+activity#com.fanwe.live.activity.LiveSociatyUpdateEditActivity
+ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:364:9-369:62
+	android:screenOrientation
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:368:13-49
+	android:launchMode
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:367:13-44
+	android:windowSoftInputMode
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:369:13-60
+	android:configChanges
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:366:13-72
+	android:name
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:365:13-67
+activity#com.fanwe.live.activity.LiveSociatyDetailsActivity
+ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:372:9-377:62
+	android:screenOrientation
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:376:13-49
+	android:launchMode
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:375:13-44
+	android:windowSoftInputMode
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:377:13-60
+	android:configChanges
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:374:13-72
+	android:name
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:373:13-64
+activity#com.fanwe.live.activity.LiveSociatyInfosActivity
+ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:380:9-385:62
+	android:screenOrientation
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:384:13-49
+	android:launchMode
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:383:13-44
+	android:windowSoftInputMode
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:385:13-60
+	android:configChanges
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:382:13-72
+	android:name
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:381:13-62
+activity#com.fanwe.live.activity.LiveSociatySearchJoinActivity
+ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:388:9-393:62
+	android:screenOrientation
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:392:13-49
+	android:launchMode
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:391:13-44
+	android:windowSoftInputMode
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:393:13-60
+	android:configChanges
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:390:13-72
+	android:name
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:389:13-67
+activity#com.fanwe.live.activity.LiveSociatyMembersListActivity
+ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:396:9-401:62
+	android:screenOrientation
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:400:13-49
+	android:launchMode
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:399:13-44
+	android:windowSoftInputMode
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:401:13-60
+	android:configChanges
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:398:13-72
+	android:name
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:397:13-68
+activity#com.fanwe.live.activity.LiveUserSettingActivity
+ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:404:9-409:62
+	android:screenOrientation
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:408:13-49
+	android:launchMode
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:407:13-44
+	android:windowSoftInputMode
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:409:13-60
+	android:configChanges
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:406:13-72
+	android:name
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:405:13-61
+activity#com.fanwe.live.activity.LiveAccountCenterActivity
+ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:412:9-417:62
+	android:screenOrientation
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:416:13-49
+	android:launchMode
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:415:13-44
+	android:windowSoftInputMode
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:417:13-60
+	android:configChanges
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:414:13-72
+	android:name
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:413:13-63
+activity#com.fanwe.live.activity.LiveMobileBindActivity
+ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:420:9-425:62
+	android:screenOrientation
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:424:13-49
+	android:launchMode
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:423:13-44
+	android:windowSoftInputMode
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:425:13-60
+	android:configChanges
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:422:13-72
+	android:name
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:421:13-60
+activity#com.fanwe.live.activity.LiveBlackListActivity
+ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:428:9-433:62
+	android:screenOrientation
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:432:13-49
+	android:launchMode
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:431:13-44
+	android:windowSoftInputMode
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:433:13-60
+	android:configChanges
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:430:13-72
+	android:name
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:429:13-59
+activity#com.fanwe.live.activity.LivePushManageActivity
+ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:436:9-441:62
+	android:screenOrientation
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:440:13-49
+	android:launchMode
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:439:13-44
+	android:windowSoftInputMode
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:441:13-60
+	android:configChanges
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:438:13-72
+	android:name
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:437:13-60
+activity#com.fanwe.live.activity.LiveRecommendActivity
+ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:444:9-449:62
+	android:screenOrientation
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:448:13-49
+	android:launchMode
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:447:13-44
+	android:windowSoftInputMode
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:449:13-60
+	android:configChanges
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:446:13-72
+	android:name
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:445:13-59
+activity#com.fanwe.live.activity.LiveInviteFriendsActivity
+ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:452:9-456:62
+	android:screenOrientation
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:455:13-49
+	android:windowSoftInputMode
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:456:13-60
+	android:configChanges
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:454:13-72
+	android:name
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:453:13-63
+activity#com.fanwe.live.activity.LiveMySelfContActivity
+ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:459:9-463:54
+	android:screenOrientation
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:462:13-49
+	android:windowSoftInputMode
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:463:13-52
+	android:configChanges
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:461:13-72
+	android:name
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:460:13-60
+activity#com.fanwe.live.activity.LiveMyFocusActivity
+ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:466:9-470:54
+	android:screenOrientation
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:469:13-49
+	android:windowSoftInputMode
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:470:13-52
+	android:configChanges
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:468:13-72
+	android:name
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:467:13-57
+activity#com.fanwe.live.activity.LiveFollowActivity
+ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:473:9-477:54
+	android:screenOrientation
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:476:13-49
+	android:windowSoftInputMode
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:477:13-52
+	android:configChanges
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:475:13-72
+	android:name
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:474:13-56
+activity#com.fanwe.live.activity.LiveRechargeDiamondsActivity
+ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:480:9-484:54
+	android:screenOrientation
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:483:13-49
+	android:windowSoftInputMode
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:484:13-52
+	android:configChanges
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:482:13-72
+	android:name
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:481:13-66
+activity#com.fanwe.live.activity.LivePayWebViewActivity
+ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:487:9-491:54
+	android:screenOrientation
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:490:13-49
+	android:windowSoftInputMode
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:491:13-52
+	android:configChanges
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:489:13-72
+	android:name
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:488:13-60
+activity#com.fanwe.live.activity.LiveRechargeVipActivity
+ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:494:9-498:54
+	android:screenOrientation
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:497:13-49
+	android:windowSoftInputMode
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:498:13-52
+	android:configChanges
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:496:13-72
+	android:name
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:495:13-61
+activity#com.fanwe.live.activity.LiveUserHomeReplayActivity
+ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:501:9-505:54
+	android:screenOrientation
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:504:13-49
+	android:windowSoftInputMode
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:505:13-52
+	android:configChanges
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:503:13-72
+	android:name
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:502:13-64
+activity#com.fanwe.live.activity.LiveUserPhotoActivity
+ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:508:9-512:54
+	android:screenOrientation
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:511:13-49
+	android:windowSoftInputMode
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:512:13-52
+	android:configChanges
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:510:13-72
+	android:name
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:509:13-59
+activity#com.fanwe.live.activity.LiveUploadUserImageActivity
+ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:515:9-519:54
+	android:screenOrientation
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:518:13-49
+	android:windowSoftInputMode
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:519:13-52
+	android:configChanges
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:517:13-72
+	android:name
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:516:13-65
+activity#com.fanwe.auction.activity.AuctionSaveCropImageActivity
+ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:522:9-526:54
+	android:screenOrientation
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:525:13-49
+	android:windowSoftInputMode
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:526:13-52
+	android:configChanges
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:524:13-72
+	android:name
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:523:13-83
+activity#com.fanwe.live.activity.LiveSearchUserActivity
+ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:529:9-533:54
+	android:screenOrientation
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:532:13-49
+	android:windowSoftInputMode
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:533:13-52
+	android:configChanges
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:531:13-72
+	android:name
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:530:13-60
+activity#com.fanwe.live.activity.UserCenterAuthentActivity
+ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:536:9-540:54
+	android:screenOrientation
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:539:13-49
+	android:windowSoftInputMode
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:540:13-52
+	android:configChanges
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:538:13-72
+	android:name
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:537:13-63
+activity#com.yalantis.ucrop.UCropActivity
+ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:542:9-545:71
+	android:screenOrientation
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:544:13-49
+	android:theme
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:545:13-69
+	android:name
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:543:13-60
+activity#com.fanwe.live.activity.LiveUploadImageActivity
+ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:548:9-552:54
+	android:screenOrientation
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:551:13-49
+	android:windowSoftInputMode
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:552:13-52
+	android:configChanges
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:550:13-72
+	android:name
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:549:13-61
+activity#com.fanwe.live.activity.LiveUpLoadImageOssActivity
+ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:555:9-559:54
+	android:screenOrientation
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:558:13-49
+	android:windowSoftInputMode
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:559:13-52
+	android:configChanges
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:557:13-72
+	android:name
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:556:13-64
+activity#com.fanwe.live.activity.LiveRankingActivity
+ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:562:9-566:54
+	android:screenOrientation
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:565:13-49
+	android:windowSoftInputMode
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:566:13-52
+	android:configChanges
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:564:13-72
+	android:name
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:563:13-57
+activity#com.fanwe.live.activity.LiveDistributionActivity
+ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:569:9-573:54
+	android:screenOrientation
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:572:13-49
+	android:windowSoftInputMode
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:573:13-52
+	android:configChanges
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:571:13-72
+	android:name
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:570:13-62
+activity#com.fanwe.auction.activity.AuctionCreateEmptyActivity
+ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:579:9-583:69
+	android:screenOrientation
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:582:13-49
+	android:windowSoftInputMode
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:583:13-67
+	android:configChanges
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:581:13-72
+	android:name
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:580:13-81
+activity#com.fanwe.auction.activity.AuctionGoodsDetailActivity
+ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:586:9-590:54
+	android:screenOrientation
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:589:13-49
+	android:windowSoftInputMode
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:590:13-52
+	android:configChanges
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:588:13-72
+	android:name
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:587:13-81
+activity#com.fanwe.auction.activity.AuctionGinsengShootMarginActivity
+ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:593:9-597:54
+	android:screenOrientation
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:596:13-49
+	android:windowSoftInputMode
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:597:13-52
+	android:configChanges
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:595:13-72
+	android:name
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:594:13-88
+activity#com.fanwe.auction.activity.AuctionRealGoodsGinsengShootMarginActivity
+ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:600:9-604:54
+	android:screenOrientation
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:603:13-49
+	android:windowSoftInputMode
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:604:13-52
+	android:configChanges
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:602:13-72
+	android:name
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:601:13-97
+activity#com.fanwe.auction.activity.AuctionAddEditAddressActivity
+ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:607:9-611:54
+	android:screenOrientation
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:610:13-49
+	android:windowSoftInputMode
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:611:13-52
+	android:configChanges
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:609:13-72
+	android:name
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:608:13-84
+activity#com.fanwe.auction.activity.AuctionSelectDeliveryAddressMapActivity
+ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:614:9-618:54
+	android:screenOrientation
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:617:13-49
+	android:windowSoftInputMode
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:618:13-52
+	android:configChanges
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:616:13-72
+	android:name
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:615:13-94
+activity#com.fanwe.live.activity.LiveFloatViewWebViewActivity
+ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:621:9-625:54
+	android:screenOrientation
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:624:13-49
+	android:windowSoftInputMode
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:625:13-52
+	android:configChanges
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:623:13-72
+	android:name
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:622:13-80
+activity#com.fanwe.shop.activity.ShopAddGoodsEmptyActivity
+ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:627:9-630:54
+	android:screenOrientation
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:629:13-49
+	android:windowSoftInputMode
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:630:13-52
+	android:name
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:628:13-77
+activity#com.fanwe.shop.activity.ShopMyStoreActivity
+ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:632:9-635:54
+	android:screenOrientation
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:634:13-49
+	android:windowSoftInputMode
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:635:13-52
+	android:name
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:633:13-71
+activity#com.fanwe.pay.activity.PayBalanceActivity
+ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:638:9-642:69
+	android:screenOrientation
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:641:13-49
+	android:windowSoftInputMode
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:642:13-67
+	android:configChanges
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:640:13-72
+	android:name
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:639:13-69
+activity#com.fanwe.o2o.activity.O2OShoppingLiveMainActivity
+ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:645:9-649:69
+	android:screenOrientation
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:648:13-49
+	android:windowSoftInputMode
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:649:13-67
+	android:configChanges
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:647:13-72
+	android:name
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:646:13-78
+activity#com.fanwe.o2o.activity.O2OShoppingMystoreActivity
+ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:650:9-654:69
+	android:screenOrientation
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:653:13-49
+	android:windowSoftInputMode
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:654:13-67
+	android:configChanges
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:652:13-72
+	android:name
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:651:13-77
+activity#com.fanwe.live.activity.LiveWebViewActivity
+ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:657:9-661:54
+	android:screenOrientation
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:660:13-49
+	android:windowSoftInputMode
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:661:13-52
+	android:configChanges
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:659:13-72
+	android:name
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:658:13-57
+activity#com.fanwe.live.activity.AdImgWebViewActivity
+ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:664:9-668:54
+	android:screenOrientation
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:667:13-49
+	android:windowSoftInputMode
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:668:13-52
+	android:configChanges
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:666:13-72
+	android:name
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:665:13-58
+activity#com.fanwe.live.activity.LiveSongChooseActivity
+ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:671:9-673:51
+	android:screenOrientation
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:673:13-49
+	android:name
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:672:13-60
+activity#com.fanwe.live.activity.LiveSongSearchActivity
+ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:675:9-678:54
+	android:screenOrientation
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:677:13-49
+	android:windowSoftInputMode
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:678:13-52
+	android:name
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:676:13-60
+activity#com.fanwe.live.activity.LiveAlipayBindingActivity
+ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:681:9-684:54
+	android:screenOrientation
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:683:13-49
+	android:windowSoftInputMode
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:684:13-52
+	android:name
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:682:13-63
+activity#com.fanwe.live.activity.LiveTakeRewardActivity
+ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:687:9-690:54
+	android:screenOrientation
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:689:13-49
+	android:windowSoftInputMode
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:690:13-52
+	android:name
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:688:13-60
+activity#com.umeng.socialize.editorpage.ShareActivity
+ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:693:9-696:53
+	android:excludeFromRecents
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:695:13-46
+	android:theme
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:696:13-51
+	android:name
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:694:13-72
+activity#${applicationId}.wxapi.WXEntryActivity
+ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:699:9-704:74
+	android:screenOrientation
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:703:13-49
+	android:exported
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:702:13-36
+	android:configChanges
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:701:13-74
+	android:theme
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:704:13-72
+	android:name
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:700:13-66
+		INJECTED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml
+activity#${applicationId}.wxapi.WXPayEntryActivity
+ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:705:9-718:20
+	android:screenOrientation
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:709:13-49
+	android:exported
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:708:13-36
+	android:configChanges
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:707:13-74
+	android:theme
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:710:13-72
+	android:name
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:706:13-69
+		INJECTED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml
+intent-filter#android.intent.action.VIEW+android.intent.category.DEFAULT
+ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:711:13-717:29
+activity#${applicationId}.sinaapi.WBShareActivity
+ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:723:9-732:20
+	android:screenOrientation
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:726:13-49
+	android:configChanges
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:725:13-63
+	android:name
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:724:13-68
+		INJECTED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml
+intent-filter#android.intent.category.DEFAULT+com.sina.weibo.sdk.action.ACTION_SDK_REQ_ACTIVITY
+ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:727:13-731:29
+action#com.sina.weibo.sdk.action.ACTION_SDK_REQ_ACTIVITY
+ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:728:17-91
+	android:name
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:728:25-89
+activity#com.sina.weibo.sdk.component.WeiboSdkBrowser
+ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:733:9-737:67
+	android:exported
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:736:13-37
+	android:windowSoftInputMode
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:737:13-55
+	android:configChanges
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:735:13-63
+	android:name
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:734:13-72
+service#com.sina.weibo.sdk.net.DownloadService
+ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:739:9-741:48
+	android:exported
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:741:13-37
+	android:name
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:740:13-66
+activity#com.tencent.tauth.AuthActivity
+ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:746:9-758:20
+	android:launchMode
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:748:13-44
+	android:noHistory
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:749:13-37
+	android:name
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:747:13-58
+activity#com.tencent.connect.common.AssistActivity
+ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:759:9-763:74
+	android:screenOrientation
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:762:13-49
+	android:configChanges
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:761:13-74
+	android:theme
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:763:13-72
+	android:name
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:760:13-69
+meta-data#UMENG_APPKEY
+ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:768:9-770:51
+	android:value
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:770:13-49
+	android:name
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:769:13-40
+meta-data#UMENG_MESSAGE_SECRET
+ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:771:9-773:64
+	android:value
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:773:13-62
+	android:name
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:772:13-48
+meta-data#UMENG_CHANNEL
+ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:774:9-776:41
+	android:value
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:776:13-39
+	android:name
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:775:13-41
+meta-data#TencentMapSDK
+ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:781:9-783:54
+	android:value
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:783:13-52
+	android:name
+		ADDED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml:782:13-41
+uses-sdk
+INJECTED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:multidex:1.0.1] C:\Users\13636\.android\build-cache\3ac2744121a1f886d8f02c8918753871331cc82f\output\AndroidManifest.xml:18:5-42
+MERGED from [:libraryAdapterHttp-release:] C:\Users\13636\.android\build-cache\cd2131401251e3d9e859633004a39c7ce4fb084f\output\AndroidManifest.xml:7:5-9:41
+MERGED from [:android-gif-drawable-1.2.4:] C:\Users\13636\.android\build-cache\17d9ca28971caac3d0461b0f17e3905b33451549\output\AndroidManifest.xml:7:5-9:41
+MERGED from [:libraryAndroidPullToRefresh-release:] C:\Users\13636\.android\build-cache\69077baca7a23c9d2777fb694bccf56b24501cef\output\AndroidManifest.xml:7:5-9:41
+MERGED from [:libraryPayAlipay-release:] C:\Users\13636\.android\build-cache\b2d3c5079dbb7682ce58803914b1a1b9d892f850\output\AndroidManifest.xml:7:5-9:41
+MERGED from [:libraryPayBaofoo-release:] C:\Users\13636\.android\build-cache\d1d048483b9fa9d6b0d87cbce95f26dd277317aa\output\AndroidManifest.xml:7:5-9:41
+MERGED from [:libraryPayUnionpay-release:] C:\Users\13636\.android\build-cache\db46dc735e0629bcb14ef15c3aa726cf6d38aa83\output\AndroidManifest.xml:7:5-9:41
+MERGED from [:libraryPhotoViewMaster-release:] C:\Users\13636\.android\build-cache\21373e287867883a4ccfee0559dc7acac51a4aa2\output\AndroidManifest.xml:6:5-8:41
+MERGED from [:libraryQrcodeZxing-release:] C:\Users\13636\.android\build-cache\66083a9a60d9262ee8fd06f6e6f6f504029ba6e1\output\AndroidManifest.xml:7:5-9:41
+MERGED from [:librarySocialUmeng-release:] C:\Users\13636\.android\build-cache\0229d2f91504cf0c719bdade6851ff489f70b330\output\AndroidManifest.xml:7:5-9:41
+MERGED from [:librarySpan-release:] C:\Users\13636\.android\build-cache\eaf9d44d6a3226a29ca3bb1f4b5178e1c5b74475\output\AndroidManifest.xml:7:5-9:41
+MERGED from [:pickerview-release:] C:\Users\13636\.android\build-cache\08596e081d60bc7fe24083283ccc7003e5824728\output\AndroidManifest.xml:7:5-9:41
+MERGED from [:PushSDK-release:] C:\Users\13636\.android\build-cache\b742890df49f1b812fa4226371ceb008f23b28e7\output\AndroidManifest.xml:8:5-10:41
+MERGED from [:TimePickerDialog-release:] C:\Users\13636\.android\build-cache\222af7f957f233e5d4e1c6d4aa7081dfabb78b0a\output\AndroidManifest.xml:7:5-9:41
+MERGED from [:libraryIMTencent-release:] C:\Users\13636\.android\build-cache\79329386478d1bd8c60bacfe842d7a314bd8e60e\output\AndroidManifest.xml:7:5-9:41
+MERGED from [:libraryMapTencent-release:] C:\Users\13636\.android\build-cache\3e8c01f942628526898e8e590e7b1d53aa6e7d61\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.daimajia.swipelayout:library:1.2.0] C:\Users\13636\.android\build-cache\f59949ee77b9785ac1e4969775201b323ab46373\output\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.ctiao:DanmakuFlameMaster:0.5.3] C:\Users\13636\.android\build-cache\73babd695da9ff97f1483ff6b4986f49c7469180\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.squareup.leakcanary:leakcanary-android-no-op:1.5] C:\Users\13636\.android\build-cache\03b778f3f25383f90c491025c00ff143d95c4f55\output\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android:flexbox:0.2.6] C:\Users\13636\.android\build-cache\3a6932bd5468095c07b035ba3cd136e076e5015e\output\AndroidManifest.xml:23:5-25:41
+MERGED from [com.yalantis:ucrop:2.2.0] C:\Users\13636\.android\build-cache\8ef4dfd115f04a939a9f5cf9491f0f21788a7d21\output\AndroidManifest.xml:8:5-10:41
+MERGED from [release_2.3:libraryGames:unspecified] D:\GitHub\source_android\release_2.3\libraryGames\build\intermediates\bundles\default\AndroidManifest.xml:7:5-9:41
+MERGED from [:libraryAndroidPercentSupportExtend-release:] C:\Users\13636\.android\build-cache\aa9d101bef2078a51f47b12208fd1645fb29c2ee\output\AndroidManifest.xml:5:5-7:41
+MERGED from [release_2.3:libraryFanwe:unspecified] D:\GitHub\source_android\release_2.3\libraryFanwe\build\intermediates\bundles\default\AndroidManifest.xml:7:5-9:41
+MERGED from [com.songhang:smart-headerfooter-recyclerview:1.0.1] C:\Users\13636\.android\build-cache\985e4a1c59b4000772967b052d0849cb62f4638c\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:recyclerview-v7:23.2.1] C:\Users\13636\.android\build-cache\22652c02f11165bbaaf7ff539c88420b2cf33879\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:24.2.0] C:\Users\13636\.android\build-cache\a92df266d5404f7d37ed7a23abe8c35da7d38682\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:24.2.0] C:\Users\13636\.android\build-cache\8b0a824a0f5d7d222a937c780a55848d71cde4a8\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.2.0] C:\Users\13636\.android\build-cache\a30819fbeef892305ab5916d9c7e296b09c6659a\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-v4:24.2.0] C:\Users\13636\.android\build-cache\8bbdd3c8687e42a4c20a51979cb84ffc42fa496f\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:24.2.0] C:\Users\13636\.android\build-cache\a7681bbdb18983776aba7252feda5bba14e6b30c\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:24.2.0] C:\Users\13636\.android\build-cache\fe376170d9ff280ecfeefe43d9469552dd9571fb\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-media-compat:24.2.0] C:\Users\13636\.android\build-cache\99c91906d9182e4de6d31eb92033ffdaf4eb8bf8\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:24.2.0] C:\Users\13636\.android\build-cache\40d3983f7f8b7f5698c36e345b77215e6d38e8b1\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.0] C:\Users\13636\.android\build-cache\a9faff0f50d8bcd8a581eb4c2f70d7f7dab1c503\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.2.0] C:\Users\13636\.android\build-cache\a92df266d5404f7d37ed7a23abe8c35da7d38682\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml
+		INJECTED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml
+		INJECTED from D:\GitHub\source_android\release_2.3\fanweHybridLive\src\main\AndroidManifest.xml
+activity#com.alipay.sdk.app.H5PayActivity
+ADDED from [:libraryPayAlipay-release:] C:\Users\13636\.android\build-cache\b2d3c5079dbb7682ce58803914b1a1b9d892f850\output\AndroidManifest.xml:12:9-18:20
+	android:screenOrientation
+		ADDED from [:libraryPayAlipay-release:] C:\Users\13636\.android\build-cache\b2d3c5079dbb7682ce58803914b1a1b9d892f850\output\AndroidManifest.xml:16:13-47
+	android:exported
+		ADDED from [:libraryPayAlipay-release:] C:\Users\13636\.android\build-cache\b2d3c5079dbb7682ce58803914b1a1b9d892f850\output\AndroidManifest.xml:15:13-37
+	android:windowSoftInputMode
+		ADDED from [:libraryPayAlipay-release:] C:\Users\13636\.android\build-cache\b2d3c5079dbb7682ce58803914b1a1b9d892f850\output\AndroidManifest.xml:17:13-67
+	android:configChanges
+		ADDED from [:libraryPayAlipay-release:] C:\Users\13636\.android\build-cache\b2d3c5079dbb7682ce58803914b1a1b9d892f850\output\AndroidManifest.xml:14:13-74
+	android:name
+		ADDED from [:libraryPayAlipay-release:] C:\Users\13636\.android\build-cache\b2d3c5079dbb7682ce58803914b1a1b9d892f850\output\AndroidManifest.xml:13:13-60
+activity#com.baofoo.sdk.BaofooPayActivity
+ADDED from [:libraryPayBaofoo-release:] C:\Users\13636\.android\build-cache\d1d048483b9fa9d6b0d87cbce95f26dd277317aa\output\AndroidManifest.xml:15:9-19:20
+	android:configChanges
+		ADDED from [:libraryPayBaofoo-release:] C:\Users\13636\.android\build-cache\d1d048483b9fa9d6b0d87cbce95f26dd277317aa\output\AndroidManifest.xml:17:13-74
+	android:theme
+		ADDED from [:libraryPayBaofoo-release:] C:\Users\13636\.android\build-cache\d1d048483b9fa9d6b0d87cbce95f26dd277317aa\output\AndroidManifest.xml:18:13-66
+	android:name
+		ADDED from [:libraryPayBaofoo-release:] C:\Users\13636\.android\build-cache\d1d048483b9fa9d6b0d87cbce95f26dd277317aa\output\AndroidManifest.xml:16:13-60
+activity#com.baofoo.sdk.vip.BaofooPayActivity
+ADDED from [:libraryPayBaofoo-release:] C:\Users\13636\.android\build-cache\d1d048483b9fa9d6b0d87cbce95f26dd277317aa\output\AndroidManifest.xml:21:9-25:20
+	android:configChanges
+		ADDED from [:libraryPayBaofoo-release:] C:\Users\13636\.android\build-cache\d1d048483b9fa9d6b0d87cbce95f26dd277317aa\output\AndroidManifest.xml:23:13-74
+	android:theme
+		ADDED from [:libraryPayBaofoo-release:] C:\Users\13636\.android\build-cache\d1d048483b9fa9d6b0d87cbce95f26dd277317aa\output\AndroidManifest.xml:24:13-66
+	android:name
+		ADDED from [:libraryPayBaofoo-release:] C:\Users\13636\.android\build-cache\d1d048483b9fa9d6b0d87cbce95f26dd277317aa\output\AndroidManifest.xml:22:13-64
+uses-permission#org.simalliance.openmobileapi.SMARTCARD
+ADDED from [:libraryPayUnionpay-release:] C:\Users\13636\.android\build-cache\db46dc735e0629bcb14ef15c3aa726cf6d38aa83\output\AndroidManifest.xml:17:5-79
+	android:name
+		ADDED from [:libraryPayUnionpay-release:] C:\Users\13636\.android\build-cache\db46dc735e0629bcb14ef15c3aa726cf6d38aa83\output\AndroidManifest.xml:17:22-76
+uses-permission#android.permission.NFC
+ADDED from [:libraryPayUnionpay-release:] C:\Users\13636\.android\build-cache\db46dc735e0629bcb14ef15c3aa726cf6d38aa83\output\AndroidManifest.xml:18:5-62
+	android:name
+		ADDED from [:libraryPayUnionpay-release:] C:\Users\13636\.android\build-cache\db46dc735e0629bcb14ef15c3aa726cf6d38aa83\output\AndroidManifest.xml:18:22-59
+uses-feature#android.hardware.nfc.hce
+ADDED from [:libraryPayUnionpay-release:] C:\Users\13636\.android\build-cache\db46dc735e0629bcb14ef15c3aa726cf6d38aa83\output\AndroidManifest.xml:20:5-61
+	android:name
+		ADDED from [:libraryPayUnionpay-release:] C:\Users\13636\.android\build-cache\db46dc735e0629bcb14ef15c3aa726cf6d38aa83\output\AndroidManifest.xml:20:19-58
+activity#com.unionpay.uppay.PayActivity
+ADDED from [:libraryPayUnionpay-release:] C:\Users\13636\.android\build-cache\db46dc735e0629bcb14ef15c3aa726cf6d38aa83\output\AndroidManifest.xml:26:9-31:58
+	android:screenOrientation
+		ADDED from [:libraryPayUnionpay-release:] C:\Users\13636\.android\build-cache\db46dc735e0629bcb14ef15c3aa726cf6d38aa83\output\AndroidManifest.xml:30:13-49
+	android:excludeFromRecents
+		ADDED from [:libraryPayUnionpay-release:] C:\Users\13636\.android\build-cache\db46dc735e0629bcb14ef15c3aa726cf6d38aa83\output\AndroidManifest.xml:29:13-46
+	android:windowSoftInputMode
+		ADDED from [:libraryPayUnionpay-release:] C:\Users\13636\.android\build-cache\db46dc735e0629bcb14ef15c3aa726cf6d38aa83\output\AndroidManifest.xml:31:13-55
+	android:configChanges
+		ADDED from [:libraryPayUnionpay-release:] C:\Users\13636\.android\build-cache\db46dc735e0629bcb14ef15c3aa726cf6d38aa83\output\AndroidManifest.xml:28:13-63
+	android:name
+		ADDED from [:libraryPayUnionpay-release:] C:\Users\13636\.android\build-cache\db46dc735e0629bcb14ef15c3aa726cf6d38aa83\output\AndroidManifest.xml:27:13-58
+uses-permission#android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+ADDED from [:librarySocialUmeng-release:] C:\Users\13636\.android\build-cache\0229d2f91504cf0c719bdade6851ff489f70b330\output\AndroidManifest.xml:19:5-89
+	android:name
+		ADDED from [:librarySocialUmeng-release:] C:\Users\13636\.android\build-cache\0229d2f91504cf0c719bdade6851ff489f70b330\output\AndroidManifest.xml:19:22-86
+uses-permission#android.permission.BROADCAST_PACKAGE_ADDED
+ADDED from [:PushSDK-release:] C:\Users\13636\.android\build-cache\b742890df49f1b812fa4226371ceb008f23b28e7\output\AndroidManifest.xml:18:5-82
+	android:name
+		ADDED from [:PushSDK-release:] C:\Users\13636\.android\build-cache\b742890df49f1b812fa4226371ceb008f23b28e7\output\AndroidManifest.xml:18:22-79
+uses-permission#android.permission.BROADCAST_PACKAGE_CHANGED
+ADDED from [:PushSDK-release:] C:\Users\13636\.android\build-cache\b742890df49f1b812fa4226371ceb008f23b28e7\output\AndroidManifest.xml:19:5-84
+	android:name
+		ADDED from [:PushSDK-release:] C:\Users\13636\.android\build-cache\b742890df49f1b812fa4226371ceb008f23b28e7\output\AndroidManifest.xml:19:22-81
+uses-permission#android.permission.BROADCAST_PACKAGE_INSTALL
+ADDED from [:PushSDK-release:] C:\Users\13636\.android\build-cache\b742890df49f1b812fa4226371ceb008f23b28e7\output\AndroidManifest.xml:20:5-84
+	android:name
+		ADDED from [:PushSDK-release:] C:\Users\13636\.android\build-cache\b742890df49f1b812fa4226371ceb008f23b28e7\output\AndroidManifest.xml:20:22-81
+uses-permission#android.permission.BROADCAST_PACKAGE_REPLACED
+ADDED from [:PushSDK-release:] C:\Users\13636\.android\build-cache\b742890df49f1b812fa4226371ceb008f23b28e7\output\AndroidManifest.xml:21:5-85
+	android:name
+		ADDED from [:PushSDK-release:] C:\Users\13636\.android\build-cache\b742890df49f1b812fa4226371ceb008f23b28e7\output\AndroidManifest.xml:21:22-82
+uses-permission#android.permission.RESTART_PACKAGES
+ADDED from [:PushSDK-release:] C:\Users\13636\.android\build-cache\b742890df49f1b812fa4226371ceb008f23b28e7\output\AndroidManifest.xml:22:5-75
+	android:name
+		ADDED from [:PushSDK-release:] C:\Users\13636\.android\build-cache\b742890df49f1b812fa4226371ceb008f23b28e7\output\AndroidManifest.xml:22:22-72
+service#com.taobao.accs.ChannelService
+ADDED from [:PushSDK-release:] C:\Users\13636\.android\build-cache\b742890df49f1b812fa4226371ceb008f23b28e7\output\AndroidManifest.xml:29:9-39:19
+	android:process
+		ADDED from [:PushSDK-release:] C:\Users\13636\.android\build-cache\b742890df49f1b812fa4226371ceb008f23b28e7\output\AndroidManifest.xml:32:13-39
+	android:exported
+		ADDED from [:PushSDK-release:] C:\Users\13636\.android\build-cache\b742890df49f1b812fa4226371ceb008f23b28e7\output\AndroidManifest.xml:31:13-36
+	android:name
+		ADDED from [:PushSDK-release:] C:\Users\13636\.android\build-cache\b742890df49f1b812fa4226371ceb008f23b28e7\output\AndroidManifest.xml:30:13-58
+intent-filter#com.taobao.accs.intent.action.SERVICE
+ADDED from [:PushSDK-release:] C:\Users\13636\.android\build-cache\b742890df49f1b812fa4226371ceb008f23b28e7\output\AndroidManifest.xml:33:13-35:29
+action#com.taobao.accs.intent.action.SERVICE
+ADDED from [:PushSDK-release:] C:\Users\13636\.android\build-cache\b742890df49f1b812fa4226371ceb008f23b28e7\output\AndroidManifest.xml:34:17-80
+	android:name
+		ADDED from [:PushSDK-release:] C:\Users\13636\.android\build-cache\b742890df49f1b812fa4226371ceb008f23b28e7\output\AndroidManifest.xml:34:25-77
+intent-filter#com.taobao.accs.intent.action.ELECTION
+ADDED from [:PushSDK-release:] C:\Users\13636\.android\build-cache\b742890df49f1b812fa4226371ceb008f23b28e7\output\AndroidManifest.xml:36:13-38:29
+action#com.taobao.accs.intent.action.ELECTION
+ADDED from [:PushSDK-release:] C:\Users\13636\.android\build-cache\b742890df49f1b812fa4226371ceb008f23b28e7\output\AndroidManifest.xml:37:17-81
+	android:name
+		ADDED from [:PushSDK-release:] C:\Users\13636\.android\build-cache\b742890df49f1b812fa4226371ceb008f23b28e7\output\AndroidManifest.xml:37:25-78
+service#com.taobao.accs.data.MsgDistributeService
+ADDED from [:PushSDK-release:] C:\Users\13636\.android\build-cache\b742890df49f1b812fa4226371ceb008f23b28e7\output\AndroidManifest.xml:40:9-46:19
+	android:exported
+		ADDED from [:PushSDK-release:] C:\Users\13636\.android\build-cache\b742890df49f1b812fa4226371ceb008f23b28e7\output\AndroidManifest.xml:42:13-36
+	android:name
+		ADDED from [:PushSDK-release:] C:\Users\13636\.android\build-cache\b742890df49f1b812fa4226371ceb008f23b28e7\output\AndroidManifest.xml:41:13-69
+intent-filter#com.taobao.accs.intent.action.RECEIVE
+ADDED from [:PushSDK-release:] C:\Users\13636\.android\build-cache\b742890df49f1b812fa4226371ceb008f23b28e7\output\AndroidManifest.xml:43:13-45:29
+action#com.taobao.accs.intent.action.RECEIVE
+ADDED from [:PushSDK-release:] C:\Users\13636\.android\build-cache\b742890df49f1b812fa4226371ceb008f23b28e7\output\AndroidManifest.xml:44:17-80
+	android:name
+		ADDED from [:PushSDK-release:] C:\Users\13636\.android\build-cache\b742890df49f1b812fa4226371ceb008f23b28e7\output\AndroidManifest.xml:44:25-77
+receiver#com.taobao.accs.EventReceiver
+ADDED from [:PushSDK-release:] C:\Users\13636\.android\build-cache\b742890df49f1b812fa4226371ceb008f23b28e7\output\AndroidManifest.xml:48:9-65:20
+	android:process
+		ADDED from [:PushSDK-release:] C:\Users\13636\.android\build-cache\b742890df49f1b812fa4226371ceb008f23b28e7\output\AndroidManifest.xml:50:13-39
+	android:name
+		ADDED from [:PushSDK-release:] C:\Users\13636\.android\build-cache\b742890df49f1b812fa4226371ceb008f23b28e7\output\AndroidManifest.xml:49:13-57
+intent-filter#android.intent.action.BOOT_COMPLETED
+ADDED from [:PushSDK-release:] C:\Users\13636\.android\build-cache\b742890df49f1b812fa4226371ceb008f23b28e7\output\AndroidManifest.xml:51:13-53:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from [:PushSDK-release:] C:\Users\13636\.android\build-cache\b742890df49f1b812fa4226371ceb008f23b28e7\output\AndroidManifest.xml:52:17-79
+	android:name
+		ADDED from [:PushSDK-release:] C:\Users\13636\.android\build-cache\b742890df49f1b812fa4226371ceb008f23b28e7\output\AndroidManifest.xml:52:25-76
+intent-filter#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [:PushSDK-release:] C:\Users\13636\.android\build-cache\b742890df49f1b812fa4226371ceb008f23b28e7\output\AndroidManifest.xml:54:13-56:29
+intent-filter#android.intent.action.PACKAGE_REMOVED
+ADDED from [:PushSDK-release:] C:\Users\13636\.android\build-cache\b742890df49f1b812fa4226371ceb008f23b28e7\output\AndroidManifest.xml:57:13-61:29
+action#android.intent.action.PACKAGE_REMOVED
+ADDED from [:PushSDK-release:] C:\Users\13636\.android\build-cache\b742890df49f1b812fa4226371ceb008f23b28e7\output\AndroidManifest.xml:58:17-80
+	android:name
+		ADDED from [:PushSDK-release:] C:\Users\13636\.android\build-cache\b742890df49f1b812fa4226371ceb008f23b28e7\output\AndroidManifest.xml:58:25-77
+intent-filter#android.intent.action.USER_PRESENT
+ADDED from [:PushSDK-release:] C:\Users\13636\.android\build-cache\b742890df49f1b812fa4226371ceb008f23b28e7\output\AndroidManifest.xml:62:13-64:29
+action#android.intent.action.USER_PRESENT
+ADDED from [:PushSDK-release:] C:\Users\13636\.android\build-cache\b742890df49f1b812fa4226371ceb008f23b28e7\output\AndroidManifest.xml:63:17-77
+	android:name
+		ADDED from [:PushSDK-release:] C:\Users\13636\.android\build-cache\b742890df49f1b812fa4226371ceb008f23b28e7\output\AndroidManifest.xml:63:25-74
+receiver#com.taobao.accs.ServiceReceiver
+ADDED from [:PushSDK-release:] C:\Users\13636\.android\build-cache\b742890df49f1b812fa4226371ceb008f23b28e7\output\AndroidManifest.xml:66:9-76:20
+	android:process
+		ADDED from [:PushSDK-release:] C:\Users\13636\.android\build-cache\b742890df49f1b812fa4226371ceb008f23b28e7\output\AndroidManifest.xml:69:13-39
+	android:exported
+		ADDED from [:PushSDK-release:] C:\Users\13636\.android\build-cache\b742890df49f1b812fa4226371ceb008f23b28e7\output\AndroidManifest.xml:68:13-37
+	android:name
+		ADDED from [:PushSDK-release:] C:\Users\13636\.android\build-cache\b742890df49f1b812fa4226371ceb008f23b28e7\output\AndroidManifest.xml:67:13-59
+intent-filter#com.taobao.accs.intent.action.COMMAND
+ADDED from [:PushSDK-release:] C:\Users\13636\.android\build-cache\b742890df49f1b812fa4226371ceb008f23b28e7\output\AndroidManifest.xml:70:13-72:29
+action#com.taobao.accs.intent.action.COMMAND
+ADDED from [:PushSDK-release:] C:\Users\13636\.android\build-cache\b742890df49f1b812fa4226371ceb008f23b28e7\output\AndroidManifest.xml:71:17-80
+	android:name
+		ADDED from [:PushSDK-release:] C:\Users\13636\.android\build-cache\b742890df49f1b812fa4226371ceb008f23b28e7\output\AndroidManifest.xml:71:25-77
+intent-filter#com.taobao.accs.intent.action.START_FROM_AGOO
+ADDED from [:PushSDK-release:] C:\Users\13636\.android\build-cache\b742890df49f1b812fa4226371ceb008f23b28e7\output\AndroidManifest.xml:73:13-75:29
+action#com.taobao.accs.intent.action.START_FROM_AGOO
+ADDED from [:PushSDK-release:] C:\Users\13636\.android\build-cache\b742890df49f1b812fa4226371ceb008f23b28e7\output\AndroidManifest.xml:74:17-88
+	android:name
+		ADDED from [:PushSDK-release:] C:\Users\13636\.android\build-cache\b742890df49f1b812fa4226371ceb008f23b28e7\output\AndroidManifest.xml:74:25-85
+service#com.taobao.accs.ChannelService$KernelService
+ADDED from [:PushSDK-release:] C:\Users\13636\.android\build-cache\b742890df49f1b812fa4226371ceb008f23b28e7\output\AndroidManifest.xml:78:9-81:19
+	android:process
+		ADDED from [:PushSDK-release:] C:\Users\13636\.android\build-cache\b742890df49f1b812fa4226371ceb008f23b28e7\output\AndroidManifest.xml:80:13-39
+	android:name
+		ADDED from [:PushSDK-release:] C:\Users\13636\.android\build-cache\b742890df49f1b812fa4226371ceb008f23b28e7\output\AndroidManifest.xml:79:13-72
+service#org.android.agoo.accs.AgooService
+ADDED from [:PushSDK-release:] C:\Users\13636\.android\build-cache\b742890df49f1b812fa4226371ceb008f23b28e7\output\AndroidManifest.xml:82:9-88:19
+	android:exported
+		ADDED from [:PushSDK-release:] C:\Users\13636\.android\build-cache\b742890df49f1b812fa4226371ceb008f23b28e7\output\AndroidManifest.xml:84:13-36
+	android:name
+		ADDED from [:PushSDK-release:] C:\Users\13636\.android\build-cache\b742890df49f1b812fa4226371ceb008f23b28e7\output\AndroidManifest.xml:83:13-61
+service#com.umeng.message.UmengIntentService
+ADDED from [:PushSDK-release:] C:\Users\13636\.android\build-cache\b742890df49f1b812fa4226371ceb008f23b28e7\output\AndroidManifest.xml:89:9-96:19
+	android:process
+		ADDED from [:PushSDK-release:] C:\Users\13636\.android\build-cache\b742890df49f1b812fa4226371ceb008f23b28e7\output\AndroidManifest.xml:92:13-39
+	android:exported
+		ADDED from [:PushSDK-release:] C:\Users\13636\.android\build-cache\b742890df49f1b812fa4226371ceb008f23b28e7\output\AndroidManifest.xml:91:13-36
+	android:name
+		ADDED from [:PushSDK-release:] C:\Users\13636\.android\build-cache\b742890df49f1b812fa4226371ceb008f23b28e7\output\AndroidManifest.xml:90:13-64
+intent-filter#org.agoo.android.intent.action.RECEIVE
+ADDED from [:PushSDK-release:] C:\Users\13636\.android\build-cache\b742890df49f1b812fa4226371ceb008f23b28e7\output\AndroidManifest.xml:93:13-95:29
+action#org.agoo.android.intent.action.RECEIVE
+ADDED from [:PushSDK-release:] C:\Users\13636\.android\build-cache\b742890df49f1b812fa4226371ceb008f23b28e7\output\AndroidManifest.xml:94:17-81
+	android:name
+		ADDED from [:PushSDK-release:] C:\Users\13636\.android\build-cache\b742890df49f1b812fa4226371ceb008f23b28e7\output\AndroidManifest.xml:94:25-78
+receiver#com.taobao.agoo.AgooCommondReceiver
+ADDED from [:PushSDK-release:] C:\Users\13636\.android\build-cache\b742890df49f1b812fa4226371ceb008f23b28e7\output\AndroidManifest.xml:98:9-109:20
+	android:exported
+		ADDED from [:PushSDK-release:] C:\Users\13636\.android\build-cache\b742890df49f1b812fa4226371ceb008f23b28e7\output\AndroidManifest.xml:100:13-36
+	android:name
+		ADDED from [:PushSDK-release:] C:\Users\13636\.android\build-cache\b742890df49f1b812fa4226371ceb008f23b28e7\output\AndroidManifest.xml:99:13-63
+intent-filter#${applicationId}.intent.action.COMMAND
+ADDED from [:PushSDK-release:] C:\Users\13636\.android\build-cache\b742890df49f1b812fa4226371ceb008f23b28e7\output\AndroidManifest.xml:101:13-103:29
+action#${applicationId}.intent.action.COMMAND
+ADDED from [:PushSDK-release:] C:\Users\13636\.android\build-cache\b742890df49f1b812fa4226371ceb008f23b28e7\output\AndroidManifest.xml:102:17-81
+	android:name
+		ADDED from [:PushSDK-release:] C:\Users\13636\.android\build-cache\b742890df49f1b812fa4226371ceb008f23b28e7\output\AndroidManifest.xml:102:25-78
+receiver#com.umeng.message.NotificationProxyBroadcastReceiver
+ADDED from [:PushSDK-release:] C:\Users\13636\.android\build-cache\b742890df49f1b812fa4226371ceb008f23b28e7\output\AndroidManifest.xml:110:9-112:40
+	android:exported
+		ADDED from [:PushSDK-release:] C:\Users\13636\.android\build-cache\b742890df49f1b812fa4226371ceb008f23b28e7\output\AndroidManifest.xml:112:13-37
+	android:name
+		ADDED from [:PushSDK-release:] C:\Users\13636\.android\build-cache\b742890df49f1b812fa4226371ceb008f23b28e7\output\AndroidManifest.xml:111:13-80
+service#com.umeng.message.UmengMessageCallbackHandlerService
+ADDED from [:PushSDK-release:] C:\Users\13636\.android\build-cache\b742890df49f1b812fa4226371ceb008f23b28e7\output\AndroidManifest.xml:114:9-129:19
+	android:exported
+		ADDED from [:PushSDK-release:] C:\Users\13636\.android\build-cache\b742890df49f1b812fa4226371ceb008f23b28e7\output\AndroidManifest.xml:116:13-37
+	android:name
+		ADDED from [:PushSDK-release:] C:\Users\13636\.android\build-cache\b742890df49f1b812fa4226371ceb008f23b28e7\output\AndroidManifest.xml:115:13-80
+intent-filter#com.umeng.messge.registercallback.action
+ADDED from [:PushSDK-release:] C:\Users\13636\.android\build-cache\b742890df49f1b812fa4226371ceb008f23b28e7\output\AndroidManifest.xml:117:13-119:29
+action#com.umeng.messge.registercallback.action
+ADDED from [:PushSDK-release:] C:\Users\13636\.android\build-cache\b742890df49f1b812fa4226371ceb008f23b28e7\output\AndroidManifest.xml:118:17-83
+	android:name
+		ADDED from [:PushSDK-release:] C:\Users\13636\.android\build-cache\b742890df49f1b812fa4226371ceb008f23b28e7\output\AndroidManifest.xml:118:25-80
+intent-filter#com.umeng.message.enablecallback.action
+ADDED from [:PushSDK-release:] C:\Users\13636\.android\build-cache\b742890df49f1b812fa4226371ceb008f23b28e7\output\AndroidManifest.xml:120:13-122:29
+action#com.umeng.message.enablecallback.action
+ADDED from [:PushSDK-release:] C:\Users\13636\.android\build-cache\b742890df49f1b812fa4226371ceb008f23b28e7\output\AndroidManifest.xml:121:17-82
+	android:name
+		ADDED from [:PushSDK-release:] C:\Users\13636\.android\build-cache\b742890df49f1b812fa4226371ceb008f23b28e7\output\AndroidManifest.xml:121:25-79
+intent-filter#com.umeng.message.disablecallback.action
+ADDED from [:PushSDK-release:] C:\Users\13636\.android\build-cache\b742890df49f1b812fa4226371ceb008f23b28e7\output\AndroidManifest.xml:123:13-125:29
+action#com.umeng.message.disablecallback.action
+ADDED from [:PushSDK-release:] C:\Users\13636\.android\build-cache\b742890df49f1b812fa4226371ceb008f23b28e7\output\AndroidManifest.xml:124:17-83
+	android:name
+		ADDED from [:PushSDK-release:] C:\Users\13636\.android\build-cache\b742890df49f1b812fa4226371ceb008f23b28e7\output\AndroidManifest.xml:124:25-80
+intent-filter#com.umeng.message.message.handler.action
+ADDED from [:PushSDK-release:] C:\Users\13636\.android\build-cache\b742890df49f1b812fa4226371ceb008f23b28e7\output\AndroidManifest.xml:126:13-128:29
+action#com.umeng.message.message.handler.action
+ADDED from [:PushSDK-release:] C:\Users\13636\.android\build-cache\b742890df49f1b812fa4226371ceb008f23b28e7\output\AndroidManifest.xml:127:17-83
+	android:name
+		ADDED from [:PushSDK-release:] C:\Users\13636\.android\build-cache\b742890df49f1b812fa4226371ceb008f23b28e7\output\AndroidManifest.xml:127:25-80
+service#com.umeng.message.UmengDownloadResourceService
+ADDED from [:PushSDK-release:] C:\Users\13636\.android\build-cache\b742890df49f1b812fa4226371ceb008f23b28e7\output\AndroidManifest.xml:130:9-132:40
+	android:exported
+		ADDED from [:PushSDK-release:] C:\Users\13636\.android\build-cache\b742890df49f1b812fa4226371ceb008f23b28e7\output\AndroidManifest.xml:132:13-37
+	android:name
+		ADDED from [:PushSDK-release:] C:\Users\13636\.android\build-cache\b742890df49f1b812fa4226371ceb008f23b28e7\output\AndroidManifest.xml:131:13-74
+service#com.umeng.message.UmengMessageIntentReceiverService
+ADDED from [:PushSDK-release:] C:\Users\13636\.android\build-cache\b742890df49f1b812fa4226371ceb008f23b28e7\output\AndroidManifest.xml:133:9-140:19
+	android:process
+		ADDED from [:PushSDK-release:] C:\Users\13636\.android\build-cache\b742890df49f1b812fa4226371ceb008f23b28e7\output\AndroidManifest.xml:136:13-39
+	android:exported
+		ADDED from [:PushSDK-release:] C:\Users\13636\.android\build-cache\b742890df49f1b812fa4226371ceb008f23b28e7\output\AndroidManifest.xml:135:13-36
+	android:name
+		ADDED from [:PushSDK-release:] C:\Users\13636\.android\build-cache\b742890df49f1b812fa4226371ceb008f23b28e7\output\AndroidManifest.xml:134:13-79
+intent-filter#org.android.agoo.client.MessageReceiverService
+ADDED from [:PushSDK-release:] C:\Users\13636\.android\build-cache\b742890df49f1b812fa4226371ceb008f23b28e7\output\AndroidManifest.xml:137:13-139:29
+action#org.android.agoo.client.MessageReceiverService
+ADDED from [:PushSDK-release:] C:\Users\13636\.android\build-cache\b742890df49f1b812fa4226371ceb008f23b28e7\output\AndroidManifest.xml:138:17-89
+	android:name
+		ADDED from [:PushSDK-release:] C:\Users\13636\.android\build-cache\b742890df49f1b812fa4226371ceb008f23b28e7\output\AndroidManifest.xml:138:25-86
+provider#com.umeng.message.provider.MessageProvider
+ADDED from [:PushSDK-release:] C:\Users\13636\.android\build-cache\b742890df49f1b812fa4226371ceb008f23b28e7\output\AndroidManifest.xml:142:9-147:20
+	android:authorities
+		ADDED from [:PushSDK-release:] C:\Users\13636\.android\build-cache\b742890df49f1b812fa4226371ceb008f23b28e7\output\AndroidManifest.xml:144:13-65
+	android:exported
+		ADDED from [:PushSDK-release:] C:\Users\13636\.android\build-cache\b742890df49f1b812fa4226371ceb008f23b28e7\output\AndroidManifest.xml:145:13-37
+	android:name
+		ADDED from [:PushSDK-release:] C:\Users\13636\.android\build-cache\b742890df49f1b812fa4226371ceb008f23b28e7\output\AndroidManifest.xml:143:13-70
+grant-uri-permission
+ADDED from [:PushSDK-release:] C:\Users\13636\.android\build-cache\b742890df49f1b812fa4226371ceb008f23b28e7\output\AndroidManifest.xml:146:13-62
+	android:pathPattern
+		ADDED from [:PushSDK-release:] C:\Users\13636\.android\build-cache\b742890df49f1b812fa4226371ceb008f23b28e7\output\AndroidManifest.xml:146:35-59
+service#com.tencent.qalsdk.service.QalService
+ADDED from [:libraryIMTencent-release:] C:\Users\13636\.android\build-cache\79329386478d1bd8c60bacfe842d7a314bd8e60e\output\AndroidManifest.xml:29:9-33:19
+	android:process
+		ADDED from [:libraryIMTencent-release:] C:\Users\13636\.android\build-cache\79329386478d1bd8c60bacfe842d7a314bd8e60e\output\AndroidManifest.xml:32:13-42
+	android:exported
+		ADDED from [:libraryIMTencent-release:] C:\Users\13636\.android\build-cache\79329386478d1bd8c60bacfe842d7a314bd8e60e\output\AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [:libraryIMTencent-release:] C:\Users\13636\.android\build-cache\79329386478d1bd8c60bacfe842d7a314bd8e60e\output\AndroidManifest.xml:30:13-65
+service#com.tencent.qalsdk.service.QalAssistService
+ADDED from [:libraryIMTencent-release:] C:\Users\13636\.android\build-cache\79329386478d1bd8c60bacfe842d7a314bd8e60e\output\AndroidManifest.xml:35:9-39:19
+	android:process
+		ADDED from [:libraryIMTencent-release:] C:\Users\13636\.android\build-cache\79329386478d1bd8c60bacfe842d7a314bd8e60e\output\AndroidManifest.xml:38:13-42
+	android:exported
+		ADDED from [:libraryIMTencent-release:] C:\Users\13636\.android\build-cache\79329386478d1bd8c60bacfe842d7a314bd8e60e\output\AndroidManifest.xml:37:13-37
+	android:name
+		ADDED from [:libraryIMTencent-release:] C:\Users\13636\.android\build-cache\79329386478d1bd8c60bacfe842d7a314bd8e60e\output\AndroidManifest.xml:36:13-71
+receiver#com.tencent.qalsdk.QALBroadcastReceiver
+ADDED from [:libraryIMTencent-release:] C:\Users\13636\.android\build-cache\79329386478d1bd8c60bacfe842d7a314bd8e60e\output\AndroidManifest.xml:41:9-47:20
+	android:exported
+		ADDED from [:libraryIMTencent-release:] C:\Users\13636\.android\build-cache\79329386478d1bd8c60bacfe842d7a314bd8e60e\output\AndroidManifest.xml:43:13-37
+	android:name
+		ADDED from [:libraryIMTencent-release:] C:\Users\13636\.android\build-cache\79329386478d1bd8c60bacfe842d7a314bd8e60e\output\AndroidManifest.xml:42:13-67
+intent-filter#com.tencent.qalsdk.broadcast.qal
+ADDED from [:libraryIMTencent-release:] C:\Users\13636\.android\build-cache\79329386478d1bd8c60bacfe842d7a314bd8e60e\output\AndroidManifest.xml:44:13-46:29
+action#com.tencent.qalsdk.broadcast.qal
+ADDED from [:libraryIMTencent-release:] C:\Users\13636\.android\build-cache\79329386478d1bd8c60bacfe842d7a314bd8e60e\output\AndroidManifest.xml:45:17-75
+	android:name
+		ADDED from [:libraryIMTencent-release:] C:\Users\13636\.android\build-cache\79329386478d1bd8c60bacfe842d7a314bd8e60e\output\AndroidManifest.xml:45:25-72
+receiver#com.tencent.qalsdk.core.NetConnInfoCenter
+ADDED from [:libraryIMTencent-release:] C:\Users\13636\.android\build-cache\79329386478d1bd8c60bacfe842d7a314bd8e60e\output\AndroidManifest.xml:49:9-64:20
+	android:process
+		ADDED from [:libraryIMTencent-release:] C:\Users\13636\.android\build-cache\79329386478d1bd8c60bacfe842d7a314bd8e60e\output\AndroidManifest.xml:51:13-42
+	android:name
+		ADDED from [:libraryIMTencent-release:] C:\Users\13636\.android\build-cache\79329386478d1bd8c60bacfe842d7a314bd8e60e\output\AndroidManifest.xml:50:13-69
+intent-filter#android.intent.action.TIME_SET
+ADDED from [:libraryIMTencent-release:] C:\Users\13636\.android\build-cache\79329386478d1bd8c60bacfe842d7a314bd8e60e\output\AndroidManifest.xml:58:13-60:29
+action#android.intent.action.TIME_SET
+ADDED from [:libraryIMTencent-release:] C:\Users\13636\.android\build-cache\79329386478d1bd8c60bacfe842d7a314bd8e60e\output\AndroidManifest.xml:59:17-73
+	android:name
+		ADDED from [:libraryIMTencent-release:] C:\Users\13636\.android\build-cache\79329386478d1bd8c60bacfe842d7a314bd8e60e\output\AndroidManifest.xml:59:25-70
+intent-filter#android.intent.action.TIMEZONE_CHANGED
+ADDED from [:libraryIMTencent-release:] C:\Users\13636\.android\build-cache\79329386478d1bd8c60bacfe842d7a314bd8e60e\output\AndroidManifest.xml:61:13-63:29
+action#android.intent.action.TIMEZONE_CHANGED
+ADDED from [:libraryIMTencent-release:] C:\Users\13636\.android\build-cache\79329386478d1bd8c60bacfe842d7a314bd8e60e\output\AndroidManifest.xml:62:17-81
+	android:name
+		ADDED from [:libraryIMTencent-release:] C:\Users\13636\.android\build-cache\79329386478d1bd8c60bacfe842d7a314bd8e60e\output\AndroidManifest.xml:62:25-78
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-compat:25.3.0] C:\Users\13636\.android\build-cache\a9faff0f50d8bcd8a581eb4c2f70d7f7dab1c503\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:support-compat:25.3.0] C:\Users\13636\.android\build-cache\a9faff0f50d8bcd8a581eb4c2f70d7f7dab1c503\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:support-compat:25.3.0] C:\Users\13636\.android\build-cache\a9faff0f50d8bcd8a581eb4c2f70d7f7dab1c503\output\AndroidManifest.xml:26:9-47

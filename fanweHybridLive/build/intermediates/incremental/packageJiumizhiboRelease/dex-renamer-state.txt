@@ -1,0 +1,7 @@
+#Thu Jun 01 11:39:54 GMT+08:00 2017
+base.0=D\:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\transforms\\dex\\jiumizhibo\\release\\folders\\1000\\1f\\main
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\transforms\\dex\\jiumizhibo\\release\\folders\\1000\\1f\\main\\classes2.dex
+base.1=D\:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\transforms\\dex\\jiumizhibo\\release\\folders\\1000\\1f\\main
+file.0=D\:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\transforms\\dex\\jiumizhibo\\release\\folders\\1000\\1f\\main\\classes.dex

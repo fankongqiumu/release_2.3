@@ -1,0 +1,1154 @@
+[
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\selector_white_gray_stroke_top_bot.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\exploded-aar\\release_2.3\\libraryFanwe\\unspecified\\res\\drawable\\selector_white_gray_stroke_top_bot.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_white_stroke_top_deep.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_white_stroke_top_deep.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\selector_white_gray_stroke_all.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\exploded-aar\\release_2.3\\libraryFanwe\\unspecified\\res\\drawable\\selector_white_gray_stroke_all.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_transparent_stroke_main_color_corner20dp.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\exploded-aar\\release_2.3\\libraryFanwe\\unspecified\\res\\drawable\\layer_transparent_stroke_main_color_corner20dp.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\wheel_bg.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\wheel_bg.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\wheel_val.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\wheel_val.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\selector_white_gray_stroke_corner_item_bot_deep.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\selector_white_gray_stroke_corner_item_bot_deep.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\div_right_shadow.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\exploded-aar\\release_2.3\\libraryFanwe\\unspecified\\res\\drawable\\div_right_shadow.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bg_grey_circle.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\bundles\\debug\\res\\drawable\\bg_grey_circle.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\rotate_progress_white.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\rotate_progress_white.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_gray_stroke_corner_item_single.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\exploded-aar\\release_2.3\\libraryFanwe\\unspecified\\res\\drawable\\layer_gray_stroke_corner_item_single.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_white_stroke_all.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_white_stroke_all.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\selector_white_gray_stroke_bot_left_right.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\exploded-aar\\release_2.3\\libraryFanwe\\unspecified\\res\\drawable\\selector_white_gray_stroke_bot_left_right.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\selector_white_gray_stroke_corner_item_single_deep.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\selector_white_gray_stroke_corner_item_single_deep.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_gray_stroke_corner_item_single.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_gray_stroke_corner_item_single.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_white_stroke_top.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_white_stroke_top.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_gray_stroke_top_bot_deep.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_gray_stroke_top_bot_deep.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_gray_stroke_corner_item_bot.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_gray_stroke_corner_item_bot.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\selector_white_gray_stroke_corner_item_bot_deep.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\selector_white_gray_stroke_corner_item_bot_deep.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_gray_stroke_bot_left_right.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_gray_stroke_bot_left_right.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\selector_white_gray_stroke_all_deep.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\selector_white_gray_stroke_all_deep.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_main_color_normal.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_main_color_normal.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_main_color_corner20dp_normal.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_main_color_corner20dp_normal.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\selector_white_gray_stroke_corner_item_top.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\selector_white_gray_stroke_corner_item_top.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_white_stroke_bot.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_white_stroke_bot.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\wheel_bg.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\exploded-aar\\release_2.3\\libraryFanwe\\unspecified\\res\\drawable\\wheel_bg.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_gray_stroke_all.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_gray_stroke_all.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_transparent_stroke_main_color.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_transparent_stroke_main_color.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_gray_stroke_top_left_right.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\exploded-aar\\release_2.3\\libraryFanwe\\unspecified\\res\\drawable\\layer_gray_stroke_top_left_right.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_gray_stroke_top_bot.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_gray_stroke_top_bot.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\selector_main_color_corner20dp.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\exploded-aar\\release_2.3\\libraryFanwe\\unspecified\\res\\drawable\\selector_main_color_corner20dp.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\selector_white_gray_stroke_top_left_right.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\selector_white_gray_stroke_top_left_right.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_gray_stroke_corner_item_bot_deep.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\exploded-aar\\release_2.3\\libraryFanwe\\unspecified\\res\\drawable\\layer_gray_stroke_corner_item_bot_deep.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_gray_stroke_top_left_right_deep.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\exploded-aar\\release_2.3\\libraryFanwe\\unspecified\\res\\drawable\\layer_gray_stroke_top_left_right_deep.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\timepicker_divider_line.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\timepicker_divider_line.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\div_top_shadow.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\div_top_shadow.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\selector_edt_delete.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\selector_edt_delete.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_white_solid_10dp_corner.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\bundles\\debug\\res\\drawable\\layer_white_solid_10dp_corner.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_main_color_corner20dp_press.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_main_color_corner20dp_press.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_white_stroke_top_bot_deep.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_white_stroke_top_bot_deep.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\selector_white_gray.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\exploded-aar\\release_2.3\\libraryFanwe\\unspecified\\res\\drawable\\selector_white_gray.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_white_stroke_bot_left_right_deep.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_white_stroke_bot_left_right_deep.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\game_layer_blur_round.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\bundles\\debug\\res\\drawable\\game_layer_blur_round.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\selector_transparent_stroke_main_color_main_color_corner20dp.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\exploded-aar\\release_2.3\\libraryFanwe\\unspecified\\res\\drawable\\selector_transparent_stroke_main_color_main_color_corner20dp.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_white_stroke_main_color_corner.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_white_stroke_main_color_corner.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\rotate_progress_white.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\exploded-aar\\release_2.3\\libraryFanwe\\unspecified\\res\\drawable\\rotate_progress_white.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_white_stroke_bot_deep.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\exploded-aar\\release_2.3\\libraryFanwe\\unspecified\\res\\drawable\\layer_white_stroke_bot_deep.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_gray.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_gray.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_gray_stroke_corner_item_single_deep.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_gray_stroke_corner_item_single_deep.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_blur_corner20dp.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_blur_corner20dp.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\selector_white_gray_stroke_bot_left_right_deep.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\selector_white_gray_stroke_bot_left_right_deep.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_gray_stroke_bot.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_gray_stroke_bot.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_white_stroke_top_left_right.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_white_stroke_top_left_right.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_main_color_corner_press.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_main_color_corner_press.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_gray_stroke_bot_left_right.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\exploded-aar\\release_2.3\\libraryFanwe\\unspecified\\res\\drawable\\layer_gray_stroke_bot_left_right.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_gray_stroke_corner_item_top.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_gray_stroke_corner_item_top.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_main_color_corner20dp_normal.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\exploded-aar\\release_2.3\\libraryFanwe\\unspecified\\res\\drawable\\layer_main_color_corner20dp_normal.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\game_layer_grey_round.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\bundles\\debug\\res\\drawable\\game_layer_grey_round.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\div_right_shadow.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\div_right_shadow.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_gray_stroke_top_left_right.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_gray_stroke_top_left_right.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\game_layer_blur_bottom_round.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\bundles\\debug\\res\\drawable\\game_layer_blur_bottom_round.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_main_color_stroke_white_corner_item_single.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_main_color_stroke_white_corner_item_single.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_transparent_stroke_main_color_corner.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\exploded-aar\\release_2.3\\libraryFanwe\\unspecified\\res\\drawable\\layer_transparent_stroke_main_color_corner.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_white_stroke_all.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_white_stroke_all.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_gray_stroke_bot_deep.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_gray_stroke_bot_deep.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_white_stroke_top_bot.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_white_stroke_top_bot.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_white_stroke_top_deep.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_white_stroke_top_deep.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\selector_white_gray_stroke_corner_item_single_deep.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\selector_white_gray_stroke_corner_item_single_deep.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_white_stroke_corner_item_top.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_white_stroke_corner_item_top.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\selector_white_gray_stroke_top_bot.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\selector_white_gray_stroke_top_bot.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\selector_white_gray_stroke_corner_item_single_deep.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\exploded-aar\\release_2.3\\libraryFanwe\\unspecified\\res\\drawable\\selector_white_gray_stroke_corner_item_single_deep.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_main_color_normal.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_main_color_normal.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\selector_white_gray_stroke_corner_item_bot.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\exploded-aar\\release_2.3\\libraryFanwe\\unspecified\\res\\drawable\\selector_white_gray_stroke_corner_item_bot.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_gray.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_gray.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_gray_stroke_corner_item_bot_deep.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_gray_stroke_corner_item_bot_deep.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_gray_stroke_top.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_gray_stroke_top.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\selector_white_gray_stroke_corner_item_top_deep.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\exploded-aar\\release_2.3\\libraryFanwe\\unspecified\\res\\drawable\\selector_white_gray_stroke_corner_item_top_deep.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\selector_white_gray_stroke_top_left_right_deep.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\exploded-aar\\release_2.3\\libraryFanwe\\unspecified\\res\\drawable\\selector_white_gray_stroke_top_left_right_deep.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_main_color_press_stroke_white_corner_item_single.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_main_color_press_stroke_white_corner_item_single.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_white_stroke_top_left_right.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\exploded-aar\\release_2.3\\libraryFanwe\\unspecified\\res\\drawable\\layer_white_stroke_top_left_right.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\selector_white_gray_stroke_top_deep.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\exploded-aar\\release_2.3\\libraryFanwe\\unspecified\\res\\drawable\\selector_white_gray_stroke_top_deep.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_white_stroke_top.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_white_stroke_top.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_white_stroke_top_left_right_deep.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_white_stroke_top_left_right_deep.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\selector_white_gray_stroke_top_left_right_deep.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\selector_white_gray_stroke_top_left_right_deep.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_white_stroke_corner_item_single_deep.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\exploded-aar\\release_2.3\\libraryFanwe\\unspecified\\res\\drawable\\layer_white_stroke_corner_item_single_deep.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\selector_white_gray_stroke_corner_item_bot.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\selector_white_gray_stroke_corner_item_bot.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_white_stroke_dot_bot.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\exploded-aar\\release_2.3\\libraryFanwe\\unspecified\\res\\drawable\\layer_white_stroke_dot_bot.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\wheel_val.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\wheel_val.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_white_stroke_bot_deep.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_white_stroke_bot_deep.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_main_color_corner_press.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_main_color_corner_press.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_gray_stroke_top_left_right.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_gray_stroke_top_left_right.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\selector_white_gray_stroke_top_deep.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\selector_white_gray_stroke_top_deep.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\selector_white_gray_stroke_corner_item_top_deep.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\selector_white_gray_stroke_corner_item_top_deep.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\selector_edt_delete.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\exploded-aar\\release_2.3\\libraryFanwe\\unspecified\\res\\drawable\\selector_edt_delete.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\selector_white_gray.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\selector_white_gray.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_white_stroke_corner_item_bot.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_white_stroke_corner_item_bot.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_white_stroke_dot_bot.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_white_stroke_dot_bot.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\selector_white_gray_stroke_corner_item_top_deep.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\selector_white_gray_stroke_corner_item_top_deep.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_white_stroke_top.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\exploded-aar\\release_2.3\\libraryFanwe\\unspecified\\res\\drawable\\layer_white_stroke_top.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\selector_white_gray_stroke_top_left_right.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\exploded-aar\\release_2.3\\libraryFanwe\\unspecified\\res\\drawable\\selector_white_gray_stroke_top_left_right.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\selector_white_gray_stroke_bot_deep.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\selector_white_gray_stroke_bot_deep.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\selector_white_gray_stroke_all.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\selector_white_gray_stroke_all.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_white_stroke_corner_item_single_deep.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_white_stroke_corner_item_single_deep.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_white_stroke_all.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\exploded-aar\\release_2.3\\libraryFanwe\\unspecified\\res\\drawable\\layer_white_stroke_all.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_blur_corner20dp.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_blur_corner20dp.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_gray_stroke_corner_item_bot.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_gray_stroke_corner_item_bot.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_transparent_stroke_main_color_corner20dp.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_transparent_stroke_main_color_corner20dp.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_main_color_corner_normal.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\exploded-aar\\release_2.3\\libraryFanwe\\unspecified\\res\\drawable\\layer_main_color_corner_normal.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\selector_white_gray_stroke_corner_item_top.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\exploded-aar\\release_2.3\\libraryFanwe\\unspecified\\res\\drawable\\selector_white_gray_stroke_corner_item_top.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_white_stroke_bot_left_right.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_white_stroke_bot_left_right.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\timepicker_sel_text_item.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\timepicker_sel_text_item.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_transparent_stroke_white.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_transparent_stroke_white.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\selector_main_color.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\selector_main_color.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\selector_white_gray_stroke_top_bot_deep.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\selector_white_gray_stroke_top_bot_deep.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\selector_white_gray_stroke_bot_left_right.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\selector_white_gray_stroke_bot_left_right.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_white_stroke_corner_item_single.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_white_stroke_corner_item_single.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_gray_stroke_top_left_right_deep.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_gray_stroke_top_left_right_deep.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_gray_stroke_corner_item_top_deep.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_gray_stroke_corner_item_top_deep.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\game_layer_blur_top_round.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\bundles\\debug\\res\\drawable\\game_layer_blur_top_round.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\game_layer_grey_round.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\bundles\\debug\\res\\drawable\\game_layer_grey_round.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_gray_stroke_corner_item_top_deep.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\exploded-aar\\release_2.3\\libraryFanwe\\unspecified\\res\\drawable\\layer_gray_stroke_corner_item_top_deep.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\selector_white_gray_stroke_top_left_right.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\selector_white_gray_stroke_top_left_right.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_transparent_stroke_gray_corner20dp.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_transparent_stroke_gray_corner20dp.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_white_stroke_bot.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\exploded-aar\\release_2.3\\libraryFanwe\\unspecified\\res\\drawable\\layer_white_stroke_bot.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_transparent_stroke_white_corner20dp.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_transparent_stroke_white_corner20dp.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_white_stroke_bot.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_white_stroke_bot.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_gray_stroke_top_bot_deep.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_gray_stroke_top_bot_deep.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\selector_white_gray_stroke_top_deep.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\selector_white_gray_stroke_top_deep.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_transparent_stroke_main_color_corner.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_transparent_stroke_main_color_corner.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_gray_stroke_bot_left_right_deep.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\exploded-aar\\release_2.3\\libraryFanwe\\unspecified\\res\\drawable\\layer_gray_stroke_bot_left_right_deep.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_white_stroke_all_deep.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\exploded-aar\\release_2.3\\libraryFanwe\\unspecified\\res\\drawable\\layer_white_stroke_all_deep.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\selector_white_gray_stroke_bot_deep.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\selector_white_gray_stroke_bot_deep.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_white_stroke_main_color_corner.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\exploded-aar\\release_2.3\\libraryFanwe\\unspecified\\res\\drawable\\layer_white_stroke_main_color_corner.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\selector_white_gray_stroke_top_bot_deep.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\selector_white_gray_stroke_top_bot_deep.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_gray_stroke_all_deep.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_gray_stroke_all_deep.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_white.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_white.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_transparent_stroke_gray_corner20dp.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\exploded-aar\\release_2.3\\libraryFanwe\\unspecified\\res\\drawable\\layer_transparent_stroke_gray_corner20dp.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_gray_stroke_all_deep.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\exploded-aar\\release_2.3\\libraryFanwe\\unspecified\\res\\drawable\\layer_gray_stroke_all_deep.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\timepicker_sel_text_item.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\exploded-aar\\release_2.3\\libraryFanwe\\unspecified\\res\\drawable\\timepicker_sel_text_item.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_white_stroke_dot_bot.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_white_stroke_dot_bot.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\div_right_shadow.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\div_right_shadow.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_main_color_corner20dp_press.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_main_color_corner20dp_press.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\selector_white_gray_stroke_corner_item_single.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\exploded-aar\\release_2.3\\libraryFanwe\\unspecified\\res\\drawable\\selector_white_gray_stroke_corner_item_single.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_gray_stroke_top_deep.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_gray_stroke_top_deep.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\selector_white_gray_stroke_top_bot.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\selector_white_gray_stroke_top_bot.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_white_stroke_top_left_right_deep.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_white_stroke_top_left_right_deep.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_white_stroke_corner_item_bot_deep.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_white_stroke_corner_item_bot_deep.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\game_layer_blur_round.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\bundles\\debug\\res\\drawable\\game_layer_blur_round.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_white.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\exploded-aar\\release_2.3\\libraryFanwe\\unspecified\\res\\drawable\\layer_white.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_gray_stroke_bot_deep.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\exploded-aar\\release_2.3\\libraryFanwe\\unspecified\\res\\drawable\\layer_gray_stroke_bot_deep.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_white_stroke_top_bot.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\exploded-aar\\release_2.3\\libraryFanwe\\unspecified\\res\\drawable\\layer_white_stroke_top_bot.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_gray_stroke_corner_item_top.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_gray_stroke_corner_item_top.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_gray_stroke_all.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_gray_stroke_all.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_gray_stroke_bot_left_right_deep.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_gray_stroke_bot_left_right_deep.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\selector_white_gray_stroke_corner_item_single.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\selector_white_gray_stroke_corner_item_single.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\selector_white_gray_stroke_top_bot_deep.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\exploded-aar\\release_2.3\\libraryFanwe\\unspecified\\res\\drawable\\selector_white_gray_stroke_top_bot_deep.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_gray_stroke_corner_item_bot_deep.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_gray_stroke_corner_item_bot_deep.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\div_top_shadow.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\div_top_shadow.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_transparent_stroke_white_corner.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\exploded-aar\\release_2.3\\libraryFanwe\\unspecified\\res\\drawable\\layer_transparent_stroke_white_corner.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\selector_white_gray_stroke_top.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\selector_white_gray_stroke_top.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\selector_white_gray_stroke_corner_item_bot_deep.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\exploded-aar\\release_2.3\\libraryFanwe\\unspecified\\res\\drawable\\selector_white_gray_stroke_corner_item_bot_deep.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\selector_white_gray_stroke_bot_left_right.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\selector_white_gray_stroke_bot_left_right.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_white_stroke_all_deep.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_white_stroke_all_deep.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\selector_white_gray.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\selector_white_gray.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_white_solid_10dp_corner.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\bundles\\debug\\res\\drawable\\layer_white_solid_10dp_corner.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_transparent_stroke_main_color_corner20dp.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_transparent_stroke_main_color_corner20dp.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\timepicker_sel_text_item.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\timepicker_sel_text_item.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_transparent_stroke_gray_corner20dp.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_transparent_stroke_gray_corner20dp.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_main_color_press.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_main_color_press.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_white_stroke_corner_item_top.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_white_stroke_corner_item_top.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\div_left_shadow.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\div_left_shadow.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\game_layer_blur_bottom_round.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\bundles\\debug\\res\\drawable\\game_layer_blur_bottom_round.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\selector_main_color_corner.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\selector_main_color_corner.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_white_stroke_bot_deep.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_white_stroke_bot_deep.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\selector_white_gray_stroke_corner_item_single.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\selector_white_gray_stroke_corner_item_single.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\selector_white_gray_stroke_bot.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\selector_white_gray_stroke_bot.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_gray_stroke_corner_item_single_deep.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\exploded-aar\\release_2.3\\libraryFanwe\\unspecified\\res\\drawable\\layer_gray_stroke_corner_item_single_deep.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_gray_stroke_all.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\exploded-aar\\release_2.3\\libraryFanwe\\unspecified\\res\\drawable\\layer_gray_stroke_all.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_white_stroke_top_bot_deep.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\exploded-aar\\release_2.3\\libraryFanwe\\unspecified\\res\\drawable\\layer_white_stroke_top_bot_deep.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bg_grey_circle.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\bundles\\debug\\res\\drawable\\bg_grey_circle.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\selector_white_gray_stroke_all_deep.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\exploded-aar\\release_2.3\\libraryFanwe\\unspecified\\res\\drawable\\selector_white_gray_stroke_all_deep.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_transparent_stroke_white_corner.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_transparent_stroke_white_corner.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\game_layer_grey_round.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\bundles\\debug\\res\\drawable\\game_layer_grey_round.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\selector_main_color_corner20dp.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\selector_main_color_corner20dp.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bg_grey_circle.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\bundles\\debug\\res\\drawable\\bg_grey_circle.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\selector_white_gray_stroke_bot_deep.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\exploded-aar\\release_2.3\\libraryFanwe\\unspecified\\res\\drawable\\selector_white_gray_stroke_bot_deep.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\selector_white_gray_stroke_bot.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\selector_white_gray_stroke_bot.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_gray_stroke_bot_deep.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_gray_stroke_bot_deep.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_transparent_stroke_main_color.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\exploded-aar\\release_2.3\\libraryFanwe\\unspecified\\res\\drawable\\layer_transparent_stroke_main_color.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_white_stroke_top_bot.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_white_stroke_top_bot.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_white_stroke_corner_item_bot.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\exploded-aar\\release_2.3\\libraryFanwe\\unspecified\\res\\drawable\\layer_white_stroke_corner_item_bot.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\selector_white_gray_stroke_bot_left_right_deep.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\exploded-aar\\release_2.3\\libraryFanwe\\unspecified\\res\\drawable\\selector_white_gray_stroke_bot_left_right_deep.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_gray_stroke_top.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\exploded-aar\\release_2.3\\libraryFanwe\\unspecified\\res\\drawable\\layer_gray_stroke_top.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_white_stroke_top_bot_deep.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_white_stroke_top_bot_deep.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_white_stroke_bot_left_right.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_white_stroke_bot_left_right.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\selector_white_gray_stroke_bot.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\exploded-aar\\release_2.3\\libraryFanwe\\unspecified\\res\\drawable\\selector_white_gray_stroke_bot.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_blur_corner20dp.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\exploded-aar\\release_2.3\\libraryFanwe\\unspecified\\res\\drawable\\layer_blur_corner20dp.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_white_stroke_corner_item_top_deep.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_white_stroke_corner_item_top_deep.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_gray_stroke_top_bot.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\exploded-aar\\release_2.3\\libraryFanwe\\unspecified\\res\\drawable\\layer_gray_stroke_top_bot.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\div_bottom_shadow.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\exploded-aar\\release_2.3\\libraryFanwe\\unspecified\\res\\drawable\\div_bottom_shadow.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\selector_transparent_stroke_main_color_main_color_corner20dp.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\selector_transparent_stroke_main_color_main_color_corner20dp.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\selector_edt_delete.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\selector_edt_delete.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\timepicker_divider_line.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\timepicker_divider_line.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_main_color_stroke_white_corner_item_single.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\exploded-aar\\release_2.3\\libraryFanwe\\unspecified\\res\\drawable\\layer_main_color_stroke_white_corner_item_single.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_gray_stroke_all_deep.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_gray_stroke_all_deep.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\selector_white_gray_stroke_top.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\selector_white_gray_stroke_top.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\game_layer_blur_bottom_round.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\bundles\\debug\\res\\drawable\\game_layer_blur_bottom_round.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_transparent_stroke_white.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_transparent_stroke_white.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_gray_stroke_bot.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\exploded-aar\\release_2.3\\libraryFanwe\\unspecified\\res\\drawable\\layer_gray_stroke_bot.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_white_stroke_bot_left_right_deep.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\exploded-aar\\release_2.3\\libraryFanwe\\unspecified\\res\\drawable\\layer_white_stroke_bot_left_right_deep.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\selector_main_color_stroke_white_corner_item_single.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\exploded-aar\\release_2.3\\libraryFanwe\\unspecified\\res\\drawable\\selector_main_color_stroke_white_corner_item_single.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_gray_stroke_top_bot.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_gray_stroke_top_bot.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_gray_stroke_top_left_right_deep.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_gray_stroke_top_left_right_deep.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_white_stroke_corner_item_single.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_white_stroke_corner_item_single.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_main_color_stroke_white_corner_item_single.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_main_color_stroke_white_corner_item_single.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_main_color_corner_press.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\exploded-aar\\release_2.3\\libraryFanwe\\unspecified\\res\\drawable\\layer_main_color_corner_press.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_main_color_press.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_main_color_press.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\selector_white_gray_stroke_bot_left_right_deep.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\selector_white_gray_stroke_bot_left_right_deep.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_white_stroke_corner_item_top_deep.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_white_stroke_corner_item_top_deep.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_gray_stroke_corner_item_top_deep.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_gray_stroke_corner_item_top_deep.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_white_stroke_top_left_right_deep.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\exploded-aar\\release_2.3\\libraryFanwe\\unspecified\\res\\drawable\\layer_white_stroke_top_left_right_deep.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\selector_main_color_corner.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\selector_main_color_corner.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_white_stroke_corner_item_top_deep.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\exploded-aar\\release_2.3\\libraryFanwe\\unspecified\\res\\drawable\\layer_white_stroke_corner_item_top_deep.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_main_color_press.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\exploded-aar\\release_2.3\\libraryFanwe\\unspecified\\res\\drawable\\layer_main_color_press.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_main_color_corner_normal.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_main_color_corner_normal.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\selector_white_gray_stroke_corner_item_top.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\selector_white_gray_stroke_corner_item_top.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_gray_stroke_top_bot_deep.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\exploded-aar\\release_2.3\\libraryFanwe\\unspecified\\res\\drawable\\layer_gray_stroke_top_bot_deep.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\selector_white_gray_stroke_all.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\selector_white_gray_stroke_all.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_transparent_stroke_white_corner.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_transparent_stroke_white_corner.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\selector_white_gray_stroke_top_left_right_deep.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\selector_white_gray_stroke_top_left_right_deep.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_gray_stroke_corner_item_single.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_gray_stroke_corner_item_single.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_main_color_press_stroke_white_corner_item_single.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_main_color_press_stroke_white_corner_item_single.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_white_stroke_corner_item_bot_deep.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_white_stroke_corner_item_bot_deep.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_white_stroke_corner_item_top.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\exploded-aar\\release_2.3\\libraryFanwe\\unspecified\\res\\drawable\\layer_white_stroke_corner_item_top.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_transparent_stroke_white_corner20dp.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_transparent_stroke_white_corner20dp.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_white_stroke_bot_left_right_deep.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_white_stroke_bot_left_right_deep.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\selector_main_color_stroke_white_corner_item_single.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\selector_main_color_stroke_white_corner_item_single.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\game_layer_blur_top_round.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\bundles\\debug\\res\\drawable\\game_layer_blur_top_round.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\div_left_shadow.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\exploded-aar\\release_2.3\\libraryFanwe\\unspecified\\res\\drawable\\div_left_shadow.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\selector_white_gray_stroke_all_deep.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\selector_white_gray_stroke_all_deep.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\game_layer_blur_top_round.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\bundles\\debug\\res\\drawable\\game_layer_blur_top_round.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_transparent_stroke_main_color_corner.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_transparent_stroke_main_color_corner.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_main_color_normal.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\exploded-aar\\release_2.3\\libraryFanwe\\unspecified\\res\\drawable\\layer_main_color_normal.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\wheel_val.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\exploded-aar\\release_2.3\\libraryFanwe\\unspecified\\res\\drawable\\wheel_val.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\wheel_bg.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\wheel_bg.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_white_stroke_corner_item_single.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\exploded-aar\\release_2.3\\libraryFanwe\\unspecified\\res\\drawable\\layer_white_stroke_corner_item_single.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\div_bottom_shadow.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\div_bottom_shadow.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\div_left_shadow.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\div_left_shadow.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_gray_stroke_top.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_gray_stroke_top.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_gray_stroke_bot_left_right.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_gray_stroke_bot_left_right.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_white.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_white.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\timepicker_divider_line.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\exploded-aar\\release_2.3\\libraryFanwe\\unspecified\\res\\drawable\\timepicker_divider_line.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_gray_stroke_corner_item_single_deep.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_gray_stroke_corner_item_single_deep.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_main_color_corner_normal.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_main_color_corner_normal.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_gray_stroke_bot_left_right_deep.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_gray_stroke_bot_left_right_deep.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_main_color_corner20dp_press.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\exploded-aar\\release_2.3\\libraryFanwe\\unspecified\\res\\drawable\\layer_main_color_corner20dp_press.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\div_bottom_shadow.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\div_bottom_shadow.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\selector_white_gray_stroke_top.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\exploded-aar\\release_2.3\\libraryFanwe\\unspecified\\res\\drawable\\selector_white_gray_stroke_top.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_gray_stroke_corner_item_bot.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\exploded-aar\\release_2.3\\libraryFanwe\\unspecified\\res\\drawable\\layer_gray_stroke_corner_item_bot.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_gray.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\exploded-aar\\release_2.3\\libraryFanwe\\unspecified\\res\\drawable\\layer_gray.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_main_color_corner20dp_normal.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_main_color_corner20dp_normal.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_white_stroke_main_color_corner.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_white_stroke_main_color_corner.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\selector_main_color_corner.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\exploded-aar\\release_2.3\\libraryFanwe\\unspecified\\res\\drawable\\selector_main_color_corner.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\selector_main_color.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\selector_main_color.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_white_stroke_all_deep.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_white_stroke_all_deep.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\selector_white_gray_stroke_corner_item_bot.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\selector_white_gray_stroke_corner_item_bot.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\game_layer_blur_round.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\bundles\\debug\\res\\drawable\\game_layer_blur_round.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\selector_transparent_stroke_main_color_main_color_corner20dp.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\selector_transparent_stroke_main_color_main_color_corner20dp.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_transparent_stroke_white_corner20dp.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\exploded-aar\\release_2.3\\libraryFanwe\\unspecified\\res\\drawable\\layer_transparent_stroke_white_corner20dp.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_transparent_stroke_white.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\exploded-aar\\release_2.3\\libraryFanwe\\unspecified\\res\\drawable\\layer_transparent_stroke_white.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_white_stroke_corner_item_bot.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_white_stroke_corner_item_bot.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_white_solid_10dp_corner.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\bundles\\debug\\res\\drawable\\layer_white_solid_10dp_corner.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\selector_main_color.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\exploded-aar\\release_2.3\\libraryFanwe\\unspecified\\res\\drawable\\selector_main_color.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_gray_stroke_top_deep.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_gray_stroke_top_deep.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_white_stroke_top_deep.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\exploded-aar\\release_2.3\\libraryFanwe\\unspecified\\res\\drawable\\layer_white_stroke_top_deep.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_main_color_press_stroke_white_corner_item_single.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\exploded-aar\\release_2.3\\libraryFanwe\\unspecified\\res\\drawable\\layer_main_color_press_stroke_white_corner_item_single.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\rotate_progress_white.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\rotate_progress_white.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\selector_main_color_stroke_white_corner_item_single.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\selector_main_color_stroke_white_corner_item_single.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_gray_stroke_top_deep.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\exploded-aar\\release_2.3\\libraryFanwe\\unspecified\\res\\drawable\\layer_gray_stroke_top_deep.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_white_stroke_corner_item_bot_deep.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\exploded-aar\\release_2.3\\libraryFanwe\\unspecified\\res\\drawable\\layer_white_stroke_corner_item_bot_deep.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_transparent_stroke_main_color.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_transparent_stroke_main_color.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_white_stroke_top_left_right.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_white_stroke_top_left_right.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_white_stroke_corner_item_single_deep.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_white_stroke_corner_item_single_deep.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\selector_main_color_corner20dp.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\selector_main_color_corner20dp.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_gray_stroke_corner_item_top.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\exploded-aar\\release_2.3\\libraryFanwe\\unspecified\\res\\drawable\\layer_gray_stroke_corner_item_top.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\div_top_shadow.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\exploded-aar\\release_2.3\\libraryFanwe\\unspecified\\res\\drawable\\div_top_shadow.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_white_stroke_bot_left_right.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\exploded-aar\\release_2.3\\libraryFanwe\\unspecified\\res\\drawable\\layer_white_stroke_bot_left_right.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layer_gray_stroke_bot.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\drawable\\layer_gray_stroke_bot.xml"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\fanwe_test\\debug\\raw\\dealsound.mp3",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\fanweHybridLive\\build\\intermediates\\exploded-aar\\release_2.3\\libraryGames\\unspecified\\res\\raw\\dealsound.mp3"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\fanwe_test\\debug\\raw\\umeng_push_notification_default_sound.mp3",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\fanweHybridLive\\src\\main\\res\\raw\\umeng_push_notification_default_sound.mp3"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\fanwe_test\\debug\\raw\\beep.ogg",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\fanweHybridLive\\build\\intermediates\\exploded-aar\\libraryQrcodeZxing-release\\res\\raw\\beep.ogg"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\fanwe_test\\debug\\raw\\realm_properties",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\fanweHybridLive\\build\\intermediates\\exploded-aar\\libraryQrcodeZxing-release\\res\\raw\\realm_properties"
+    }
+]

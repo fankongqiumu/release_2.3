@@ -1,0 +1,980 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.fanwe.live"
+    android:versionCode="2017042601"
+    android:versionName="2.3.4.test" >
+
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="22" />
+
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <uses-feature android:name="android.hardware.camera" />
+    <uses-feature android:name="android.hardware.autofocus" />
+    <!-- 打开相机权限 -->
+    <uses-permission android:name="android.permission.CAMERA" />
+    <!-- 缓存资源优先存入SDcard 下载安装有关 -->
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <!-- 允许应用程序联网，以便向我们的服务器端发送数据 -->
+    <uses-permission android:name="android.permission.INTERNET" />
+    <!-- 改变网络状态 -->
+    <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE" />
+    <!-- 更改无线网络状态 -->
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <!-- 访问网络状态 -->
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <!-- 访问无线网络状态 -->
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+
+    <!-- 腾讯定位 sdk 要求的权限  (开始) -->
+    <!-- 通过GPS得到精确位置 -->
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <!-- 通过网络得到粗略位置 -->
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <!-- 腾讯定位 sdk 要求的权限 (结束) -->
+
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+    <uses-permission android:name="android.permission.BROADCAST_STICKY" />
+    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
+    <uses-permission android:name="android.permission.READ_LOGS" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+    <uses-permission android:name="android.permission.FLASHLIGHT" />
+    <!-- 必选 -->
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.WRITE_SETTINGS" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.GET_TASKS" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+    <uses-permission android:name="org.simalliance.openmobileapi.SMARTCARD" />
+    <uses-permission android:name="android.permission.NFC" />
+
+    <uses-feature android:name="android.hardware.nfc.hce" />
+
+    <uses-permission android:name="android.permission.ACCESS_LOCATION_EXTRA_COMMANDS" />
+    <uses-permission android:name="android.permission.BROADCAST_PACKAGE_ADDED" />
+    <uses-permission android:name="android.permission.BROADCAST_PACKAGE_CHANGED" />
+    <uses-permission android:name="android.permission.BROADCAST_PACKAGE_INSTALL" />
+    <uses-permission android:name="android.permission.BROADCAST_PACKAGE_REPLACED" />
+    <uses-permission android:name="android.permission.RESTART_PACKAGES" />
+
+    <meta-data
+        android:name="android.support.VERSION"
+        android:value="25.3.0" />
+
+    <application
+        android:name="com.fanwe.hybrid.app.App"
+        android:allowBackup="true"
+        android:icon="@drawable/icon"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppThemeAnimation" >
+        <activity
+            android:name="com.fanwe.hybrid.activity.InitActivity"
+            android:label="@string/app_name"
+            android:theme="@style/AppThemeInit" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <!-- 网络状态监听广播 -->
+        <receiver android:name="com.ta.util.netstate.TANetworkStateReceiver" >
+            <intent-filter>
+                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
+                <action android:name="android.gzcpc.conn.CONNECTIVITY_CHANGE" />
+            </intent-filter>
+        </receiver>
+        <!-- H5页面Start==================================== -->
+        <!-- 广告轮播页面 -->
+        <activity
+            android:name="com.fanwe.hybrid.activity.InitAdvListActivity"
+            android:screenOrientation="portrait" />
+
+        <!-- 主页面 -->
+        <activity
+            android:name="com.fanwe.hybrid.activity.MainActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme" >
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+                <!-- host 修改成用户域名 -->
+                <data
+                    android:host="ilvb.fanwe.net"
+                    android:pathPrefix="/main"
+                    android:scheme="fanwe" />
+            </intent-filter>
+        </activity>
+
+        <!-- 广告页面 -->
+        <activity
+            android:name="com.fanwe.hybrid.activity.AdImgActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppThemeInit" />
+
+        <!-- 二维码扫描 -->
+        <activity
+            android:name="com.fanwe.hybrid.activity.MyCaptureActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" />
+        <!-- WebView页面 -->
+        <activity
+            android:name="com.fanwe.hybrid.activity.AppWebViewActivity"
+            android:screenOrientation="portrait" />
+        <!-- H5页面End==================================== -->
+        <!-- 直播主页面 -->
+        <activity
+            android:name="com.fanwe.live.activity.LiveMainActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" />
+
+        <!-- 登录页面 -->
+        <activity
+            android:name="com.fanwe.live.activity.LiveLoginActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" />
+
+        <!-- 注册页面 -->
+        <activity
+            android:name="com.fanwe.live.activity.LiveMobielRegisterActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation"
+            android:screenOrientation="portrait" />
+
+        <!-- 上传昵称头像性别等页面 -->
+        <activity
+            android:name="com.fanwe.live.activity.LiveDoUpdateActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation"
+            android:screenOrientation="portrait" />
+
+        <!-- 话题直播列表 -->
+        <activity
+            android:name="com.fanwe.live.activity.LiveTopicRoomActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" />
+
+        <!-- 热门话题列表 -->
+        <activity
+            android:name="com.fanwe.live.activity.LiveHotTopicActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" />
+
+        <!-- 创建直播间界面 -->
+        <activity
+            android:name="com.fanwe.live.activity.LiveCreateRoomActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" />
+
+        <!-- 创建直播间添加话题界面 -->
+        <activity
+            android:name="com.fanwe.live.activity.LiveCreateRoomTopicActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustNothing" />
+        <!-- 主播协议 -->
+        <activity
+            android:name="com.fanwe.live.activity.LiveCreaterAgreementActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" />
+        <!-- 直播创建者界面 (new) -->
+        <activity
+            android:name="com.fanwe.live.activity.room.LiveCreaterActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+        <!-- 直播观看者界面 (new) -->
+        <activity
+            android:name="com.fanwe.live.activity.room.LiveViewerActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+        <!-- 回放界面(new) -->
+        <activity
+            android:name="com.fanwe.live.activity.room.LivePlaybackActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+
+        <!-- 直播推流创建者界面 (new) -->
+        <activity
+            android:name="com.fanwe.live.activity.room.LivePushCreaterActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+
+        <!-- 直播拉流观看者界面 (new) -->
+        <activity
+            android:name="com.fanwe.live.activity.room.LivePushViewerActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+
+        <!-- PC端直播拉流观看者界面（new） -->
+        <activity
+            android:name="com.fanwe.live.activity.room.LivePCViewerActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustResize" />
+
+        <!-- PC端回放界面（new） -->
+        <activity
+            android:name="com.fanwe.live.activity.room.LivePCPlaybackActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustResize" />
+        <!-- 管理员列表界面 -->
+        <activity
+            android:name="com.fanwe.live.activity.LiveAdminActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+
+        <!-- 粉丝热度排行界面 -->
+        <activity
+            android:name="com.fanwe.live.activity.LiveContActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+
+        <!-- 用户主页 -->
+        <activity
+            android:name="com.fanwe.live.activity.LiveUserHomeActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+
+        <!-- 聊天界面 -->
+        <activity
+            android:name="com.fanwe.live.activity.LivePrivateChatActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateAlwaysHidden" />
+
+        <!-- 聊天列表 -->
+        <activity
+            android:name="com.fanwe.live.activity.LiveChatC2CActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustResize" />
+
+        <!-- 查看聊天图片 -->
+        <activity
+            android:name="com.fanwe.live.activity.PhotoViewActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustResize" />
+
+        <!-- 加载本地图片 -->
+        <activity
+            android:name="com.fanwe.live.activity.SelectPhotoActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustResize" />
+
+        <!-- 头像界面 -->
+        <activity
+            android:name="com.fanwe.live.activity.LiveUserHeadImageActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateAlwaysHidden" />
+
+        <!-- 编辑资料界面 -->
+        <activity
+            android:name="com.fanwe.live.activity.LiveUserEditActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateAlwaysHidden" />
+
+        <!-- 收益界面 -->
+        <activity
+            android:name="com.fanwe.live.activity.LiveUserProfitActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateAlwaysHidden" />
+
+        <!-- 收益-领取记录界面 -->
+        <activity
+            android:name="com.fanwe.live.activity.LiveUserProfitRecordActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateAlwaysHidden" />
+
+        <!-- 收益-兑换界面 -->
+        <activity
+            android:name="com.fanwe.live.activity.LiveUserProfitExchangeActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateAlwaysHidden" />
+
+        <!-- 家族资料修改创建 -->
+        <activity
+            android:name="com.fanwe.live.activity.LiveFamilyUpdateEditActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateAlwaysHidden" />
+
+        <!-- 家族详情 -->
+        <activity
+            android:name="com.fanwe.live.activity.LiveFamilyDetailsActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateAlwaysHidden" />
+
+        <!-- 家族信息 -->
+        <activity
+            android:name="com.fanwe.live.activity.LiveFamilyInformationActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateAlwaysHidden" />
+
+        <!-- 申请加入家族 -->
+        <activity
+            android:name="com.fanwe.live.activity.LiveFamilysListActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateAlwaysHidden" />
+
+        <!-- 家族成员列表 -->
+        <activity
+            android:name="com.fanwe.live.activity.LiveFamilyMembersListActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateAlwaysHidden" />
+
+        <!-- 公会资料修改创建 -->
+        <activity
+            android:name="com.fanwe.live.activity.LiveSociatyUpdateEditActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateAlwaysHidden" />
+
+        <!-- 公会详情 -->
+        <activity
+            android:name="com.fanwe.live.activity.LiveSociatyDetailsActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateAlwaysHidden" />
+
+        <!-- 公会信息 -->
+        <activity
+            android:name="com.fanwe.live.activity.LiveSociatyInfosActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateAlwaysHidden" />
+
+        <!-- 申请加入公会 -->
+        <activity
+            android:name="com.fanwe.live.activity.LiveSociatySearchJoinActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateAlwaysHidden" />
+
+        <!-- 公会成员列表 -->
+        <activity
+            android:name="com.fanwe.live.activity.LiveSociatyMembersListActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateAlwaysHidden" />
+
+        <!-- 设置界面 -->
+        <activity
+            android:name="com.fanwe.live.activity.LiveUserSettingActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateAlwaysHidden" />
+
+        <!-- 设置-账号与安全-界面 -->
+        <activity
+            android:name="com.fanwe.live.activity.LiveAccountCenterActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateAlwaysHidden" />
+
+        <!-- 设置-账号与安全-手机绑定 -->
+        <activity
+            android:name="com.fanwe.live.activity.LiveMobileBindActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateAlwaysHidden" />
+
+        <!-- 设置-黑名单-界面 -->
+        <activity
+            android:name="com.fanwe.live.activity.LiveBlackListActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateAlwaysHidden" />
+
+        <!-- 设置-推送管理-界面 -->
+        <activity
+            android:name="com.fanwe.live.activity.LivePushManageActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateAlwaysHidden" />
+
+        <!-- 设置-推荐人-界面 -->
+        <activity
+            android:name="com.fanwe.live.activity.LiveRecommendActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateAlwaysHidden" />
+
+        <!-- 邀请好友界面 -->
+        <activity
+            android:name="com.fanwe.live.activity.LiveInviteFriendsActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateAlwaysHidden" />
+
+        <!-- 钱票贡献榜 -->
+        <activity
+            android:name="com.fanwe.live.activity.LiveMySelfContActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+
+        <!-- 用户粉丝 -->
+        <activity
+            android:name="com.fanwe.live.activity.LiveMyFocusActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+
+        <!-- 用户关注 -->
+        <activity
+            android:name="com.fanwe.live.activity.LiveFollowActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+
+        <!-- 充值 -->
+        <activity
+            android:name="com.fanwe.live.activity.LiveRechargeDiamondsActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+
+        <!-- 充值中心网页支付页面 -->
+        <activity
+            android:name="com.fanwe.live.activity.LivePayWebViewActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+
+        <!-- 购买vip -->
+        <activity
+            android:name="com.fanwe.live.activity.LiveRechargeVipActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+
+        <!-- 视频回放 -->
+        <activity
+            android:name="com.fanwe.live.activity.LiveUserHomeReplayActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+
+        <!-- 上传用户头像q -->
+        <activity
+            android:name="com.fanwe.live.activity.LiveUserPhotoActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+
+        <!-- 上传用户头像2 -->
+        <activity
+            android:name="com.fanwe.live.activity.LiveUploadUserImageActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+
+        <!-- 裁剪图片 -->
+        <activity
+            android:name="com.fanwe.auction.activity.AuctionSaveCropImageActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+
+        <!-- 搜索用户 -->
+        <activity
+            android:name="com.fanwe.live.activity.LiveSearchUserActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+
+        <!-- 用户认证 -->
+        <activity
+            android:name="com.fanwe.live.activity.UserCenterAuthentActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name="com.yalantis.ucrop.UCropActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+
+        <!-- 图片上传 -->
+        <activity
+            android:name="com.fanwe.live.activity.LiveUploadImageActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+
+        <!-- Oss图片上传 -->
+        <activity
+            android:name="com.fanwe.live.activity.LiveUpLoadImageOssActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+
+        <!-- 排行榜界面 -->
+        <activity
+            android:name="com.fanwe.live.activity.LiveRankingActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+
+        <!-- 我的分销 -->
+        <activity
+            android:name="com.fanwe.live.activity.LiveDistributionActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+
+        <!-- 竞拍直播部分Start====================================================== -->
+
+
+        <!-- 竞拍物品编辑页面 -->
+        <activity
+            android:name="com.fanwe.auction.activity.AuctionCreateEmptyActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustResize|stateHidden" />
+
+        <!-- 竞拍物品详情页面 -->
+        <activity
+            android:name="com.fanwe.auction.activity.AuctionGoodsDetailActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+
+        <!-- 参拍交保证金 -->
+        <activity
+            android:name="com.fanwe.auction.activity.AuctionGinsengShootMarginActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+
+        <!-- 实物参拍交保证金 -->
+        <activity
+            android:name="com.fanwe.auction.activity.AuctionRealGoodsGinsengShootMarginActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+
+        <!-- 添加编辑收货地址 -->
+        <activity
+            android:name="com.fanwe.auction.activity.AuctionAddEditAddressActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+
+        <!-- 收货地址（地图定位） -->
+        <activity
+            android:name="com.fanwe.auction.activity.AuctionSelectDeliveryAddressMapActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+        <!-- 竞拍直播部分End====================================================== -->
+        <!-- 购物直播部分start====================================================== -->
+        <activity
+            android:name="com.fanwe.live.activity.LiveFloatViewWebViewActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+        <!-- 编辑购物 -->
+        <activity
+            android:name="com.fanwe.shop.activity.ShopAddGoodsEmptyActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+        <!-- 我的小店 -->
+        <activity
+            android:name="com.fanwe.shop.activity.ShopMyStoreActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+        <!-- 购物直播部分End====================================================== -->
+        <!-- 付费模式start=========================================================== -->
+        <activity
+            android:name="com.fanwe.pay.activity.PayBalanceActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustResize|stateHidden" />
+        <!-- 付费模式end=========================================================== -->
+        <!-- o2o购物直播start====================================================== -->
+        <activity
+            android:name="com.fanwe.o2o.activity.O2OShoppingLiveMainActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustResize|stateHidden" />
+        <activity
+            android:name="com.fanwe.o2o.activity.O2OShoppingMystoreActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustResize|stateHidden" />
+        <!-- o2o购物直播end====================================================== -->
+        <!-- LiveWebView -->
+        <activity
+            android:name="com.fanwe.live.activity.LiveWebViewActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+
+        <!-- AdImgWebViewActivity -->
+        <activity
+            android:name="com.fanwe.live.activity.AdImgWebViewActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+
+        <!-- 背景音乐选择 -->
+        <activity
+            android:name="com.fanwe.live.activity.LiveSongChooseActivity"
+            android:screenOrientation="portrait" />
+        <!-- 背景音乐搜索 -->
+        <activity
+            android:name="com.fanwe.live.activity.LiveSongSearchActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+
+        <!-- 绑定支付宝账号界面 -->
+        <activity
+            android:name="com.fanwe.live.activity.LiveAlipayBindingActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+
+        <!-- 支付宝提现界面 -->
+        <activity
+            android:name="com.fanwe.live.activity.LiveTakeRewardActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+
+        <!-- 友盟Share组件Start==================================== -->
+        <activity
+            android:name="com.umeng.socialize.editorpage.ShareActivity"
+            android:excludeFromRecents="true"
+            android:theme="@style/Theme.UMDefault" />
+
+        <!-- 微信 start -->
+        <activity
+            android:name="com.fanwe.live.wxapi.WXEntryActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:exported="true"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+        <activity
+            android:name="com.fanwe.live.wxapi.WXPayEntryActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:exported="true"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+
+                <data android:scheme="@string/wx_app_id" />
+            </intent-filter>
+        </activity>
+        <!-- 微信 end -->
+
+
+        <!-- 新浪 start -->
+        <activity
+            android:name="com.fanwe.live.sinaapi.WBShareActivity"
+            android:configChanges="keyboardHidden|orientation"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="com.sina.weibo.sdk.action.ACTION_SDK_REQ_ACTIVITY" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.sina.weibo.sdk.component.WeiboSdkBrowser"
+            android:configChanges="keyboardHidden|orientation"
+            android:exported="false"
+            android:windowSoftInputMode="adjustResize" />
+
+        <service
+            android:name="com.sina.weibo.sdk.net.DownloadService"
+            android:exported="false" />
+        <!-- 新浪 end -->
+
+
+        <!-- 腾讯 start -->
+        <activity
+            android:name="com.tencent.tauth.AuthActivity"
+            android:launchMode="singleTask"
+            android:noHistory="true" >
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+
+                <data android:scheme="@string/qq_auth_scheme" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.tencent.connect.common.AssistActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+        <!-- 腾讯 end -->
+
+
+        <!-- 友盟配置Meta Start============================================= -->
+        <meta-data
+            android:name="UMENG_APPKEY"
+            android:value="@string/umeng_appkey" />
+        <meta-data
+            android:name="UMENG_MESSAGE_SECRET"
+            android:value="@string/umeng_message_secret_push" />
+        <meta-data
+            android:name="UMENG_CHANNEL"
+            android:value="Channel ID" />
+        <!-- 友盟Share组件End=============================================================== -->
+
+
+        <!-- 您的发布产品中请不要使用这个 key !!! -->
+        <meta-data
+            android:name="TencentMapSDK"
+            android:value="@string/tencent_map_key" />
+
+        <activity
+            android:name="com.alipay.sdk.app.H5PayActivity"
+            android:configChanges="orientation|keyboardHidden|navigation"
+            android:exported="false"
+            android:screenOrientation="behind"
+            android:windowSoftInputMode="adjustResize|stateHidden" >
+        </activity> <!-- 宝付支付相关Start================================ -->
+        <!-- 宝付普通SDK -->
+        <activity
+            android:name="com.baofoo.sdk.BaofooPayActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:theme="@android:style/Theme.Light.NoTitleBar" >
+        </activity> <!-- 宝付VIP SDK -->
+        <activity
+            android:name="com.baofoo.sdk.vip.BaofooPayActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:theme="@android:style/Theme.Light.NoTitleBar" >
+        </activity>
+        <activity
+            android:name="com.unionpay.uppay.PayActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:excludeFromRecents="true"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustResize" />
+
+        <service
+            android:name="com.taobao.accs.ChannelService"
+            android:exported="true"
+            android:process=":channel" >
+            <intent-filter>
+                <action android:name="com.taobao.accs.intent.action.SERVICE" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="com.taobao.accs.intent.action.ELECTION" />
+            </intent-filter>
+        </service>
+        <service
+            android:name="com.taobao.accs.data.MsgDistributeService"
+            android:exported="true" >
+            <intent-filter>
+                <action android:name="com.taobao.accs.intent.action.RECEIVE" />
+            </intent-filter>
+        </service>
+
+        <receiver
+            android:name="com.taobao.accs.EventReceiver"
+            android:process=":channel" >
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.PACKAGE_REMOVED" />
+
+                <data android:scheme="package" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.USER_PRESENT" />
+            </intent-filter>
+        </receiver>
+        <receiver
+            android:name="com.taobao.accs.ServiceReceiver"
+            android:exported="false"
+            android:process=":channel" >
+            <intent-filter>
+                <action android:name="com.taobao.accs.intent.action.COMMAND" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="com.taobao.accs.intent.action.START_FROM_AGOO" />
+            </intent-filter>
+        </receiver>
+
+        <service
+            android:name="com.taobao.accs.ChannelService$KernelService"
+            android:process=":channel" >
+        </service>
+        <service
+            android:name="org.android.agoo.accs.AgooService"
+            android:exported="true" >
+            <intent-filter>
+                <action android:name="com.taobao.accs.intent.action.RECEIVE" />
+            </intent-filter>
+        </service>
+        <service
+            android:name="com.umeng.message.UmengIntentService"
+            android:exported="true"
+            android:process=":channel" >
+            <intent-filter>
+                <action android:name="org.agoo.android.intent.action.RECEIVE" />
+            </intent-filter>
+        </service>
+
+        <receiver
+            android:name="com.taobao.agoo.AgooCommondReceiver"
+            android:exported="true" >
+            <intent-filter>
+                <action android:name="com.fanwe.live.intent.action.COMMAND" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.PACKAGE_REMOVED" />
+
+                <data android:scheme="package" />
+            </intent-filter>
+        </receiver>
+        <receiver
+            android:name="com.umeng.message.NotificationProxyBroadcastReceiver"
+            android:exported="false" />
+
+        <service
+            android:name="com.umeng.message.UmengMessageCallbackHandlerService"
+            android:exported="false" >
+            <intent-filter>
+                <action android:name="com.umeng.messge.registercallback.action" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="com.umeng.message.enablecallback.action" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="com.umeng.message.disablecallback.action" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="com.umeng.message.message.handler.action" />
+            </intent-filter>
+        </service>
+        <service
+            android:name="com.umeng.message.UmengDownloadResourceService"
+            android:exported="false" />
+        <service
+            android:name="com.umeng.message.UmengMessageIntentReceiverService"
+            android:exported="true"
+            android:process=":channel" >
+            <intent-filter>
+                <action android:name="org.android.agoo.client.MessageReceiverService" />
+            </intent-filter>
+        </service>
+
+        <provider
+            android:name="com.umeng.message.provider.MessageProvider"
+            android:authorities="com.fanwe.live.umeng.message"
+            android:exported="false" >
+            <grant-uri-permission android:pathPattern=".*" />
+        </provider> <!-- 消息收发service -->
+        <service
+            android:name="com.tencent.qalsdk.service.QalService"
+            android:exported="false"
+            android:process=":QALSERVICE" >
+        </service> <!-- 消息收发辅助service -->
+        <service
+            android:name="com.tencent.qalsdk.service.QalAssistService"
+            android:exported="false"
+            android:process=":QALSERVICE" >
+        </service> <!-- 离线消息广播接收器 -->
+        <receiver
+            android:name="com.tencent.qalsdk.QALBroadcastReceiver"
+            android:exported="false" >
+            <intent-filter>
+                <action android:name="com.tencent.qalsdk.broadcast.qal" />
+            </intent-filter>
+        </receiver> <!-- 系统消息广播接收器 -->
+        <receiver
+            android:name="com.tencent.qalsdk.core.NetConnInfoCenter"
+            android:process=":QALSERVICE" >
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.TIME_SET" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.TIMEZONE_CHANGED" />
+            </intent-filter>
+        </receiver>
+    </application>
+
+</manifest>

@@ -1,0 +1,54 @@
+[
+    {
+        "outputFile": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\incremental\\mergeJiumizhiboReleaseResources\\merged.dir\\values-hdpi-v4\\values-hdpi-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 6,
+                    "endColumn": 13,
+                    "endOffset": 327
+                },
+                "from": {
+                    "file": "C:\\Users\\admin\\.android\\build-cache\\90c4577f069c42dd03253e9d156e3985d465bf6e\\output\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 6,
+                        "endColumn": 13,
+                        "endOffset": 327
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "D:\\GitHub\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\incremental\\mergeJiumizhiboReleaseResources\\merged.dir\\values-hdpi-v4\\values-hdpi-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 6,
+                    "endColumn": 13,
+                    "endOffset": 327
+                },
+                "from": {
+                    "file": "C:\\Users\\13636\\.android\\build-cache\\a92df266d5404f7d37ed7a23abe8c35da7d38682\\output\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 6,
+                        "endColumn": 13,
+                        "endOffset": 327
+                    }
+                }
+            }
+        ]
+    }
+]

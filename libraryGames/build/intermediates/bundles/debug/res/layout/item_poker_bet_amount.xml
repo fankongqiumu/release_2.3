@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center">
+
+    <FrameLayout
+        android:id="@+id/fl_gold2"
+        android:layout_width="40dp"
+        android:layout_height="40dp">
+
+        <ImageView
+            android:id="@+id/iv_gold2"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:src="@drawable/bg_grey_circle"
+            android:layout_gravity="center"/>
+
+        <TextView
+            android:id="@+id/tv_gold2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="10000"
+            android:textSize="7sp"
+            android:textColor="@color/text_content"
+            android:layout_gravity="center"/>
+    </FrameLayout>
+
+    <FrameLayout
+        android:id="@+id/fl_gold"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:visibility="gone">
+
+        <ImageView
+            android:id="@+id/iv_gold_ring"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:src="@drawable/ic_jb_wfg"
+            android:layout_gravity="center"/>
+
+        <ImageView
+            android:id="@+id/iv_gold"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:src="@drawable/ic_btn_jb"
+            android:layout_gravity="center"/>
+
+        <TextView
+            android:id="@+id/tv_gold"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="10000"
+            android:textSize="8sp"
+            android:textColor="@color/game_poker_panel_gold_color"
+            android:layout_gravity="center"/>
+
+    </FrameLayout>
+</RelativeLayout>

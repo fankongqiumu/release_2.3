@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_activity">#f7f7f7</color>
+    <color name="bg_title_bar">@color/main_color</color>
+    <color name="bg_title_bar_pressed">@color/main_color_press</color>
+    <color name="black">#000000</color>
+    <color name="black_d">#4C4C4C</color>
+    <color name="blue">#0000FF</color>
+    <color name="blur">#77000000</color>
+    <color name="gray">#888888</color>
+    <color name="gray_d">#9B9B9B</color>
+    <color name="gray_press">#e5e5e5</color>
+    <color name="green">#00FF00</color>
+    <color name="main_color">#FB6F08</color>
+    <color name="main_color_press">#ffcc66</color>
+    <color name="orange">#FFA500</color>
+    <color name="red">#FF0000</color>
+    <color name="stroke">@color/stroke_deep</color>
+    <color name="stroke_deep">#e5e5e5</color>
+    <color name="text_content">#999999</color>
+    <color name="text_content_deep">#777777</color>
+    <color name="text_hint">#cbcbcb</color>
+    <color name="text_item_content">#a8a8a8</color>
+    <color name="text_item_content_deep">@color/text_content_deep</color>
+    <color name="text_item_title">@color/text_title</color>
+    <color name="text_picker_selected">#e60012</color>
+    <color name="text_title">#555555</color>
+    <color name="text_title_bar">@color/white</color>
+    <color name="transparent">#00000000</color>
+    <color name="violet">#EE82EE</color>
+    <color name="white">#FFFFFF</color>
+    <color name="yellow">#FFFF00</color>
+    <declare-styleable name="CircleImageView"><attr format="dimension" name="civ_border_width"/><attr format="color" name="civ_border_color"/><attr format="boolean" name="civ_border_overlay"/><attr format="color" name="civ_fill_color"/></declare-styleable>
+    <declare-styleable name="FlowLayout"><attr format="dimension" name="horizontalSpacing"/><attr format="dimension" name="verticalSpacing"/><attr format="enum" name="orientation">
+            <enum name="horizontal" value="0"/>
+            <enum name="vertical" value="1"/>
+        </attr><attr format="boolean" name="debugDraw"/></declare-styleable>
+    <declare-styleable name="FlowLayout_LayoutParams"><attr format="boolean" name="layout_newLine"/><attr format="dimension" name="layout_horizontalSpacing"/><attr format="dimension" name="layout_verticalSpacing"/></declare-styleable>
+    <declare-styleable name="HorizontalListView"><attr format="dimension" name="dividerWidth"/><attr name="android:divider"/><attr name="android:requiresFadingEdge"/><attr name="android:fadingEdgeLength"/></declare-styleable>
+    <declare-styleable name="RecyclerView"><attr format="string" name="layoutManager"/><attr name="android:orientation"/><attr format="integer" name="spanCount"/><attr format="boolean" name="reverseLayout"/><attr format="boolean" name="stackFromEnd"/></declare-styleable>
+    <declare-styleable name="SDRatingBar"><attr format="reference" name="progressDrawable"/></declare-styleable>
+    <declare-styleable name="SlidingDrawer"><attr name="s_orientation">
+    
+        　　            <enum name="horizontal" value="0"/>
+    
+        　　            <enum name="vertical" value="1"/>
+    
+    　　</attr><attr format="reference" name="s_content"/><attr format="reference" name="s_handle"/><attr format="dimension" name="s_bottomOffset"/><attr format="dimension" name="s_topOffset"/><attr format="boolean" name="s_allowSingleTap"/><attr format="boolean" name="s_animateOnClick"/></declare-styleable>
+    <dimen name="corner">5dp</dimen>
+    <dimen name="height_button">45dp</dimen>
+    <dimen name="height_dialog_item">45dp</dimen>
+    <dimen name="height_dialog_progress">70dp</dimen>
+    <dimen name="height_edit">45dp</dimen>
+    <dimen name="height_title_bar">46dp</dimen>
+    <dimen name="height_title_item_image">25dp</dimen>
+    <dimen name="item_touch_helper_max_drag_scroll_per_frame">20dp</dimen>
+    <dimen name="min_width_title_item">45dp</dimen>
+    <dimen name="picker_default_text_size">12sp</dimen>
+    <dimen name="picker_dialog_height">190dp</dimen>
+    <dimen name="picker_height">230dp</dimen>
+    <dimen name="picker_line_mar">15dp</dimen>
+    <dimen name="picker_line_width">1dp</dimen>
+    <dimen name="picker_toolbar_height">40dp</dimen>
+    <dimen name="text_size_content">13sp</dimen>
+    <dimen name="text_size_dialog_button">14sp</dimen>
+    <dimen name="text_size_dialog_title">16sp</dimen>
+    <dimen name="text_size_item_content">12sp</dimen>
+    <dimen name="text_size_item_title">15sp</dimen>
+    <dimen name="text_size_sub_title_bar">16sp</dimen>
+    <dimen name="text_size_title">16sp</dimen>
+    <dimen name="text_size_title_bar">18sp</dimen>
+    <dimen name="textview_default_padding">5dp</dimen>
+    <dimen name="width_stroke">1px</dimen>
+    <dimen name="width_title_item_image">25dp</dimen>
+    <item name="item_touch_helper_previous_elevation" type="id"/>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">library_iosDialog</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="picker_cancel">取消</string>
+    <string name="picker_day">日</string>
+    <string name="picker_hour">时</string>
+    <string name="picker_minute">分</string>
+    <string name="picker_month">月</string>
+    <string name="picker_sure">确定</string>
+    <string name="picker_title">选择时间</string>
+    <string name="picker_year">年</string>
+    <style mce_bogus="1" name="AnimationPicker" parent="android:Animation">
+        <item name="android:windowEnterAnimation">@anim/dialog_enter_sliding_from_bottom</item>
+        <item name="android:windowExitAnimation">@anim/dialog_exit_sliding_to_bottom</item>
+    </style>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <style name="Dialog.NoTitle" parent="AppTheme">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowAnimationStyle">@style/AnimationPicker</item>
+    </style>
+    <style name="anim_bottom_bottom" parent="android:Animation">
+        <item name="@android:windowEnterAnimation">@anim/dialog_enter_sliding_from_bottom</item>
+        <item name="@android:windowExitAnimation">@anim/dialog_exit_sliding_to_bottom</item>
+    </style>
+    <style name="anim_right_right" parent="android:Animation">
+        <item name="@android:windowEnterAnimation">@anim/dialog_enter_sliding_from_right</item>
+        <item name="@android:windowExitAnimation">@anim/dialog_exit_sliding_to_right</item>
+    </style>
+    <style name="anim_top_top" parent="android:Animation">
+        <item name="@android:windowEnterAnimation">@anim/dialog_enter_sliding_from_top</item>
+        <item name="@android:windowExitAnimation">@anim/dialog_exit_sliding_to_top</item>
+    </style>
+    <style name="dialogBase" parent="@android:style/Theme.Dialog">
+
+        <!-- 边框 -->
+        <item name="android:windowFrame">@null</item>
+        <!-- 是否浮现在activity之上 -->
+        <item name="android:windowIsFloating">true</item>
+        <!-- 无标题 -->
+        <item name="android:windowNoTitle">true</item>
+        <!-- 背景透明 -->
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <!-- 半透明 -->
+        <item name="android:windowIsTranslucent">false</item>
+        <!-- 模糊 -->
+        <item name="android:backgroundDimEnabled">false</item>
+    </style>
+    <style name="dialogBaseBlur" parent="dialogBase">
+
+        <!-- 模糊 -->
+        <item name="android:backgroundDimEnabled">true</item>
+    </style>
+</resources>

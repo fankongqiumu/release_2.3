@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\fanwe\\debug\\raw\\realm_properties",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\f1af241e83e2d05deb83d93c065a538373cbcb49\\output\\res\\raw\\realm_properties"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\fanwe\\debug\\raw\\umeng_push_notification_default_sound.mp3",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\src\\main\\res\\raw\\umeng_push_notification_default_sound.mp3"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\fanwe\\debug\\raw\\dealsound.mp3",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\bundles\\default\\res\\raw\\dealsound.mp3"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\fanwe\\debug\\raw\\beep.ogg",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\f1af241e83e2d05deb83d93c065a538373cbcb49\\output\\res\\raw\\beep.ogg"
+    }
+]

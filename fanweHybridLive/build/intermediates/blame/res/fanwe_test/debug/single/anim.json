@@ -1,0 +1,134 @@
+[
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\fanwe_test\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\fanweHybridLive\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\fanwe_test\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\fanweHybridLive\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\fanwe_test\\debug\\anim\\slide_out_to_top.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\fanweHybridLive\\build\\intermediates\\exploded-aar\\libraryAndroidPullToRefresh-release\\res\\anim\\slide_out_to_top.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\fanwe_test\\debug\\anim\\anim_slide_in_from_right.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\fanweHybridLive\\src\\main\\res\\anim\\anim_slide_in_from_right.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\fanwe_test\\debug\\anim\\ucrop_loader_circle_path.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\fanweHybridLive\\build\\intermediates\\exploded-aar\\com.yalantis\\ucrop\\2.2.0\\res\\anim\\ucrop_loader_circle_path.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\fanwe_test\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\fanweHybridLive\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\fanwe_test\\debug\\anim\\view_left_out.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\fanweHybridLive\\src\\main\\res\\anim\\view_left_out.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\fanwe_test\\debug\\anim\\ucrop_loader_circle_scale.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\fanweHybridLive\\build\\intermediates\\exploded-aar\\com.yalantis\\ucrop\\2.2.0\\res\\anim\\ucrop_loader_circle_scale.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\fanwe_test\\debug\\anim\\dialog_enter_sliding_from_top.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\fanweHybridLive\\build\\intermediates\\exploded-aar\\release_2.3\\libraryFanwe\\unspecified\\res\\anim\\dialog_enter_sliding_from_top.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\fanwe_test\\debug\\anim\\abc_popup_enter.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\fanweHybridLive\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\fanwe_test\\debug\\anim\\anim_slide_out_to_left.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\fanweHybridLive\\src\\main\\res\\anim\\anim_slide_out_to_left.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\fanwe_test\\debug\\anim\\slide_in_from_top.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\fanweHybridLive\\build\\intermediates\\exploded-aar\\libraryAndroidPullToRefresh-release\\res\\anim\\slide_in_from_top.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\fanwe_test\\debug\\anim\\abc_fade_out.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\fanweHybridLive\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\fanwe_test\\debug\\anim\\dialog_exit_sliding_to_top.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\fanweHybridLive\\build\\intermediates\\exploded-aar\\release_2.3\\libraryFanwe\\unspecified\\res\\anim\\dialog_exit_sliding_to_top.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\fanwe_test\\debug\\anim\\slide_in_bottom.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\fanweHybridLive\\build\\intermediates\\exploded-aar\\pickerview-release\\res\\anim\\slide_in_bottom.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\fanwe_test\\debug\\anim\\abc_fade_in.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\fanweHybridLive\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\fanwe_test\\debug\\anim\\slide_in_from_bottom.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\fanweHybridLive\\build\\intermediates\\exploded-aar\\libraryAndroidPullToRefresh-release\\res\\anim\\slide_in_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\fanwe_test\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\fanweHybridLive\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\fanwe_test\\debug\\anim\\anim_slide_out_to_right.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\fanweHybridLive\\src\\main\\res\\anim\\anim_slide_out_to_right.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\fanwe_test\\debug\\anim\\p_trends_out_window.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\fanweHybridLive\\src\\main\\res\\anim\\p_trends_out_window.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\fanwe_test\\debug\\anim\\dialog_exit_sliding_to_right.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\fanweHybridLive\\build\\intermediates\\exploded-aar\\release_2.3\\libraryFanwe\\unspecified\\res\\anim\\dialog_exit_sliding_to_right.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\fanwe_test\\debug\\anim\\shake_x.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\fanweHybridLive\\src\\main\\res\\anim\\shake_x.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\fanwe_test\\debug\\anim\\slide_out_to_bottom.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\fanweHybridLive\\build\\intermediates\\exploded-aar\\libraryAndroidPullToRefresh-release\\res\\anim\\slide_out_to_bottom.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\fanwe_test\\debug\\anim\\dialog_enter_sliding_from_bottom.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\fanweHybridLive\\build\\intermediates\\exploded-aar\\release_2.3\\libraryFanwe\\unspecified\\res\\anim\\dialog_enter_sliding_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\fanwe_test\\debug\\anim\\p_trends_enter_window.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\fanweHybridLive\\src\\main\\res\\anim\\p_trends_enter_window.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\fanwe_test\\debug\\anim\\dialog_exit_sliding_to_bottom.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\fanweHybridLive\\build\\intermediates\\exploded-aar\\release_2.3\\libraryFanwe\\unspecified\\res\\anim\\dialog_exit_sliding_to_bottom.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\fanwe_test\\debug\\anim\\abc_popup_exit.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\fanweHybridLive\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\fanwe_test\\debug\\anim\\interpolator_cycle.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\fanweHybridLive\\src\\main\\res\\anim\\interpolator_cycle.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\fanwe_test\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\fanweHybridLive\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\fanwe_test\\debug\\anim\\slide_out_bottom.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\fanweHybridLive\\build\\intermediates\\exploded-aar\\pickerview-release\\res\\anim\\slide_out_bottom.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\fanwe_test\\debug\\anim\\dialog_enter_sliding_from_right.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\fanweHybridLive\\build\\intermediates\\exploded-aar\\release_2.3\\libraryFanwe\\unspecified\\res\\anim\\dialog_enter_sliding_from_right.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\fanwe_test\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\fanweHybridLive\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\fanwe_test\\debug\\anim\\anim_slide_in_from_left.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\fanweHybridLive\\src\\main\\res\\anim\\anim_slide_in_from_left.xml"
+    }
+]

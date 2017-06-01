@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.fanwe.library.pay.baofoo"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="22" />
+
+    <application>
+
+        <!-- 宝付支付相关Start================================ -->
+        <!-- 宝付普通SDK -->
+        <activity
+            android:name="com.baofoo.sdk.BaofooPayActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:theme="@android:style/Theme.Light.NoTitleBar" >
+        </activity>
+        <!-- 宝付VIP SDK -->
+        <activity
+            android:name="com.baofoo.sdk.vip.BaofooPayActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:theme="@android:style/Theme.Light.NoTitleBar" >
+        </activity>
+        <!-- 宝付支付相关End================================= -->
+    </application>
+
+</manifest>

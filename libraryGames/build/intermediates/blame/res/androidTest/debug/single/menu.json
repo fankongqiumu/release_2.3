@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\GitHub\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\menu\\main.xml",
+        "source": "D:\\GitHub\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\menu\\main.xml",
+        "source": "D:\\Develop\\Android\\goodexample\\source_android\\release_2.3\\libraryFanwe\\build\\intermediates\\bundles\\default\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\res\\merged\\androidTest\\debug\\menu\\main.xml",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\libraryGames\\build\\intermediates\\exploded-aar\\release_2.3\\libraryFanwe\\unspecified\\res\\menu\\main.xml"
+    }
+]

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/blur"
+    android:gravity="center_vertical">
+
+    <LinearLayout
+        android:id="@+id/ll_recharge"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginLeft="10dp"
+        android:gravity="center_vertical">
+
+        <ImageView
+            android:id="@+id/iv_coin"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:src="@drawable/ic_money"/>
+
+        <TextView
+            android:id="@+id/tv_account"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="0"
+            android:textColor="@color/white"
+            android:textSize="12sp"
+            android:layout_marginLeft="5dp"/>
+
+        <TextView
+            android:id="@+id/tv_recharge"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="充值"
+            android:autoLink="all"
+            android:textColor="@color/game_poker_panel_gold_color"
+            android:textSize="13sp"
+            android:layout_marginLeft="8dp"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center_vertical"
+        android:layout_marginLeft="30dp">
+
+        <HorizontalScrollView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:scrollbars="none"
+            android:layout_marginRight="5dp">
+
+            <LinearLayout
+                android:id="@+id/ll_layout_gold"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:layout_gravity="center_vertical|right"/>
+
+        </HorizontalScrollView>
+
+        <ImageView
+            android:id="@+id/iv_autodeal"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:src="@drawable/ic_manual_deal"
+            android:layout_marginRight="5dp"/>
+
+        <ImageView
+            android:id="@+id/iv_history"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:src="@drawable/ic_history"
+            android:layout_marginRight="5dp"/>
+    </LinearLayout>
+</LinearLayout>

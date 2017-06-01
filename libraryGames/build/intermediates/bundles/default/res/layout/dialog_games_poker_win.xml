@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/transparent">
+
+    <RelativeLayout
+        android:id="@+id/rl_background"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true" >
+
+        <View
+            android:id="@+id/view_white_panel"
+            android:layout_width="290dp"
+            android:layout_height="200dp"
+            android:layout_marginTop="-60dp"
+            android:layout_below="@+id/iv_winner_img"
+            android:layout_centerHorizontal="true"
+            android:background="@color/white" />
+
+        <ImageView
+            android:id="@+id/iv_winner_img"
+            android:layout_width="350dp"
+            android:layout_height="150dp"
+            android:layout_centerHorizontal="true"
+            android:src="@drawable/ic_winner" />
+
+        <ImageView
+            android:id="@+id/iv_close"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_below="@+id/view_white_panel"
+            android:src="@drawable/ic_games_close" />
+    </RelativeLayout>
+
+    <ImageView
+        android:id="@+id/iv_gain"
+        android:layout_width="25dp"
+        android:layout_height="25dp"
+        android:layout_toLeftOf="@+id/tv_gain"
+        android:layout_centerVertical="true"
+        android:src="@drawable/ic_money" />
+
+    <ImageView
+        android:id="@+id/iv_coin_1"
+        android:layout_width="25dp"
+        android:layout_height="25dp"
+        android:layout_toLeftOf="@+id/tv_gain"
+        android:layout_centerVertical="true"
+        android:visibility="invisible"
+        android:src="@drawable/ic_money" />
+    <ImageView
+        android:id="@+id/iv_coin_2"
+        android:layout_width="25dp"
+        android:layout_height="25dp"
+        android:layout_toLeftOf="@+id/tv_gain"
+        android:layout_centerVertical="true"
+        android:visibility="invisible"
+        android:src="@drawable/ic_money" />
+    <ImageView
+        android:id="@+id/iv_coin_3"
+        android:layout_width="25dp"
+        android:layout_height="25dp"
+        android:layout_toLeftOf="@+id/tv_gain"
+        android:layout_centerVertical="true"
+        android:visibility="invisible"
+        android:src="@drawable/ic_money" />
+
+    <TextView
+        android:id="@+id/tv_gain"
+        android:layout_width="wrap_content"
+        android:layout_height="25dp"
+        android:gravity="center"
+        android:layout_centerInParent="true"
+        android:layout_marginLeft="5dp"
+        android:text="1000 钻石"
+        android:textColor="@color/game_poker_panel_gold_color"
+        android:textSize="14sp" />
+
+</RelativeLayout>

@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\fanwe_test\\debug\\drawable-ldpi-v4\\ucrop_ic_cross.png",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\fanweHybridLive\\build\\intermediates\\exploded-aar\\com.yalantis\\ucrop\\2.2.0\\res\\drawable-ldpi-v4\\ucrop_ic_cross.png"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\fanwe_test\\debug\\drawable-ldpi-v4\\ucrop_ic_done.png",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\fanweHybridLive\\build\\intermediates\\exploded-aar\\com.yalantis\\ucrop\\2.2.0\\res\\drawable-ldpi-v4\\ucrop_ic_done.png"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\fanwe_test\\debug\\drawable-ldpi-v4\\ucrop_ic_scale.png",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\fanweHybridLive\\build\\intermediates\\exploded-aar\\com.yalantis\\ucrop\\2.2.0\\res\\drawable-ldpi-v4\\ucrop_ic_scale.png"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\fanwe_test\\debug\\drawable-ldpi-v4\\ucrop_ic_crop.png",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\fanweHybridLive\\build\\intermediates\\exploded-aar\\com.yalantis\\ucrop\\2.2.0\\res\\drawable-ldpi-v4\\ucrop_ic_crop.png"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\fanwe_test\\debug\\drawable-ldpi-v4\\ucrop_ic_next.png",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\fanweHybridLive\\build\\intermediates\\exploded-aar\\com.yalantis\\ucrop\\2.2.0\\res\\drawable-ldpi-v4\\ucrop_ic_next.png"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\fanwe_test\\debug\\drawable-ldpi-v4\\ucrop_ic_reset.png",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\fanweHybridLive\\build\\intermediates\\exploded-aar\\com.yalantis\\ucrop\\2.2.0\\res\\drawable-ldpi-v4\\ucrop_ic_reset.png"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\fanwe_test\\debug\\drawable-ldpi-v4\\ucrop_ic_rotate.png",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\fanweHybridLive\\build\\intermediates\\exploded-aar\\com.yalantis\\ucrop\\2.2.0\\res\\drawable-ldpi-v4\\ucrop_ic_rotate.png"
+    },
+    {
+        "merged": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\fanweHybridLive\\build\\intermediates\\res\\merged\\fanwe_test\\debug\\drawable-ldpi-v4\\ucrop_ic_angle.png",
+        "source": "D:\\workspace\\taobao\\live\\tags\\release_2.3\\fanweHybridLive\\build\\intermediates\\exploded-aar\\com.yalantis\\ucrop\\2.2.0\\res\\drawable-ldpi-v4\\ucrop_ic_angle.png"
+    }
+]

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="game_poker_panel_area_textview_color">#0D2F2D</color>
+    <color name="game_poker_panel_bet_bot_bg">#80000000</color>
+    <color name="game_poker_panel_bet_top_bg">#60000000</color>
+    <color name="game_poker_panel_clock_number">#D34B25</color>
+    <color name="game_poker_panel_gold_bet_color">#FDECA8</color>
+    <color name="game_poker_panel_gold_color">#FEB102</color>
+    <color name="game_poker_panel_poker_bg">#60000000</color>
+    <string name="app_name">LibraryGames</string>
+</resources>
